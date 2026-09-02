@@ -1,0 +1,3077 @@
+{
+  "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
+  "decks": [
+    {
+      "id": "adventure-time-card-wars-19545214f5",
+      "kind": "deck",
+      "theme": "Adventure Time (Card Wars)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/00a7f3db0b"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/V1kYvS_Gt0in1zQS-qvfPQ"
+      },
+      "creator": {
+        "label": "Poke_Hybrids",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1dk98fy/card_warsthemed_back_card_wars_full_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Reyhan/Yoshimaru - Legends (Abzan)",
+      "aiUse": ""
+    },
+    {
+      "id": "adventure-time-finn-jake-0faa2da75d",
+      "kind": "deck",
+      "theme": "Adventure Time (Finn & Jake)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1ZC81zbzZHThYNDMlPR0GO6csTnKKsGLd"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://www.moxfield.com/decks/kmB3b-92wU-WaaUjPK1EGA"
+      },
+      "creator": {
+        "label": "thefirstjakerowley",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/18nu47w/comment/kediv0k/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Haldan/Pako - Adventures (Temur)",
+      "aiUse": ""
+    },
+    {
+      "id": "aliens-b2d41d5372",
+      "kind": "deck",
+      "theme": "Aliens",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1vEEmbu-EjKdV9v67WTExFsfrelNsEbuA"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "nightrain-spacebrain",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vq4i1t/full_edh_deck_aliens_they_mostly_come_at/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Sliver Gravemother - Sliver Typal (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "arcane-league-of-legends-silco-a95998c029",
+      "kind": "deck",
+      "theme": "Arcane (League of Legends, Silco)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/10LAS_3BlgVIjmuWw1RN5TDcK4AccMJvH"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/p2FZZDvV8E2pABH11Xs4Ww"
+      },
+      "creator": {
+        "label": "Haydensan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/x33kwm/updated_arcane_full_deck_show_spoilers/"
+      },
+      "notes": "BANNED CARD (Dockside), Drive adds 4 cards so remove 2x Island and 2x Mountain from decklist, Card Back, Tokens",
+      "commanderArchetype": "Baeloth/Crafter - Artifacts, Goad (Izzet)",
+      "aiUse": ""
+    },
+    {
+      "id": "arcane-league-of-legends-9fdedb1516",
+      "kind": "deck",
+      "theme": "Arcane (League of Legends)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/u/0/folders/1cCNzEhrWG05rBfQpyZSFMHOUU2CgPayw"
+      },
+      "decklist": {
+        "label": "Scryfall",
+        "url": "https://scryfall.com/@CharmQuark/decks/b4a4fee5-333e-416e-b62c-0b38654efbf5"
+      },
+      "creator": {
+        "label": "_CharmQuark_",
+        "url": "https://www.reddit.com/user/_CharmQuark_/comments/1iywx35/my_little_project_corner/"
+      },
+      "notes": "Card Back, Tokens, Bonus Cards",
+      "commanderArchetype": "Ezio Auditore - Assassin Typal (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "attack-on-titan-erin-ymir-2ac943a9b4",
+      "kind": "deck",
+      "theme": "Attack on Titan (Erin/Ymir)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/63af4ebae2"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/PMf0thObEkKpYpg7-5KUow"
+      },
+      "creator": {
+        "label": "Apcebo",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1mgyo0l/full_edh_deck_attack_on_titan_rumbling/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Azlask - Eldrazi Typal (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "attack-on-titan-ymir-cc9edc6d5a",
+      "kind": "deck",
+      "theme": "Attack on Titan (Ymir)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/11-EiiN9ntMRqzYXG_wDBaCfiLb8KUYkX"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/3Rre8rQRgU-fveRl3LoKVw"
+      },
+      "creator": {
+        "label": "Tortex Proxies",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/14h87yg/attack_on_titan_edh_final_showcase/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Esika - Giant Typal (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "avatar-the-last-airbender-3a338c12cb",
+      "kind": "deck",
+      "theme": "Avatar: The Last Airbender",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/f8def11cea"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/U2Yvfggkd0m5QV5ier5YnQ"
+      },
+      "creator": {
+        "label": "DiceEmporiumGaming",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1w0f1l3/avatar_aang_elemental_frame_edh_pack/"
+      },
+      "notes": "Spare cards in the main folder, currently missing Aang's Iceberg and Eerie Ultimatum",
+      "commanderArchetype": "Avatar Aang - Ally Typal, Element Bending (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "avatar-the-last-airbender-bb59e5f227",
+      "kind": "deck",
+      "theme": "Avatar: The Last Airbender",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/13rhBRrqMGnHTckGHHUdCM3zRCFar27UC"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/7205651/atla_omnath_locus_of_creation"
+      },
+      "creator": {
+        "label": "Seamonkey23",
+        "url": ""
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Omnath - Landfall (RGWU)",
+      "aiUse": ""
+    },
+    {
+      "id": "avatar-the-last-airbender-aang-a89f56fe42",
+      "kind": "deck",
+      "theme": "Avatar: The Last Airbender (Aang)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1qY9HbvIAulAzlRZcuaSk5vRrF-OP3pFU"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/N6qbKsDxA0qRIwpmEDKOpA"
+      },
+      "creator": {
+        "label": "Proxies by Smaug",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1h3lo1a/presenting_the_complete_aang_the_last_airbender/"
+      },
+      "notes": "",
+      "commanderArchetype": "Shu Yun - Spellslinger, Voltron (Jeksai)",
+      "aiUse": ""
+    },
+    {
+      "id": "backrooms-0889aa2750",
+      "kind": "deck",
+      "theme": "Backrooms",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1Iw-7Cax47G_o4bs-mxz-Hn6BULbaTBRZ?usp=drive_link"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "OOM-32",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vx26kn/complete_bakrooms_fully_themed_proxy_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Orvar - Clones, Spellslinger (Mono-U)",
+      "aiUse": ""
+    },
+    {
+      "id": "balatro-23106a4acd",
+      "kind": "deck",
+      "theme": "Balatro",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/decc8ce978"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/ovZcnHvnxUK7WxsKNtxLTg"
+      },
+      "creator": {
+        "label": "Poke_Hybrids",
+        "url": "https://www.reddit.com/r/magicproxies/comments/1fgkzsf/balatrothemed_full_deck_yusri_fortunes_flame/"
+      },
+      "notes": "Card Back",
+      "commanderArchetype": "Yusri - Clones, Coin Flips (Izzet)",
+      "aiUse": ""
+    },
+    {
+      "id": "batman-27a4cef335",
+      "kind": "deck",
+      "theme": "Batman",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1I4WTf20zaf1Xq9A_k3tVYQNrERrRotcr"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/KMaHGucp-0yfnCTGw5GfaQ"
+      },
+      "creator": {
+        "label": "Tortex Proxies",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/17yi05h/the_batman_deck_is_finished/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Greyfax - Clues (Esper)",
+      "aiUse": ""
+    },
+    {
+      "id": "berserk-guts-4d14ca87cf",
+      "kind": "deck",
+      "theme": "Berserk (Guts)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/u/0/folders/1vzEkHqeGerggWNj73ba7x9gAeBKB7c5p"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://www.moxfield.com/decks/obwFjvNw0ES2gYrNviM58Q"
+      },
+      "creator": {
+        "label": "cnixon/Nixon Proxies",
+        "url": ""
+      },
+      "notes": "Card Back",
+      "commanderArchetype": "Zurgo - Voltron (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "bionicle-5de136364f",
+      "kind": "deck",
+      "theme": "Bionicle",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1dIi7ed6gojyxYXDPE8qNTDAqucZV9rc5"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/j9bJH72AM0Sb_74cwwtBsg"
+      },
+      "creator": {
+        "label": "Call_Me_Kilo",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1pb39xb/in_a_time_before_time_lego_bionicle_ub_full_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Urtet - Myr Typal (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "bionicle-toa-7b136872c5",
+      "kind": "deck",
+      "theme": "Bionicle (Toa)",
+      "deckSource": {
+        "label": "Dropbox",
+        "url": "https://www.dropbox.com/scl/fo/79gbi152rdvou8ds7wqn9/AEjmUPiR47WK31jwthaNB08?rlkey=wz3op7ipma6pd4lfkkfnwq4h9&st=bhbocm4l&e=2&dl=0"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/FmTZkFLsike0Jqs8R24DhQ"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1kv3le3/defenders_of_mata_nui_a_full_toafocused_bionicle/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Aragorn - Legends, Tokens (RGWU)",
+      "aiUse": ""
+    },
+    {
+      "id": "blasphemous-6662b86178",
+      "kind": "deck",
+      "theme": "Blasphemous",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/f80674eba8"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/ypu5gdzfj0q5CDCPhREQEg"
+      },
+      "creator": {
+        "label": "MiauraArt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1pu37ag/new_blasphemous_deck/"
+      },
+      "notes": "",
+      "commanderArchetype": "Karlov - Lifegain (Orzhov)",
+      "aiUse": ""
+    },
+    {
+      "id": "bloodborne-hunter-942c17f7ba",
+      "kind": "deck",
+      "theme": "Bloodborne (Hunter)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/16KApTcRd9gJ7OpWisBwgofYsE_xeEELi"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/xFUo0OhHhEi29HrqV2OhPQ"
+      },
+      "creator": {
+        "label": "bankaiyo123",
+        "url": "https://www.reddit.com/r/magicTCG/comments/11nvmmy/bloodborne_commander_deck_150_custom_proxies/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Eloise - Aristocrats, Clues (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "bloodborne-paleblood-97b91168d6",
+      "kind": "deck",
+      "theme": "Bloodborne (Paleblood)",
+      "deckSource": {
+        "label": "Imgur",
+        "url": "https://imgur.com/a/bloodborne-edh-proxy-deck-umbris-fear-manifest-TwICZbK"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://www.moxfield.com/decks/xFUo0OhHhEi29HrqV2OhPQ"
+      },
+      "creator": {
+        "label": "zandaman",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/17o1z2q/bloodborne_reskin_full_proxy_edh_deck_for_umbris/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Umbris - Horror Typal (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "clair-obscur-expedition-33-8252000874",
+      "kind": "deck",
+      "theme": "Clair Obscur: Expedition 33",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1OK_5T2-p771DH1R4vyIa96zljT98Lpfg"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/AD-AsxvYykGabA3w-6IIjQ"
+      },
+      "creator": {
+        "label": "Pascii20",
+        "url": "https://www.reddit.com/r/magicproxies/comments/1n7s3d6/clair_obscur_commander_deck_big_update_almost/"
+      },
+      "notes": "",
+      "commanderArchetype": "Saskia - Legends, Midrange (BRGW)",
+      "aiUse": ""
+    },
+    {
+      "id": "control-e71ea73a41",
+      "kind": "deck",
+      "theme": "Control",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/af7fd61472"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/5Ar0YtXdC0eVMLNYmd1Hqg"
+      },
+      "creator": {
+        "label": "Executesubroutine",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ddcdx9/control_commander_deck_fully_done/"
+      },
+      "notes": "",
+      "commanderArchetype": "Mairsil - Combo, Control (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "crash-bandicoot-crash-cortex-f0ba1e0e89",
+      "kind": "deck",
+      "theme": "Crash Bandicoot (Crash & Cortex)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/14436bafcc"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/Mz4XGIIrVU2RJ_Io-smBNg"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1n0359g/crash_bandicoot_edh_deck_full_release/"
+      },
+      "notes": "",
+      "commanderArchetype": "Rashmi & Ragavan - Artifact Tokens (Temur)",
+      "aiUse": ""
+    },
+    {
+      "id": "cruelty-squad-937b730407",
+      "kind": "deck",
+      "theme": "Cruelty Squad",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1ipkmi7Xqq4k_Y952xDVZ1KFMZ9wYWJa5"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/mBZXdYsELk-K-FpIVsBE3Q"
+      },
+      "creator": {
+        "label": "MrPeril",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1rk26tz/edh_full_mtg_x_cruelty_squad_proxy_deck/"
+      },
+      "notes": "Missing Trading Post, replace with a sideboard card",
+      "commanderArchetype": "Mr. House - IP Theme (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "cyberpunk-2077-4000191bb1",
+      "kind": "deck",
+      "theme": "Cyberpunk 2077",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1yXzFZRKRwyzEM4sCDxRFxUwNDuFVbbjX"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/e-2qF7lvyECBVUKMivGbAg"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1v68iak/complete_cyberpunk_2077_cyberware_enhancements/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Cloud - Equipment, Voltron (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "cyberpunk-2077-a9dc6f4e9a",
+      "kind": "deck",
+      "theme": "Cyberpunk 2077",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1sfX6kfp43JX5ALJJ7DdlYzUcKItf2P5x"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/zn9A4oTL2UqMjP9NaBea5g"
+      },
+      "creator": {
+        "label": "pjohnson86",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1hm56el/cyberpunk_2077_edgerunners_edh_deck"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Ardenn/Rograkh - Voltron (Boros)",
+      "aiUse": ""
+    },
+    {
+      "id": "cyberpunk-2077-c622176bac",
+      "kind": "deck",
+      "theme": "Cyberpunk 2077",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1WUKg27Cdzk7zuD-aGGLlrv6cVR-PpvTi"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/t7ENP-vjVEyjkhDmP4Uu9g"
+      },
+      "creator": {
+        "label": "ImSatan_",
+        "url": "https://www.reddit.com/r/magicproxies/comments/1rin3r4/cyberpunk_2077_deck_correct_creature_types/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Ishai/Jeska - Stax (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "dark-souls-chosen-undead-a1904cef81",
+      "kind": "deck",
+      "theme": "Dark Souls (Chosen Undead)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1FJIDWORrDqToWMpPrpj-mEscLj9Ojqcm"
+      },
+      "decklist": {
+        "label": "Manabox",
+        "url": "https://manabox.app/decks/SrfEJy-wQ7u3oncFMqWeqg"
+      },
+      "creator": {
+        "label": "captainplanet52",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/16ygvsl/dark_souls_isshin_reskins/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Isshin - Aggro (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "darksiders-aca5814230",
+      "kind": "deck",
+      "theme": "Darksiders",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/4699c6c9fa"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/mdYqLuqQYEyHDuaZvA3yfA"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/Darksiders/comments/1dak06x/darksiders_x_mtg_full_deck_release/"
+      },
+      "notes": "",
+      "commanderArchetype": "Akiri/Silas Renn - Voltron (WUBR)",
+      "aiUse": ""
+    },
+    {
+      "id": "dc-comics-poison-ivy-87144ad1bc",
+      "kind": "deck",
+      "theme": "DC Comics (Poison Ivy)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1ILsXqxy96Oghkj-qUd0FV4huosi6aQo5"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/6625135/poison_ivy_is_ghave_guru_of_spores"
+      },
+      "creator": {
+        "label": "digiman619",
+        "url": ""
+      },
+      "notes": "",
+      "commanderArchetype": "Ghave - +1/+1 Counters, Aristocrats (Abzan)",
+      "aiUse": ""
+    },
+    {
+      "id": "dead-space-ed942b25b2",
+      "kind": "deck",
+      "theme": "Dead Space",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/8f4ede957e"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/fqbpiQsAdUSzvvCMPDg8pA"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1l02g0l/dead_space_full_edh_deck_release/"
+      },
+      "notes": "",
+      "commanderArchetype": "Enrika - Zombie Typal (Golgari)",
+      "aiUse": ""
+    },
+    {
+      "id": "death-note-a6e2044d48",
+      "kind": "deck",
+      "theme": "Death Note",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/50fe08610f"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/UH7Q6ThKlkGUOxxl0ZB33A"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1hpvfzh/death_note_full_deck_template_release/"
+      },
+      "notes": "",
+      "commanderArchetype": "Mathas - Aikido (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "despicable-me-bb69fca4e8",
+      "kind": "deck",
+      "theme": "Despicable Me",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/ab1cf63a80"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/nrdzAhyOM0qGIKunHj96DQ"
+      },
+      "creator": {
+        "label": "Southern_Ball3821",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vs6wnk/despicable_meminions_edh_deck_we_are_going_to/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Mole Man - Landfall (Mono-G)",
+      "aiUse": ""
+    },
+    {
+      "id": "destiny-2-villains-cb3809e127",
+      "kind": "deck",
+      "theme": "Destiny 2 (Villains)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/5aded79525"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/6slj_l7ANUi6WD07IKBNqA"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1rz4yhx/destiny_2_x_mtg_x_destiny_2/"
+      },
+      "notes": "",
+      "commanderArchetype": "Omnath - \"Evil\" Legends (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "devil-may-cry-5935fbacd1",
+      "kind": "deck",
+      "theme": "Devil May Cry",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/8b3d58dd8d"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/mIZ0-7IpLUuqkoWNUxRJ0Q"
+      },
+      "creator": {
+        "label": "MiauraArt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1v1plmc/devil_may_cry_deck_is_out_now/"
+      },
+      "notes": "",
+      "commanderArchetype": "Kefka - Discard (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "devil-may-cry-53dd94c104",
+      "kind": "deck",
+      "theme": "Devil May Cry",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1YbIE481oQR4_VxZBoYsXRH5mN_gbvYgz?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/-LnzmcgyIUGl2HDYRiCT-g"
+      },
+      "creator": {
+        "label": "SystemSCSnake",
+        "url": "https://www.reddit.com/r/magicproxies/comments/1ui1o3t/devil_may_cry_dante_themed_deck/"
+      },
+      "notes": "Rule 0 required for the commander, I recommend running Tana, the Bloodsower / Silas Renn, Seeker Adept as legal commanders",
+      "commanderArchetype": "Glint-Eye Nephilim (RULE 0!) - Voltron (UBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "diablo-8dacf13270",
+      "kind": "deck",
+      "theme": "Diablo",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1cZrRjxDeAU6KgCG8Q4RRHqfxG_CY53Rx?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/9qxTQ5tyeU6WfkedLToqng"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1w0oai9/complete_diablo_the_high_heavens_and_the_burning/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Kaalia - Angel & Demon Typal (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "diablo-7827f6e372",
+      "kind": "deck",
+      "theme": "Diablo",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/9b5b7b352e"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "Executesubroutine",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1592cu0/diablo_commander_deck_full_deck_with_google_drive/"
+      },
+      "notes": "",
+      "commanderArchetype": "Be'lakor - Demon Typal (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "disney-lilo-stitch-cfc5d75edb",
+      "kind": "deck",
+      "theme": "Disney (Lilo & Stitch)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/95608faba8"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/-zXOBY1MIkqCXURpuQ5M8g"
+      },
+      "creator": {
+        "label": "Southern_Ball3821",
+        "url": "https://www.reddit.com/r/liloandstitch/comments/1pccuvv/mtg_lilo_stitch_edh_deck_he_mele_no_lilo/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Pir/Toothy - +1+1 Counters (Simic)",
+      "aiUse": ""
+    },
+    {
+      "id": "disney-pixar-heroes-06afffba26",
+      "kind": "deck",
+      "theme": "Disney & Pixar (Heroes)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1RvDKSEPUFbKzYLe1UJA1WmIVx4f6k1Ul"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/6nVTShZ_ykWV9zwfzivJgg"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ulv3m0/complete_disneypixar_heroes_villains_captain/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Captain America - Hero Typal (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "disney-pixar-villains-556839c1c2",
+      "kind": "deck",
+      "theme": "Disney & Pixar (Villains)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1JCZcWhznJaXPxgUZjW_QCKtFV9Gjktjq"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/QuyeATnnF3umSUDtqE-mAA"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ulv3m0/complete_disneypixar_heroes_villains_captain/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Doctor Doom - Villain Typal (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "disney-princesses-f16c6879e1",
+      "kind": "deck",
+      "theme": "Disney Princesses",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/14cjmgLwKGk784Erf3mZOoZojBN0Yv81w"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/_cJs10bxpkOeeF_hNZUDTA"
+      },
+      "creator": {
+        "label": "JRMJay00",
+        "url": ""
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Kyler - Human Typal (Selesnya)",
+      "aiUse": "Yes"
+    },
+    {
+      "id": "dune-baron-harkonnen-d514991b10",
+      "kind": "deck",
+      "theme": "Dune (Baron Harkonnen)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1-brEJjHJRhiUKjQxt4YycEQVtTRBlb-U"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://www.archidekt.com/decks/7404813/baron_von_counters_final"
+      },
+      "creator": {
+        "label": "Historical_Hamster54",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1cm08ce/dune_deck_2_baron_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Marchesa - +1/+1 Counters (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "dune-house-atreides-111fc8a315",
+      "kind": "deck",
+      "theme": "Dune (House Atreides)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/601204524b"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/VAZPm7zDYUWJx16D6lL27A"
+      },
+      "creator": {
+        "label": "Apcebo",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1j1n0cu/dune_2_full_edh_decks_house_harkonnen_vs_house/"
+      },
+      "notes": "",
+      "commanderArchetype": "Hazezon - Deserts, Landfall (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "dune-house-harkonnen-d55d8178e2",
+      "kind": "deck",
+      "theme": "Dune (House Harkonnen)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/601204524b"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/UmgBAFYQXEyXmVXhY_X29g"
+      },
+      "creator": {
+        "label": "Apcebo",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1j1n0cu/dune_2_full_edh_decks_house_harkonnen_vs_house/"
+      },
+      "notes": "",
+      "commanderArchetype": "Queza - Lifegain, Wheels (Esper)",
+      "aiUse": ""
+    },
+    {
+      "id": "dune-muad-dib-d583a5345d",
+      "kind": "deck",
+      "theme": "Dune (Muad'Dib)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1IofMWzXTAG0FskxMHaFtI5nTQ7Rwx1Kh"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "MetaLumpenproletaria",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1aiilgl/my_take_on_a_dune_commander_deck_with_saskia_at/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Saskia - \"Dune themed\" (BRGW)",
+      "aiUse": ""
+    },
+    {
+      "id": "elden-ring-b46e29ec2a",
+      "kind": "deck",
+      "theme": "Elden Ring",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/3354e77fed"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/WM-_PLOKa0i1FmRVmoi7CQ"
+      },
+      "creator": {
+        "label": "MiauraArt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1oluu16/elden_ring_edh_deck_sisay_weatherlight_captain/"
+      },
+      "notes": "",
+      "commanderArchetype": "Sisay - Legends (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "elder-scrolls-skyrim-daedric-princes-3abdd59fa6",
+      "kind": "deck",
+      "theme": "Elder Scrolls (Skyrim - Daedric Princes)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/8fc6e138e5"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/kw7gK9HW5USvg5Dy0_uFoA"
+      },
+      "creator": {
+        "label": "Relic Alters",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vb11u7/skyrimelder_scrolls_full_proxy_deck/"
+      },
+      "notes": "",
+      "commanderArchetype": "Child of Alara - God Typal (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "fallout-1cc2dd7c2a",
+      "kind": "deck",
+      "theme": "Fallout",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/d49799798d"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/XWmp8-FC-Eaw9IBWnqh2sg"
+      },
+      "creator": {
+        "label": "Poke_Hybrids",
+        "url": "https://www.reddit.com/r/magicproxies/comments/1d1tt46/full_fallout_proxy_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "The Gitrog - Landfall (Golgari)",
+      "aiUse": ""
+    },
+    {
+      "id": "final-fantasy-dc115b27c4",
+      "kind": "deck",
+      "theme": "Final Fantasy",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1ZDIhtdjhc27hCCxfVlNwrPpnbYJ7N0Kp"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/9bLol5GOmEO0UM8cQGMPtA"
+      },
+      "creator": {
+        "label": "Speedster2814",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1rcmjga/full_final_fantasy_edhcommander_deck_lightning/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Professor Hojo - Voltron (Mono-G)",
+      "aiUse": ""
+    },
+    {
+      "id": "final-fantasy-monsters-w-lann-reynn-f842989c49",
+      "kind": "deck",
+      "theme": "Final Fantasy (Monsters w/Lann/Reynn)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1pvXEBtxyUZ-NfqyzCEMW40oASbOmQpcq"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/at6aaQfbDUOW-YYjUeBnXQ"
+      },
+      "creator": {
+        "label": "Speedster2814",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1sgp7np/full_final_fantasy_edhcommander_deck_henzie/"
+      },
+      "notes": "Card Back, Tokens, Alternate Commander Arts",
+      "commanderArchetype": "Henzie - Goodstuff, Reanimator (Jund)",
+      "aiUse": ""
+    },
+    {
+      "id": "final-fantasy-monsters-w-lunafreya-0b93a387ab",
+      "kind": "deck",
+      "theme": "Final Fantasy (Monsters w/Lunafreya)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/10W0rH38Su9s1Bm1zsNPTYadMXG_EejBA"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/O3m2TrjXcUyCHmGy059Paw"
+      },
+      "creator": {
+        "label": "Speedster2814",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1th28rh/full_final_fantasy_edhcommander_deck_helga/"
+      },
+      "notes": "Card Back, Tokens, Alternate Non-Creature Frames",
+      "commanderArchetype": "Helga - Combo, Creaturestorm (Bant)",
+      "aiUse": ""
+    },
+    {
+      "id": "final-fantasy-tifa-20c13f76f2",
+      "kind": "deck",
+      "theme": "Final Fantasy (Tifa)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1rMF-y5LjKHDc6xrmc4y-sprVngMPhwsJ"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/bmhefYg7f0WE6R_d59YxPw"
+      },
+      "creator": {
+        "label": "Speedster2814",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1rbw57z/full_final_fantasy_edhcommander_deck_tifa_martial/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Tifa - Extra Combats (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "final-fantasy-x-precon-remastered-e5a5604852",
+      "kind": "deck",
+      "theme": "Final Fantasy X (Precon Remastered)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/0b004d8089"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/lrrdWuKxM0KM9uE9-x4LJw"
+      },
+      "creator": {
+        "label": "Sheilindra",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1w4mg2f/sheilindra_presents_counter_blitz_remastered_v341/"
+      },
+      "notes": "Includes the full precon + 46 upgrades",
+      "commanderArchetype": "Tidus - +1/+1 Counters (Bant)",
+      "aiUse": ""
+    },
+    {
+      "id": "fire-emblem-engage-220a13b368",
+      "kind": "deck",
+      "theme": "Fire Emblem Engage",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1u0af1i/fire_emblem_engage_shrine_tribal_enchantment_deck/"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/G3llBiElLUyaQIo7fbqv1g"
+      },
+      "creator": {
+        "label": "Southern_Ball3821",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1u0af1i/fire_emblem_engage_shrine_tribal_enchantment_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Go-Shintai - Shrines (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "full-metal-alchemist-0c3ba00d65",
+      "kind": "deck",
+      "theme": "Full Metal Alchemist",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1IcfSLgUeygp1v2lxhkeeLOGykbIhRk-D"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/9972941/elric_brothers"
+      },
+      "creator": {
+        "label": "Ensaga",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1hyijd6/fullmetal_alchemist_full_deck_release/"
+      },
+      "notes": "Card Back",
+      "commanderArchetype": "Ludevic/Silas - Artifacts (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "full-metal-alchemist-88773c1790",
+      "kind": "deck",
+      "theme": "Full Metal Alchemist",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1KGEeok_7RO6GV5jXqYo3PDsvW1DtqtWq"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "Lil-ly",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ix4yip/fullmetal_alchemist_edh_deck_with_ed_gnostro/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Gnostro - Spellslinger (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "futurama-zapp-brannigan-61b4099be8",
+      "kind": "deck",
+      "theme": "Futurama (Zapp Brannigan)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1OBesFl_TvabfHDDfu5NNjw58i_J_yYyu"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "Tortex Proxies",
+        "url": ""
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Rex Nebula - Vehicles (Boros)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-aegon-11651729d2",
+      "kind": "deck",
+      "theme": "Game of Thrones (Aegon)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/post/A-Game-of-Thrones-The-Long-Night-FULL-EDH-DECK-P5P3175W4P"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/R7_G4guUHEGRKgzM-E4u3A"
+      },
+      "creator": {
+        "label": "Apbeco",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1h9hp91/a_game_of_thrones_the_long_night_full_edh_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Sidisi - Zombie Typal, Reanimator (Sultai)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-aegon-dorne-bf373acae3",
+      "kind": "deck",
+      "theme": "Game of Thrones (Aegon & Dorne)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1Ki1GQoMTF89pbo6jtI_4rCpLQnKDnRp4?usp=drive_link"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/wk4c42dE_kW_vFG0OkHj0w"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1uhv7bd/asoiafgot_complete_edh_deck_aegon_targaryen_dorne/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Gwen Stacy - Cast From Exile (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-arya-1eb4fb1b11",
+      "kind": "deck",
+      "theme": "Game of Thrones (Arya)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/post/A-Game-of-Thrones-Valar-Morghulis-FULL-EDH-DECK-H2H317ZNR6"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/Asz3G1Dw6kqf2mvZ_xJm-w"
+      },
+      "creator": {
+        "label": "Apbeco",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1hmmg3h/a_game_of_thrones_valar_morghulis_full_edh_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Phage - Voltron(ish) (Mono-B)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-cersei-a8494f1b9e",
+      "kind": "deck",
+      "theme": "Game of Thrones (Cersei)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/post/A-Game-of-Thrones-A-Lannister-always-pays-his-Deb-U7U116EMQ4"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/n5VudpA0wEudZ_QMdp3o2Q"
+      },
+      "creator": {
+        "label": "Apbeco",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1gwoso3/a_game_of_thrones_a_lannister_always_pays_his/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Queen Marchesa - Aikido (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-daenerys-c50f3ac5d3",
+      "kind": "deck",
+      "theme": "Game of Thrones (Daenerys)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/post/A-Game-of-Thrones-The-blood-of-old-Valyria-FULL-E1E716SIS3"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/LjdUr0iwk0WzULLN5-WH9g"
+      },
+      "creator": {
+        "label": "Apbeco",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1h3b40m/a_game_of_thrones_the_blood_of_old_valyria_full/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Zurgo & Ojutai - Dragon Typal (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-daenerys-a367ea01a8",
+      "kind": "deck",
+      "theme": "Game of Thrones (Daenerys)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1GfFIHWdXL8Qb8L8Tw8yfDivt9Pd5ILuM?usp=sharing"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/17655487/copy_of_23_mardu_dracaris_kaalia_dragons"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1qh5714/asoiaf_edh_deck_daenerys_targaryen_mother_of/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Kaalia - Dragon Typal (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-house-lannister-e5752d9376",
+      "kind": "deck",
+      "theme": "Game of Thrones (House Lannister)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1bgiMyM1gNs0aBe7Wa34SX7-iEPK5rsBQ?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/nsM74XiHb0KkteoFqeIMoQ"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1tsu1lp/asoiafgot_complete_edh_deck_house_lannister/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Vihaan - Aristocrats, Treasure (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-house-tyrell-39a9728929",
+      "kind": "deck",
+      "theme": "Game of Thrones (House Tyrell)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1xbNeYJyOW7Ddj6Jhg1UwCNw8AJuQQH5T"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/7XaoAA0aCUSKL-LFgfyX6g"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vwasjo/asoiafgot_edh_deck_house_tyrell/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Merry/Pippin - Food, Tokens (Abzan)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-jon-snow-4a515d18d5",
+      "kind": "deck",
+      "theme": "Game of Thrones (Jon Snow)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/u/0/folders/1Th5ZHjZ6FOv2SRb9CZ7QbIuyJJBGj8ax"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/17007062/jared_targaryen_true_heir"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": ""
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Jared - Aikido, Monarch (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-littlefinger-0a6d6ed402",
+      "kind": "deck",
+      "theme": "Game of Thrones (Littlefinger)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1ggw3Q1om-HV-c7ZrHz_wLOcbS_34gykL?usp=drive_link"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/7Ml4GfyWgkOJvSiW8czQqg"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1sw6v9t/asoiafgot_complete_edh_deck_chaos_is_a_ladder/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Marchesa - Crime, Goad (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "game-of-thrones-house-greyjoy-dc0e0c0f92",
+      "kind": "deck",
+      "theme": "Game of Thrones (House Greyjoy)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/16lv_NcHB-uD7fQ6DPs_i7ReXh9DVX-rZ"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/fTfNNvtetUeTxJPIXn0MYQ"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1v66hri/asoiafgot_edh_deck_house_greyjoy/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Edward Kenway - Pirate Typal (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "hades-melino-cd16b820ec",
+      "kind": "deck",
+      "theme": "Hades (Melinoë)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/fcb90139b8"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/Le4AzKDkzE6UqGxFZuwekw"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1obx8em/hades_deck_v11_full_deck_update/"
+      },
+      "notes": "",
+      "commanderArchetype": "Marina Vendrell - Rooms (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "happy-tree-friends-2731ae12ef",
+      "kind": "deck",
+      "theme": "Happy Tree Friends",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1xTZFnM9ujK2XpwLzJwAhYM_URfJp7n3N"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/7716884/happy_tree_friends"
+      },
+      "creator": {
+        "label": "Gainsey88",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1cvnbin/husband_asked_me_to_create_a_casual_deck_and_of/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Phelddagrif - Group Hug (Bant)",
+      "aiUse": ""
+    },
+    {
+      "id": "hi-fi-rush-3850f1c66f",
+      "kind": "deck",
+      "theme": "Hi-Fi Rush",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1AW35Vv0OUFF54uDM_c6ad_RD0O3pLzWW?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/iMbOFZFKpkq2-aGfS24ruQ"
+      },
+      "creator": {
+        "label": "wassada12",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vxe709/full_stylized_hifi_rush_deck_saheeli_radiant/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Saheeli - Clones, Energy (Temur)",
+      "aiUse": ""
+    },
+    {
+      "id": "hollow-knight-hornet-78d786b325",
+      "kind": "deck",
+      "theme": "Hollow Knight (Hornet)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/c982797f2b"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/silksong/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1oiij1y/complete_hollow_knight_silksong_edh_deck_knights/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Sidar Jabari - Knights (Esper)",
+      "aiUse": ""
+    },
+    {
+      "id": "homestuck-doc-scratch-a821ed2ceb",
+      "kind": "deck",
+      "theme": "Homestuck (Doc Scratch)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1_fH9ZoPyGQjnJP9CZQmakPiGCpeSDuJ1"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/14781938/homestuck"
+      },
+      "creator": {
+        "label": "digiman619",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/16cm3eg/universes_beyond_edh_deck_homestuck_edition/"
+      },
+      "notes": "",
+      "commanderArchetype": "Muldrotha - Landfall, Reanimator (Sultai)",
+      "aiUse": ""
+    },
+    {
+      "id": "horizon-aloy-9fc2502e56",
+      "kind": "deck",
+      "theme": "Horizon (Aloy)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1AcSv8sjy_A97VGLtqiTQXV-UGmSw8r8C"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/QdZ8SvyBKEiedtaEwR8csw"
+      },
+      "creator": {
+        "label": "go_not_guez (To Confirm)",
+        "url": ""
+      },
+      "notes": "Card Back",
+      "commanderArchetype": "Aloy - Artifact Creatures (Simic)",
+      "aiUse": ""
+    },
+    {
+      "id": "jojo-s-bizarre-adventure-steel-ball-run-2402f9fc7a",
+      "kind": "deck",
+      "theme": "JoJo's Bizarre Adventure (Steel Ball Run)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/c99f4c3436"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Executesubroutine",
+        "url": ""
+      },
+      "notes": "",
+      "commanderArchetype": "Rocco - Combo, Toolbox (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "jojo-s-bizarre-adventure-stone-ocean-a9088a508f",
+      "kind": "deck",
+      "theme": "JoJo's Bizarre Adventure (Stone Ocean)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/b220461e3f"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Executesubroutine",
+        "url": ""
+      },
+      "notes": "",
+      "commanderArchetype": "Uril - Enchantments, Voltron (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "k-pop-demon-hunters-huntr-x-8a224c0f93",
+      "kind": "deck",
+      "theme": "K-Pop Demon Hunters (HUNTR/X)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/6e8f9f6038"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/huntrx/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1rdhrhk/complete_kpop_demon_hunters_edh_deck_voices_of/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Lyse Hext - Spellslinger, Voltron (Azorius)",
+      "aiUse": ""
+    },
+    {
+      "id": "kakegurui-yumeko-kirari-7b205b9ad0",
+      "kind": "deck",
+      "theme": "Kakegurui (Yumeko/Kirari)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/67c59f6c54"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/fwkHcxurFU2zBe-V3RC-OQ"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1te3oqx/kakegurui_chaos_full_deck_release/"
+      },
+      "notes": "",
+      "commanderArchetype": "Okaun/Zndrsplt - Coin Flips, Chaos (Izzet)",
+      "aiUse": ""
+    },
+    {
+      "id": "kingdom-hearts-sora-ddf243ef28",
+      "kind": "deck",
+      "theme": "Kingdom Hearts (Sora)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/84edb7e203"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/27-08-25-hearts/"
+      },
+      "creator": {
+        "label": "Southern_Ball3821",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1oe6g27/first_try_making_a_deck_using_card_conjurergimp/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Narset - Voltron (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "league-of-legends-lux-star-guardians-745a5def63",
+      "kind": "deck",
+      "theme": "League of Legends (Lux/Star Guardians)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1g2WL28BRIf5D9r-ST0qrKkzU0bv-0a99"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://www.moxfield.com/decks/pQaA9U96-Ey9UpMEdUa3YQ"
+      },
+      "creator": {
+        "label": "Bankaiyo123",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/yovluj/star_guardian_league_of_legends_commander_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Jodah - Legends (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "league-of-legends-runeterra-gangplank-9afad77c02",
+      "kind": "deck",
+      "theme": "League of Legends (Runeterra - Gangplank)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/7fab68aa89"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/13391281/gangplank_reaver_king"
+      },
+      "creator": {
+        "label": "Moggy_",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1kvw81j/runeterra_commander_proxy_deck_gangplank/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Immard - Midrange, Proliferate (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "loop-hero-50f9475d74",
+      "kind": "deck",
+      "theme": "Loop Hero",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/af96213663"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/jiNmRkZ7gEWNi5UPAowsuA"
+      },
+      "creator": {
+        "label": "MiauraArt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1o38fi7/sharing_my_loop_herothemed_edh_deck_wilhelt_the/"
+      },
+      "notes": "",
+      "commanderArchetype": "Wilhelt - Aristocrats, Zombie Typal (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "lovecraft-mythos-king-in-yellow-e142ff8681",
+      "kind": "deck",
+      "theme": "Lovecraft Mythos (King in Yellow)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1R7G80oxlX5W4jVR83TzG5tIpNg1TOSwt"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "Tortex Proxies",
+        "url": ""
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Nihiloor - Horror Typal (Esper)",
+      "aiUse": ""
+    },
+    {
+      "id": "marvel-galactus-54b5bc4dbe",
+      "kind": "deck",
+      "theme": "Marvel (Galactus)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/19t_DT6GsgMLUjYejAT1SBiA5jajl-Ql1"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/NPuJ39TxKkWhv5ixwg-FZA"
+      },
+      "creator": {
+        "label": "Poke_Hybrids",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1kudw23/marvelthemed_full_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Ygra - Aristocrats, Food (Golgari)",
+      "aiUse": ""
+    },
+    {
+      "id": "marvel-wolverine-3d3fb5f020",
+      "kind": "deck",
+      "theme": "Marvel (Wolverine)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1mAmIvhKk8OhFokLvpD_JOb-dOBlkwinM"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/9719042/wolverine_best_there_is"
+      },
+      "creator": {
+        "label": "Shebazz",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1jdqll1/wolverine_best_there_is_full_edh_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Wolverine - Voltron (Gruul)",
+      "aiUse": ""
+    },
+    {
+      "id": "marvel-x-men-ff20e2b514",
+      "kind": "deck",
+      "theme": "Marvel (X-Men)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/c51bc98147"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/the-first-krakoan-age/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ntndcp/complete_xmen_edh_deck_the_first_krakoan_age/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Havi - Legends (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "mass-effect-reapers-cd03078739",
+      "kind": "deck",
+      "theme": "Mass Effect (Reapers)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1U7mTLnUqCrQ_0QNUDgFpmdRsRGKYaV-M"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/Jo0sgg1yg0idFj8JNPgYLQ"
+      },
+      "creator": {
+        "label": "ReinetteHawke",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1b18b2i/mass_effect_edh_deck_see_comment_for_links/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Locust God - Wheels (Izzet)",
+      "aiUse": ""
+    },
+    {
+      "id": "metroid-dark-samus-b4a5ceb958",
+      "kind": "deck",
+      "theme": "Metroid (Dark Samus)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1--yuNwnUtYBcKQpGqKz-wn7qK-nKdGP_"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/lBxzse4hNUOXM8Y1FvFnYA"
+      },
+      "creator": {
+        "label": "Genobyl",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1b9h132/metroid_commander_altered_deck_captain_nghathrod/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "N'ghathrod - Horror Typal, Mill (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "metroid-dark-samus-f6425afe0b",
+      "kind": "deck",
+      "theme": "Metroid (Dark Samus)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1xdaagCal7NyRfdAoMW8EFtL947_Ty9gK"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/6864210/etrata_corrupting_influence"
+      },
+      "creator": {
+        "label": "Arastelion",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1cbtp32/completed_metroid_themed_deck_etrata_deadly/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Etrata - Face Down (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "metroid-samus-3b64003043",
+      "kind": "deck",
+      "theme": "Metroid (Samus)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/12Q1fNluJJOflTu4cyJvaqIji6mStCqbk"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/ozHSULTAPkaYaYioUadi8g"
+      },
+      "creator": {
+        "label": "batman_77",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1okmsoy/metroid_ub_deck_reskin_complete_100card_cloud/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Cloud - Equipment (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "minecraft-a20a98d210",
+      "kind": "deck",
+      "theme": "Minecraft",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/ac1c90d231"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/pOP0XBmZ0ky50opQJJkjCw"
+      },
+      "creator": {
+        "label": "Relic Alters",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1srpht5/finally_completed_my_minecraft_x_mtg_commander/"
+      },
+      "notes": "Spare Card: Skeleton Archer",
+      "commanderArchetype": "Wandering Minstrel - Landfall, IP-themed (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "my-hero-academia-a49849259d",
+      "kind": "deck",
+      "theme": "My Hero Academia",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1q4wuGV8LUCa2M5n3e8yweXVUXmh0pePF"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/11296649/my_hero_deck"
+      },
+      "creator": {
+        "label": "Ensaga",
+        "url": ""
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Aragorn - Legends, Tokens (RGWU)",
+      "aiUse": ""
+    },
+    {
+      "id": "naruto-fafa442cc3",
+      "kind": "deck",
+      "theme": "Naruto",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/16NmrD6SVQ2i22_gHy0cEhr619wTzZJ6n"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/AWWyl68CJEGpdcDv3DXmbw"
+      },
+      "creator": {
+        "label": "MeowMix883",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1sx25x8/some_favorites_from_my_narutoyuriko_deck_deck/"
+      },
+      "notes": "Deck contains 105 cards, Card Back, Tokens",
+      "commanderArchetype": "Yuriko - Ninja Typal (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "neon-genesis-evangelion-6dec271951",
+      "kind": "deck",
+      "theme": "Neon Genesis Evangelion",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1drv6CIgQ-6b0hEirxKSyHtj0p1mR_pYi"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/eEPgddXQ3UC8sYJU9hzfww"
+      },
+      "creator": {
+        "label": "Apcebo",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1d3q2ol/revamped_full_edh_deck_neon_genesis_engine/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Shorikai - Artifacts, Vehicles (Azorius)",
+      "aiUse": ""
+    },
+    {
+      "id": "nier-e53d8bdc8e",
+      "kind": "deck",
+      "theme": "Nier",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/625667a9a7"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/weight-of-the-world-1/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vfan84/complete_nier_edh_deck_weight_of_the_world/"
+      },
+      "notes": "Card Back, Tokens, Alt Art Options",
+      "commanderArchetype": "The Vision - Artifacts, Voltron (Colourless)",
+      "aiUse": ""
+    },
+    {
+      "id": "no-man-s-sky-c38e4e4d31",
+      "kind": "deck",
+      "theme": "No Man's Sky",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/u/0/folders/1X1_ZL9vIJRppZTJnSVERatER6ImxYXBO"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://www.moxfield.com/decks/O0G2eKFerkCR6sf1FDO-2A"
+      },
+      "creator": {
+        "label": "Okamihunter59",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1b11l3m/finished_a_nms_themed_deck_for_a_friend/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Gale/Archaeologist - Storm (Izzet)",
+      "aiUse": ""
+    },
+    {
+      "id": "one-piece-d757d6b5ea",
+      "kind": "deck",
+      "theme": "One Piece",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1vISeKV6BcaSyZW-VY4BdEDieRoFhQEhy"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/4D6Ea7YQJUi6ntz4wTbTBg"
+      },
+      "creator": {
+        "label": "KapS37",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1uz6ztm/one_piece_proxy_deck_jodah_complete/"
+      },
+      "notes": "Drive contains additional card options, use Decklist for OG build, Card Back, Tokens",
+      "commanderArchetype": "Jodah - Legends (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "one-piece-ce8c965dac",
+      "kind": "deck",
+      "theme": "One Piece",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1a2pK97y_dkoCyFyTU1Yv5vDFs-seP6gb"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "neurotic_code",
+        "url": ""
+      },
+      "notes": "",
+      "commanderArchetype": "Beckett Brass - Pirate Typal (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "outer-wilds-d355be4b45",
+      "kind": "deck",
+      "theme": "Outer Wilds",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/6318e53796"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/19714041/outer_wilds"
+      },
+      "creator": {
+        "label": "duccers",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1tynxdt/outer_wilds_spoilers_full_outer_wilds_edh_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Infinite Guideline - Multicolor (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "over-the-garden-wall-wirt-greg-ca496e5752",
+      "kind": "deck",
+      "theme": "Over the Garden Wall (Wirt/Greg)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1TXLRbPgTG1aC8ydnOmOA2zQ9vzy58G46"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://www.moxfield.com/decks/nKeJPgQr_Umwhl2xgD_O_Q"
+      },
+      "creator": {
+        "label": "Humblerbee",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1dy68re/over_the_garden_wall_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Frodo/Sam - Food, Primal Surge (Abzan)",
+      "aiUse": ""
+    },
+    {
+      "id": "persona-3-4-and-5-67358d7a74",
+      "kind": "deck",
+      "theme": "Persona (3, 4, and 5)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1XDqdlJKTRFs1DzwIDTv81vLK1wp50UAd"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/16369310/life_will_change"
+      },
+      "creator": {
+        "label": "blightednyssqueentabitha",
+        "url": ""
+      },
+      "notes": "Spare Card: Sage of Fables",
+      "commanderArchetype": "Marchesa - +1/+1 Counters, Theft (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "persona-4-880ac5e66d",
+      "kind": "deck",
+      "theme": "Persona 4",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1PPCxPcCeC-LrqWYj9iI6YYeJc6s4XMH1"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/hWPBzBkJDE-xnIYmg_-5yQ"
+      },
+      "creator": {
+        "label": "wassada12",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vk3zzj/full_persona_4_edh_dungeonparty_deck_with_25/"
+      },
+      "notes": "Deck requires 2x each Basic Land, Tokens",
+      "commanderArchetype": "Tazri - Dungeons, Party (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "persona-5-joker-ed7321b4c3",
+      "kind": "deck",
+      "theme": "Persona 5 (Joker)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1hequllTfLdEKxUJM70hEd6REdJUASJEX"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "grumpletonflask",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1hkwb1l/persona_5_commander_deck_prosper_tomebound/"
+      },
+      "notes": "Card Back",
+      "commanderArchetype": "Prosper - Cast From Exile, Treasure (Rakdos)",
+      "aiUse": ""
+    },
+    {
+      "id": "pixel-art-63a3b37852",
+      "kind": "deck",
+      "theme": "Pixel Art",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/53c13f324d"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/3EP8AOAPdUmY1RUAzzPVCg"
+      },
+      "creator": {
+        "label": "No-Accident-3092",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1kjn2q1/pixeldragon_full_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Ur-Dragon - Dragon Typal (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "pok-mon-cynthia-aff7467d7e",
+      "kind": "deck",
+      "theme": "Pokémon (Cynthia)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/7a845f57f1"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": ""
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://moxfield.com/decks/Auvnoh9DlkGizIvKGj3WdA"
+      },
+      "notes": "",
+      "commanderArchetype": "Sisay - Legends (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "pok-mon-pok-mon-breeder-6ac2766e4c",
+      "kind": "deck",
+      "theme": "Pokémon (Pokémon Breeder)",
+      "deckSource": {
+        "label": "Imgur",
+        "url": "https://imgur.com/gallery/pokemon-proxy-mtg-11VnWgu"
+      },
+      "decklist": {
+        "label": "MTG Goldfish",
+        "url": "https://www.mtggoldfish.com/deck/6363153"
+      },
+      "creator": {
+        "label": "Poke_Hybrids",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ck1fqp/pokemonthemed_mtg_deck/"
+      },
+      "notes": "Pokémon TCG Borders, Tokens",
+      "commanderArchetype": "Atla Palani - Dinosaur Typal (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "power-rangers-ea6bb878c1",
+      "kind": "deck",
+      "theme": "Power Rangers",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1yo8gGPBMcgBOvhl58Q0yL0bGfOuDB4aU"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/5543227/c_mighty_morphin_sisay_budget_friendly_version"
+      },
+      "creator": {
+        "label": "digiman619",
+        "url": ""
+      },
+      "notes": "",
+      "commanderArchetype": "Sisay - Legends (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "power-rangers-tommy-8c4dc24a02",
+      "kind": "deck",
+      "theme": "Power Rangers (Tommy)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1niE0gAJCn-8KK673Hv1Pdf4a2FRQfmV-"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/5uDftCcMU0qi_Cj1A3bnqQ"
+      },
+      "creator": {
+        "label": "crobledopr",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1clgfbg/power_rangers_deck_now_on_mpcfill/"
+      },
+      "notes": "BANNED CARD (Dockside), Tokens",
+      "commanderArchetype": "Sisay - cEDH (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "re-zero-4680cff437",
+      "kind": "deck",
+      "theme": "Re:Zero",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1DhrRQgRK-YglWb7rsNvP6XAzu93Mq91b"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/OdRwP6vxb0uEgOxRDTRZDQ"
+      },
+      "creator": {
+        "label": "MyRobloxUsername69",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vk662m/rezero_is_here/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Me, the Immortal - +1/+1 Counters (Temur)",
+      "aiUse": ""
+    },
+    {
+      "id": "scooby-doo-shaggy-scooby-f8169c5dd5",
+      "kind": "deck",
+      "theme": "Scooby Doo (Shaggy/Scooby)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1QPyd6Bz5tKHB79_HsYiN0Y5SRS5UrfUg"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/6542207/samy_et_scooby_"
+      },
+      "creator": {
+        "label": "Initial-Ad107",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1b46sgt/complete_edh_proxy_deck_scoobydoo_need_reviews/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Sophia - Food, Dog Typal (Bant)",
+      "aiUse": ""
+    },
+    {
+      "id": "sekiro-shadows-die-twice-f6ad4c7295",
+      "kind": "deck",
+      "theme": "Sekiro: Shadows Die Twice",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1NU8BQk74-w_hzPY-QSscWidmv99GBvZs"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/lXbwDptJaUquC6GcodYbWA"
+      },
+      "creator": {
+        "label": "NotQuiteSolidSnake",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1sft0c5/edh_full_sekiro_shadows_die_twice_deck_sekiro/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Tetsuo - Voltron (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "shadow-of-the-colossus-bd2b37ddbb",
+      "kind": "deck",
+      "theme": "Shadow of the Colossus",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/2f11dbcfc8"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/43_hjYwK7UKW7bmLtR8vvQ"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1qlu3h0/shadow_of_the_colossus_full_deck_release/"
+      },
+      "notes": "",
+      "commanderArchetype": "Wandering Minstrel - Landfall (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "simpsons-steamed-hams-76f48c3d28",
+      "kind": "deck",
+      "theme": "Simpsons (Steamed Hams)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1b-7fFFZ6seXvyvAFEe7YLBA9tchRZptm"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/2RW0hpJM5kC8HByDIjQlmQ"
+      },
+      "creator": {
+        "label": "asiansteev",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1umv861/comment/ovmzx4l/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Rocco - Cast From Exile, Food (Naya)",
+      "aiUse": ""
+    },
+    {
+      "id": "simpsons-who-shot-mr-burns-5c8a9a2541",
+      "kind": "deck",
+      "theme": "Simpsons (Who Shot Mr. Burns?)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1b-7fFFZ6seXvyvAFEe7YLBA9tchRZptm"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/BCzFis7ciUmHr6ayvbdNCA"
+      },
+      "creator": {
+        "label": "asiansteev",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1umv861/comment/ovmzx4l/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Hargilde/Wernog - Blink/Flicker, Clues (Esper)",
+      "aiUse": ""
+    },
+    {
+      "id": "slime-rancher-b077e8a940",
+      "kind": "deck",
+      "theme": "Slime Rancher",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/e023bc58a7"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/F_4s-k6BuEaJaUvYaL_s6A"
+      },
+      "creator": {
+        "label": "MiauraArt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ntmt3h/slime_rancher_deck_is_ready/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Aeve - Ooze Typal (Mono-G)",
+      "aiUse": ""
+    },
+    {
+      "id": "solo-leveling-ce5a55d6cb",
+      "kind": "deck",
+      "theme": "Solo Leveling",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1SKOsmKIGJzqxWAK-DoPqdYB0d4Rz387t"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/N9mfAYujSXahlF_jpn8Ofw"
+      },
+      "creator": {
+        "label": "whyzozerious",
+        "url": "https://www.reddit.com/r/magicproxies/comments/1vkbdas/solo_leveling_complete_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "The Scarab God - Zombie Typal (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "sonic-the-hedgehog-dr-eggman-08974904f4",
+      "kind": "deck",
+      "theme": "Sonic the Hedgehog (Dr. Eggman)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/3ca4715216"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/eggman-empire/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ukvwmt/complete_dr_eggman_edh_deck_the_eggman_empire/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Dr. Eggman - Constructs (Grixis)",
+      "aiUse": ""
+    },
+    {
+      "id": "sonic-the-hedgehog-tails-4a447bc001",
+      "kind": "deck",
+      "theme": "Sonic the Hedgehog (Tails)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1jCztXcyxho6c0-8Q9IPEhSnnGoXzEDFd"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/5718069/miles_tails_prower_is_jhoira_ageless_innovator"
+      },
+      "creator": {
+        "label": "digiman619",
+        "url": ""
+      },
+      "notes": "",
+      "commanderArchetype": "Jhoira - Artifacts (Izzet)",
+      "aiUse": ""
+    },
+    {
+      "id": "spongebob-spongebob-gary-74e33ac3fb",
+      "kind": "deck",
+      "theme": "Spongebob (Spongebob/Gary)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1LEQdqnocu3S0QdlWul3uHbLi_yCqLWkb"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/GBEMepmPyk--7Hv7yJfaDA"
+      },
+      "creator": {
+        "label": "TheChilisGuy",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/107s5sg/full_spongebob_commander_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Phelddagrif/Keruga - Group Hug (Bant)",
+      "aiUse": ""
+    },
+    {
+      "id": "spy-x-family-forger-family-350cb488ae",
+      "kind": "deck",
+      "theme": "Spy x Family (Forger Family)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/f0fc529748"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/operation-strix/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1t0ylhv/complete_spy_x_family_edh_deck_operation_strix/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Second Doctor/Donna - Aikido (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "star-wars-darth-vader-32985ebd2c",
+      "kind": "deck",
+      "theme": "Star Wars (Darth Vader)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/3e1462e487"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/rule-the-galaxy"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1p95984/complete_star_wars_darth_vader_edh_deck_rule_the/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Kaervek - Spellslinger (Mono-B)",
+      "aiUse": ""
+    },
+    {
+      "id": "star-wars-droid-army-2b34c1976f",
+      "kind": "deck",
+      "theme": "Star Wars (Droid Army)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1FJOZhxlsRyrQdJjoVrJj6uSNf8Q1CmZh"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/SeiKVGC7Ok-BgK2Du7ekjw"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1us53ek/complete_star_wars_droid_army_commander_deck_50/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Urza, Artifact Creatures (Esper)",
+      "aiUse": ""
+    },
+    {
+      "id": "steven-universe-a67652894c",
+      "kind": "deck",
+      "theme": "Steven Universe",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/a28fde95f7"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/8955219/mishra_steven_universe"
+      },
+      "creator": {
+        "label": "Poke_Hybrids",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1jcj2zg/steven_universe_full_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Mishra - Aggro (Rakdos)",
+      "aiUse": ""
+    },
+    {
+      "id": "steven-universe-27c3e2e9f9",
+      "kind": "deck",
+      "theme": "Steven Universe",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1gKZiScg5mflgqN0ZpDdFVF3pilcKA-rW"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "digiman619",
+        "url": ""
+      },
+      "notes": "",
+      "commanderArchetype": "Magus Lucea Kane - X Spells (Temur)",
+      "aiUse": ""
+    },
+    {
+      "id": "studio-ghibli-99db8aeab6",
+      "kind": "deck",
+      "theme": "Studio Ghibli",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1Ju3vCh2slu2T0wGDH8Z4gZA2aYtVIIIY"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/p7PgHJWd9EuZvlfOBCSZ6A"
+      },
+      "creator": {
+        "label": "jamiedowdy",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1sz74p6/my_first_complete_edh_proxy_deck_i_present_kamaji/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Edgar - Vampire Typal (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "subnautica-2c108c88c0",
+      "kind": "deck",
+      "theme": "Subnautica",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/a6ee021ffa"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/23345175/subnautica"
+      },
+      "creator": {
+        "label": "duccers",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1v5j22y/i_made_a_full_proxy_deck_for_subnauticabz2_its/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Sin, Spira's Punishment - Sea Beasts, Tokens (Sultai)",
+      "aiUse": ""
+    },
+    {
+      "id": "sword-art-online-kirito-asuna-3a819a8418",
+      "kind": "deck",
+      "theme": "Sword Art Online (Kirito/Asuna)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1AtmQMWBEOl9iPWZqvKg_I1fmzSC157PW"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/15422511/sao_commision"
+      },
+      "creator": {
+        "label": "digiman619",
+        "url": ""
+      },
+      "notes": "",
+      "commanderArchetype": "Reyhan/Tymna - +1/+1 Counters, Lifegain (Abzan)",
+      "aiUse": ""
+    },
+    {
+      "id": "teenage-mutant-ninja-turtles-d1a5c8ae24",
+      "kind": "deck",
+      "theme": "Teenage Mutant Ninja Turtles",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/8dca6a383d"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/shadows-of-the-sewer/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1nkl14h/full_edh_tmnt_shadows_of_the_sewer/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Satoru Umezawa - Ninja Typal (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "the-last-of-us-f1794350d7",
+      "kind": "deck",
+      "theme": "The Last of Us",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/u/0/folders/1zsk3pWtPkC2i-iE576CokvAW-yWHNEPP"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/u8N0y69ylE6nLNoNVasCCA"
+      },
+      "creator": {
+        "label": "ImSatan_",
+        "url": "https://www.reddit.com/r/magicproxies/comments/1q292md/the_last_of_us_complete_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Ellie/Joel - Aristocrats (Jund)",
+      "aiUse": ""
+    },
+    {
+      "id": "the-legend-of-zelda-link-zelda-88c4ce9b4a",
+      "kind": "deck",
+      "theme": "The Legend of Zelda (Link/Zelda)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1_cmt5u0p0retWMlmads4K2LSy_n0Dlnc"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/20352987/commision_zelda"
+      },
+      "creator": {
+        "label": "digiman619",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1umv861/comment/ovfm173/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+      },
+      "notes": "Missing Stoneforge Mystic",
+      "commanderArchetype": "Ardenn/Kodama East - Voltron (Selesnya)",
+      "aiUse": ""
+    },
+    {
+      "id": "the-legend-of-zelda-zelda-e4e0acf385",
+      "kind": "deck",
+      "theme": "The Legend of Zelda (Zelda)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://ko-fi.com/s/8d0bca8dbc"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/6c67TAbNXk-qFGgUdxmd2A"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1fesakf/zeldas_adventures_full_deck_release_repost/"
+      },
+      "notes": "",
+      "commanderArchetype": "Beluna - Adventures (Temur)",
+      "aiUse": ""
+    },
+    {
+      "id": "the-witcher-monsters-a3ae4c541e",
+      "kind": "deck",
+      "theme": "The Witcher (Monsters)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1LM-T3QUPWuUxgp5uwy8cmhyiiVhNRzRz?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/iIQd1OBXBUS3TsVtAM3l_w"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vhxc7i/complete_the_witcher_monsters_commander_deck_the/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Muldrotha - Battlecruiser, Self-Mill (Sultai)",
+      "aiUse": ""
+    },
+    {
+      "id": "the-witcher-witchers-f12b91a2d8",
+      "kind": "deck",
+      "theme": "The Witcher (Witchers)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1R6dFIdXdOuyim8rAIwRSL47joM28HGzB"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/lvpO1Ht1ZEW_zONbbRaARw"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vjq1rq/complete_the_witcher_witchers_commander_deck_the/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Maarika - Aggro, Voltron (Jund)",
+      "aiUse": ""
+    },
+    {
+      "id": "the-witcher-07606e3463",
+      "kind": "deck",
+      "theme": "The Witcher",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/e98ec73f5f"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/afyGWjtsg0qbfww6dsSqxQ"
+      },
+      "creator": {
+        "label": "Rymotron",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1mrwb1t/full_edh_the_witcher_precon_treble_threat/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Tom Bombadil - Sagas (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "undertale-deltarune-24517ddf98",
+      "kind": "deck",
+      "theme": "Undertale (& Deltarune)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1a1MomNyFC8L4x0aI2lWvb98FlmYvtzYP"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/-UGfAbNUVX-R-zYELYbiFA"
+      },
+      "creator": {
+        "label": "Elocelote6023",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1uqui66/undertale_full_deck_commander_bracket_3/"
+      },
+      "notes": "Artist Credits in text file in Drive, Tokens",
+      "commanderArchetype": "Massacre Girl - -1/-1 Counters (Mono-B)",
+      "aiUse": ""
+    },
+    {
+      "id": "warhammer-fantasy-repanse-e80c8007ba",
+      "kind": "deck",
+      "theme": "Warhammer Fantasy (Repanse)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/ea010567c4"
+      },
+      "decklist": {
+        "label": "Text file in Zip",
+        "url": ""
+      },
+      "creator": {
+        "label": "Badger",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1h6qu4y/knights_of_the_grail_bretonnia_inspired_full/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Éowyn - Knight Typal (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "warhammer-fantasy-tomb-kings-8bdbe7ee8f",
+      "kind": "deck",
+      "theme": "Warhammer Fantasy (Tomb Kings)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/c665e869ab"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Badger",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1go9z6f/i_made_a_full_proxy_edh_deck_themed_around/"
+      },
+      "notes": "No decklist so adjust 24 basic lands as desired (I suggest 15 Swamps/9 Islands). Tokens",
+      "commanderArchetype": "Wilhelt - Zombie Typal (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "wednesday-netflix-the-addams-family-401ae24528",
+      "kind": "deck",
+      "theme": "Wednesday (Netflix/The Addams Family)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1I_7etjb8pXry-8DMHW0-5ohf0fqN8K2m"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/19910846/the_wenclair_deck_remastered"
+      },
+      "creator": {
+        "label": "SnarglePop",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1uxc9z9/complete_edh_deck_based_on_wednesday_2022_woes/"
+      },
+      "notes": "Custom Commanders (can swap Sideboard cards in instead), Tokens",
+      "commanderArchetype": "Custom Partners/Breya - Artifacts, IP Theme (WUBR)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-night-elves-db7893f61a",
+      "kind": "deck",
+      "theme": "World of Warcraft  (Night Elves)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/112JvSI4epPJf0ZdKvnpRMv4cEpNxClSR"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/YQdtwgSypUWc6ZI-3oVv4w"
+      },
+      "creator": {
+        "label": "Havgslimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1pnhigj/complete_night_elf_warcraft_commander_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Lathril - Elf Typal (Golgari)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-azshara-5c81b69462",
+      "kind": "deck",
+      "theme": "World of Warcraft (Azshara)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1l154zBxrqeccT-vGDayO7Lby9ITrmHV-"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/tShCKCgKvUemErG9VnpK_g"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1tnn7dl/complete_warcraft_azsharas_naga_commander_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Hakbal - Merfolk Typal (Simic)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-burning-legion-d450e3f801",
+      "kind": "deck",
+      "theme": "World of Warcraft (Burning Legion)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1iNBKOr0wqmZqDolCO8fMHTaKM81fiL4U"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1q2wqld/complete_burning_legion_warcraft_commander_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Raphael - Demon Typal (Rakdos)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-dragonflight-46a7df86f3",
+      "kind": "deck",
+      "theme": "World of Warcraft (Dragonflight)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1xKugpgOPbRExWJ0ne78A59SybGf1oFqD?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/t8GqRXRV-0etq6FOCbLOsA"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1o8gmef/complete_old_gods_dragonflight_warcraft_commander/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Ur-Dragon - Dragon Typal (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-humans-b438cd0f48",
+      "kind": "deck",
+      "theme": "World of Warcraft (Humans)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1TRJzwz9KjzB5sycJLQ-8mwu-ltjDfjBM"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/7rjeuyf_p0mFU7w51mfRqg"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1qngnaj/two_complete_orcs_vs_humans_warcraft_commander/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Eowyn - Human Typal (Jeskai)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-old-gods-c009c898e2",
+      "kind": "deck",
+      "theme": "World of Warcraft (Old Gods)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1MmARYM8AFx3_T4hxJn13YXYtMHZWKLnN"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "Havgslimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1o8gmef/complete_old_gods_dragonflight_warcraft_commander/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Umbris - Horror Typal (Dimir)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-orcs-a14ba92290",
+      "kind": "deck",
+      "theme": "World of Warcraft (Orcs)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1_TDv8dt0UjOyEnkYgwgNWInpIieWKBvR?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/exDXeDsOu0utXR4Kq8hULA"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1qngnaj/two_complete_orcs_vs_humans_warcraft_commander/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Zurgo Stormrender - Orc Typal (Mardu)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-the-earthen-ring-9e9cae5da3",
+      "kind": "deck",
+      "theme": "World of Warcraft (The Earthen Ring)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/12BLu141v8ZBEQ43zoXuEPvE_dfncNWPi"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/qV3V35hzO0SjvGcxx4Rmzw"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vudpwm/complete_warcraft_the_earthen_ring_commander_deck/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Avatar Aang - Ally Typal, Element Bending (WUBRG)",
+      "aiUse": ""
+    },
+    {
+      "id": "world-of-warcraft-the-lich-king-ead19b1a0c",
+      "kind": "deck",
+      "theme": "World of Warcraft (The Lich King)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1StIByQZZN7KqOGqozY9hF4uqKaNEi-9v?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/r2vaQ7-TP0uewRhuM8cdHg"
+      },
+      "creator": {
+        "label": "Havgslimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1ofrg9n/complete_lich_king_warcraft_commander_deck_sauron/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Sauron - Grixis Value (Grixis, duh)",
+      "aiUse": ""
+    },
+    {
+      "id": "yu-gi-oh-dragunity-c8195a6cc6",
+      "kind": "deck",
+      "theme": "Yu-Gi-Oh! (Dragunity)",
+      "deckSource": {
+        "label": "MPCFill/Google Drive",
+        "url": "https://drive.google.com/drive/folders/1CIXV4-CHUTKbEOzdMTe4uqZ0MQRMfe_C"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/2r3rU7UvpUysPfCzYl4uvQ"
+      },
+      "creator": {
+        "label": "WandererTJ",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1umv861/comment/ovjpset/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Arna Kennerüd - Control, Equipment (Esper)",
+      "aiUse": ""
+    },
+    {
+      "id": "yu-gi-oh-yugi-atem-778e330abb",
+      "kind": "deck",
+      "theme": "Yu-Gi-Oh! (Yugi/Atem)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/a67297d463"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/SeyDh5bhdkeDBqnIzMPLNA"
+      },
+      "creator": {
+        "label": "Southern_Ball3821",
+        "url": ""
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Inalla - Wizard Typal (Grixis)",
+      "aiUse": ""
+    }
+  ],
+  "collections": [
+    {
+      "id": "fallout-mr-house-precon-upgrades-aab95c8cc2",
+      "kind": "collection",
+      "theme": "Fallout (Mr. House Precon Upgrades)",
+      "deckSource": {
+        "label": "MPCFill/Google Drive",
+        "url": "https://drive.google.com/drive/folders/1gDF3sxTy-p7S1ddxyZ1V-CIHajASH-VW"
+      },
+      "decklist": {
+        "label": "Text file in Drive",
+        "url": ""
+      },
+      "creator": {
+        "label": "Mikiebo/ReFLeXLyubo",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1hv2917/update_mr_house_fallout_proxy_deck_the_house/"
+      },
+      "notes": "68 Fallout Reskins"
+    },
+    {
+      "id": "final-fantasy-scions-spellcraft-precon-upgrades-db56262bad",
+      "kind": "collection",
+      "theme": "Final Fantasy (Scions & Spellcraft Precon Upgrades)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1ujsktyWk2Xlig2JhPKMuOZLXZNxpgsFD"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Ensaga",
+        "url": ""
+      },
+      "notes": "Suggested Cuts/Swaps"
+    },
+    {
+      "id": "pok-mon-shocks-basic-lands-9432402750",
+      "kind": "collection",
+      "theme": "Pokémon (Shocks & Basic Lands)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1Fn4rkI7meVR2Wb_b58gtuc5_QmVXJCuI"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Speedster2814",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1svomhh/pok%C3%A9mon_proxies_shocks_and_basics/"
+      },
+      "notes": ""
+    },
+    {
+      "id": "star-wars-basic-lands-fc3006faba",
+      "kind": "collection",
+      "theme": "Star Wars (Basic Lands)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1m80gkJ5gyH-AE97DPObJVM4lGwiem9oL"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1us53ek/complete_star_wars_droid_army_commander_deck_50/"
+      },
+      "notes": ""
+    },
+    {
+      "id": "fractal-art-basic-lands-a3afa59b40",
+      "kind": "collection",
+      "theme": "Fractal Art (Basic Lands)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1ek2wYA3VmmMKQQfz10I18JdrBVwuK0Tm?usp=drive_link"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Speedster2814",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vdytem/artist_series_logan_apple_thoughtweaver_fractal/"
+      },
+      "notes": "Includes Wastes"
+    }
+  ]
+}

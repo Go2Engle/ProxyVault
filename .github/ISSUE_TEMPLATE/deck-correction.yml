@@ -1,0 +1,24 @@
+name: Deck correction
+description: Report an incorrect or broken catalog record.
+title: "[Deck correction]: "
+labels: [data]
+body:
+  - type: input
+    id: deck
+    attributes:
+      label: Deck or collection
+      placeholder: Adventure Time (Finn & Jake)
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs correcting?
+      description: Include the broken link or incorrect field and the replacement when known.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Supporting source
+      description: Link to the creator post, decklist, or proxy files when available.
