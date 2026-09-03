@@ -32,6 +32,8 @@ Public Archidekt decklists are also cached into each record's `preview` field fo
 
 Public Google Drive folders and Imgur albums are indexed into per-deck gallery manifests under `public/data/galleries`. The site links to the creator-hosted images and does not copy the image binaries. Private folders, unsupported file types, and temporarily unavailable hosts should fall back to the original proxy-source link.
 
+Ko-fi storefront pages block unattended catalog requests and do not provide a public product-reading API. Selected public preview images can be added to `data/kofi-galleries.json` using their original `https://storage.ko-fi.com/cdn/useruploads/display/` URLs. Only include images displayed publicly on the linked product page; do not include purchased downloads or supporter-only assets.
+
 ## Rights and credit
 
 Proxy Vault indexes third-party links; it does not claim ownership of community-created cards, posts, decklists, franchises, or source files. Never rehost a creator's artwork without permission. Keep direct attribution intact.

@@ -17,17 +17,24 @@ from xml.etree import ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "src" / "data" / "decks.json"
 GALLERY_DIR = ROOT / "public" / "data" / "galleries"
+KOFI_GALLERIES_FILE = ROOT / "data" / "kofi-galleries.json"
 SHEET_ID = "1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4"
 SOURCE_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/edit?gid=0#gid=0"
 EXPORT_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=xlsx"
 ARCHIDEKT_DECK_RE = re.compile(r"https?://(?:www\.)?archidekt\.com/decks/(\d+)")
 DRIVE_FOLDER_RE = re.compile(r"https?://drive\.google\.com/drive/(?:u/\d+/)?folders/([A-Za-z0-9_-]+)")
 IMGUR_ALBUM_RE = re.compile(r"https?://(?:www\.)?imgur\.com/(?:a|gallery)/([^/?#]+)")
+KOFI_PRODUCT_RE = re.compile(r"https?://(?:www\.)?ko-fi\.com/s/([A-Za-z0-9]+)")
 DRIVE_ITEM_RE = re.compile(
     r'\[\[null,"([A-Za-z0-9_-]{15,})"\],null,null,null,'
     r'"(image/(?:png|jpeg|gif|webp)|application/vnd\.google-apps\.folder)"'
 )
 DRIVE_NAME_RE = re.compile(r'\[\[\["((?:\\.|[^"\\])*)",null,1\]\]\]')
+
+try:
+    KOFI_GALLERIES = json.loads(KOFI_GALLERIES_FILE.read_text(encoding="utf-8"))
+except (OSError, ValueError):
+    KOFI_GALLERIES = {}
 
 NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
 REL_NS = {"r": "http://schemas.openxmlformats.org/package/2006/relationships"}
@@ -221,11 +228,42 @@ def imgur_gallery(source_url: str) -> dict[str, object] | None:
     }
 
 
+def kofi_gallery(source_url: str) -> dict[str, object] | None:
+    match = KOFI_PRODUCT_RE.match(source_url)
+    if not match:
+        return None
+    source_images = KOFI_GALLERIES.get(match.group(1), [])
+    images: list[dict[str, object]] = []
+    for index, item in enumerate(source_images, start=1):
+        image_url = str(item.get("url") or "")
+        if not image_url.startswith("https://storage.ko-fi.com/cdn/useruploads/display/"):
+            continue
+        images.append(
+            {
+                "id": hashlib.sha1(image_url.encode("utf-8")).hexdigest()[:16],
+                "name": str(item.get("name") or f"Ko-fi preview {index}"),
+                "image": image_url,
+                "thumbnail": image_url,
+                "sourceUrl": source_url,
+            }
+        )
+    if not images:
+        return None
+    return {
+        "provider": "Ko-fi",
+        "totalImages": len(images),
+        "partial": True,
+        "images": images,
+    }
+
+
 def proxy_gallery(source_url: str) -> dict[str, object] | None:
     if DRIVE_FOLDER_RE.match(source_url):
         return drive_gallery(source_url)
     if IMGUR_ALBUM_RE.match(source_url):
         return imgur_gallery(source_url)
+    if KOFI_PRODUCT_RE.match(source_url):
+        return kofi_gallery(source_url)
     return None
 
 
@@ -325,6 +363,10 @@ def enrich_galleries(decks: list[dict[str, object]], existing: dict[str, dict[st
         for deck in decks
         if DRIVE_FOLDER_RE.match(str(deck["deckSource"]["url"]))
         or IMGUR_ALBUM_RE.match(str(deck["deckSource"]["url"]))
+        or (
+            (match := KOFI_PRODUCT_RE.match(str(deck["deckSource"]["url"])))
+            and match.group(1) in KOFI_GALLERIES
+        )
     ]
     with ThreadPoolExecutor(max_workers=6) as executor:
         futures = {

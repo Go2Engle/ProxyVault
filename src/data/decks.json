@@ -1471,7 +1471,13 @@
       },
       "notes": "Card Back",
       "commanderArchetype": "Yusri - Clones, Coin Flips (Izzet)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 10,
+        "partial": true,
+        "path": "./data/galleries/balatro-23106a4acd.json"
+      }
     },
     {
       "id": "batman-27a4cef335",
@@ -3035,7 +3041,13 @@
       },
       "notes": "",
       "commanderArchetype": "Be'lakor - Demon Typal (Grixis)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 3,
+        "partial": true,
+        "path": "./data/galleries/diablo-7827f6e372.json"
+      }
     },
     {
       "id": "disney-lilo-stitch-cfc5d75edb",
