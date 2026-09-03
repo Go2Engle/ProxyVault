@@ -132,7 +132,3 @@ export function tagsFor(deck: Deck) {
   if (deck.kind === 'collection') tags.push('Collection');
   return [...new Set(tags.filter(Boolean))];
 }
-
-export function isProxxiedReady(url: string) {
-  return /https?:\/\/(?:www\.)?(moxfield\.com|archidekt\.com)\//i.test(url);
-}

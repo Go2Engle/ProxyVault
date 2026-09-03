@@ -2,7 +2,6 @@ import {
   ArrowLeft,
   BookOpen,
   Check,
-  Clipboard,
   Download,
   ExternalLink,
   FileArchive,
@@ -19,7 +18,6 @@ import ScrollToTop from './ScrollToTop';
 import {
   accentFor,
   colorsFor,
-  isProxxiedReady,
   splitBuild,
   splitTheme,
   type Deck,
@@ -414,7 +412,6 @@ export default function DeckDetail({
 }) {
   const { title, variant } = splitTheme(deck.theme);
   const { commander, archetype } = splitBuild(deck.commanderArchetype);
-  const proxxiedReady = isProxxiedReady(deck.decklist.url);
   const redditUrl = [
     deck.creator.url,
     deck.deckSource.url,
@@ -455,16 +452,6 @@ export default function DeckDetail({
     visibleCards[0] ||
     null;
 
-  const openProxxied = () => {
-    window.open(
-      'https://proxxied.com/deckbuilder',
-      '_blank',
-      'noopener,noreferrer',
-    );
-    void navigator.clipboard
-      .writeText(deck.decklist.url)
-      .then(() => onNotice('Decklist URL copied — paste it into Proxxied.'));
-  };
   const shareDeck = () =>
     void navigator.clipboard
       .writeText(window.location.href)
@@ -562,11 +549,6 @@ export default function DeckDetail({
             {deck.preview && (
               <button onClick={() => downloadDecklist(deck)}>
                 <Download size={17} /> Download list
-              </button>
-            )}
-            {proxxiedReady && (
-              <button onClick={openProxxied}>
-                <Clipboard size={17} /> Open in Proxxied
               </button>
             )}
           </div>

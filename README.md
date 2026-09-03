@@ -12,7 +12,6 @@ A fast, static catalog for the community-maintained collection of custom Magic: 
 - Discovers public Google Drive folders and Imgur albums and presents their custom proxy images in an on-demand gallery above the decklist.
 - Includes cached public Ko-fi previews for every Ko-fi-linked deck in the source sheet, while leaving every image on Ko-fi’s CDN.
 - Downloads an available decklist as plain text or the visible catalog as CSV.
-- Copies supported Moxfield/Archidekt URLs before opening Proxxied's deck builder.
 - Refreshes from the public Google workbook every day.
 - Deploys as a static GitHub Pages site with no database, API key, or hosting bill.
 
