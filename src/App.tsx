@@ -1,114 +1,31 @@
 import {
-  ArrowLeft,
   ArrowUpRight,
-  BookOpen,
   Check,
   ChevronDown,
-  Clipboard,
+  Code2,
   Download,
   ExternalLink,
-  FileArchive,
-  Code2,
   Layers3,
   Search,
   Sparkles,
-  X,
 } from 'lucide-react';
 import { useEffect, useMemo, useRef, useState } from 'react';
+import DeckDetail from './DeckDetail';
 import catalog from './data/decks.json';
-
-type Link = { label: string; url: string };
-type Deck = {
-  id: string;
-  kind: 'deck' | 'collection';
-  theme: string;
-  deckSource: Link;
-  decklist: Link;
-  creator: Link;
-  notes: string;
-  commanderArchetype?: string;
-  aiUse?: string;
-};
+import {
+  accentFor,
+  colorsFor,
+  splitBuild,
+  splitTheme,
+  tagsFor,
+  type Deck,
+} from './deck-model';
 
 const decks = [...catalog.decks, ...catalog.collections] as Deck[];
-const accents = [
-  '#c5f36c',
-  '#f0b95b',
-  '#68c6d4',
-  '#d878ee',
-  '#d05f66',
-  '#7dc983',
-  '#91a7ff',
-  '#e8db48',
-];
-const colorMap: Record<string, string[]> = {
-  azorius: ['W', 'U'],
-  dimir: ['U', 'B'],
-  rakdos: ['B', 'R'],
-  gruul: ['R', 'G'],
-  selesnya: ['G', 'W'],
-  orzhov: ['W', 'B'],
-  izzet: ['U', 'R'],
-  golgari: ['B', 'G'],
-  boros: ['R', 'W'],
-  simic: ['G', 'U'],
-  bant: ['W', 'U', 'G'],
-  esper: ['W', 'U', 'B'],
-  grixis: ['U', 'B', 'R'],
-  jund: ['B', 'R', 'G'],
-  naya: ['R', 'G', 'W'],
-  abzan: ['W', 'B', 'G'],
-  jeskai: ['U', 'R', 'W'],
-  jeksai: ['U', 'R', 'W'],
-  sultai: ['U', 'B', 'G'],
-  mardu: ['B', 'R', 'W'],
-  temur: ['R', 'G', 'U'],
-};
 
-function accentFor(value: string) {
-  const hash = Array.from(value).reduce(
-    (total, character) => total + character.charCodeAt(0),
-    0,
-  );
-  return accents[hash % accents.length];
-}
-
-function splitTheme(theme: string) {
-  const match = theme.match(/^(.*?)\s*\(([^()]*)\)$/);
-  return match
-    ? { title: match[1], variant: match[2] }
-    : { title: theme, variant: 'Complete custom deck' };
-}
-
-function splitBuild(build = '') {
-  const [commander, ...rest] = build.split(/\s+-\s+/);
-  return {
-    commander: commander || 'Deck collection',
-    archetype: rest.join(' — ') || 'Community proxy archive',
-  };
-}
-
-function colorsFor(build = '') {
-  const lower = build.toLowerCase();
-  const mono = lower.match(/mono-?([wubrg])/i);
-  if (mono) return [mono[1].toUpperCase()];
-  const raw = build.match(/\(([WUBRG]{2,5})\)\s*$/i);
-  if (raw) return [...new Set(raw[1].toUpperCase())];
-  for (const [name, colors] of Object.entries(colorMap))
-    if (lower.includes(name)) return colors;
-  return [];
-}
-
-function tagsFor(deck: Deck) {
-  const tags = [deck.deckSource.label];
-  if (/tokens?/i.test(deck.notes)) tags.push('Tokens');
-  if (/card back/i.test(deck.notes)) tags.push('Card back');
-  if (deck.kind === 'collection') tags.push('Collection');
-  return [...new Set(tags.filter(Boolean))];
-}
-
-function isProxxiedReady(url: string) {
-  return /https?:\/\/(?:www\.)?(moxfield\.com|archidekt\.com)\//i.test(url);
+function deckFromLocation() {
+  const id = new URLSearchParams(window.location.search).get('deck');
+  return decks.find((deck) => deck.id === id) || null;
 }
 
 function ManaPips({ colors }: { colors: string[] }) {
@@ -177,17 +94,6 @@ function DeckCard({
   );
 }
 
-function downloadJson(deck: Deck) {
-  const blob = new Blob([JSON.stringify(deck, null, 2)], {
-    type: 'application/json',
-  });
-  const link = document.createElement('a');
-  link.href = URL.createObjectURL(blob);
-  link.download = `${deck.id}.json`;
-  link.click();
-  URL.revokeObjectURL(link.href);
-}
-
 function csvCell(value: string) {
   return `"${value.replaceAll('"', '""')}"`;
 }
@@ -220,164 +126,13 @@ function downloadCatalog(items: Deck[]) {
   URL.revokeObjectURL(link.href);
 }
 
-function DeckDetail({
-  deck,
-  onClose,
-  onNotice,
-}: {
-  deck: Deck;
-  onClose: () => void;
-  onNotice: (message: string) => void;
-}) {
-  const { title, variant } = splitTheme(deck.theme);
-  const { commander, archetype } = splitBuild(deck.commanderArchetype);
-  const proxxiedReady = isProxxiedReady(deck.decklist.url);
-  useEffect(() => {
-    const closeOnEscape = (event: KeyboardEvent) => {
-      if (event.key === 'Escape') onClose();
-    };
-    window.addEventListener('keydown', closeOnEscape);
-    return () => window.removeEventListener('keydown', closeOnEscape);
-  }, [onClose]);
-
-  const openProxxied = () => {
-    window.open(
-      'https://proxxied.com/deckbuilder',
-      '_blank',
-      'noopener,noreferrer',
-    );
-    void navigator.clipboard
-      .writeText(deck.decklist.url)
-      .then(() => onNotice('Decklist URL copied — paste it into Proxxied.'));
-  };
-
-  return (
-    <div
-      className="detail-backdrop"
-      role="presentation"
-      onMouseDown={(event) => {
-        if (event.target === event.currentTarget) onClose();
-      }}
-    >
-      <dialog
-        open
-        className="detail-panel"
-        aria-modal="true"
-        aria-labelledby="detail-title"
-        style={
-          { '--deck-accent': accentFor(deck.theme) } as React.CSSProperties
-        }
-      >
-        <div className="detail-topbar">
-          <button onClick={onClose}>
-            <ArrowLeft size={16} /> Back to archive
-          </button>
-          <button className="icon-button" aria-label="Close" onClick={onClose}>
-            <X size={18} />
-          </button>
-        </div>
-        <div className="detail-visual">
-          <span>{title.slice(0, 1)}</span>
-          <div className="detail-index">
-            {deck.kind === 'collection' ? 'COLLECTION' : 'COMPLETE DECK'}
-            <br />
-            {deck.id.slice(-10).toUpperCase()}
-          </div>
-        </div>
-        <div className="detail-content">
-          <p className="card-kicker">{variant}</p>
-          <h2 id="detail-title">{title}</h2>
-          <div className="detail-build">
-            <ManaPips colors={colorsFor(deck.commanderArchetype)} />
-            <div>
-              <span>Commander / build</span>
-              <strong>{commander}</strong>
-              <p>{archetype}</p>
-            </div>
-          </div>
-          {deck.notes && (
-            <div className="detail-note">
-              <span>Notes & inclusions</span>
-              <p>{deck.notes}</p>
-            </div>
-          )}
-          {deck.aiUse && (
-            <div className="detail-note">
-              <span>AI disclosure</span>
-              <p>{deck.aiUse}</p>
-            </div>
-          )}
-          <div className="detail-actions">
-            {deck.deckSource.url && (
-              <a
-                className="primary-action"
-                href={deck.deckSource.url}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <FileArchive size={18} />
-                <span>
-                  <small>Proxy files</small>Open {deck.deckSource.label}
-                </span>
-                <ExternalLink size={15} />
-              </a>
-            )}
-            {deck.decklist.url && (
-              <a href={deck.decklist.url} target="_blank" rel="noreferrer">
-                <BookOpen size={18} />
-                <span>
-                  <small>Decklist</small>Open {deck.decklist.label}
-                </span>
-                <ExternalLink size={15} />
-              </a>
-            )}
-            {proxxiedReady && (
-              <button onClick={openProxxied}>
-                <Clipboard size={18} />
-                <span>
-                  <small>Print prep</small>Copy & open Proxxied
-                </span>
-                <ArrowUpRight size={15} />
-              </button>
-            )}
-            <button onClick={() => downloadJson(deck)}>
-              <Download size={18} />
-              <span>
-                <small>Portable record</small>Download JSON
-              </span>
-              <ArrowUpRight size={15} />
-            </button>
-          </div>
-          <div className="creator-credit">
-            <span>Curated from</span>
-            {deck.creator.url ? (
-              <a href={deck.creator.url} target="_blank" rel="noreferrer">
-                {deck.creator.label || 'source post'} <ExternalLink size={13} />
-              </a>
-            ) : (
-              <strong>{deck.creator.label || 'the community'}</strong>
-            )}
-          </div>
-          {!proxxiedReady && deck.decklist.url && (
-            <p className="compatibility-note">
-              This decklist source is not one of Proxxied’s documented
-              direct-URL imports. Open the decklist and export plain text before
-              importing it there.
-            </p>
-          )}
-        </div>
-      </dialog>
-    </div>
-  );
-}
-
 export default function App() {
   const [query, setQuery] = useState('');
   const [view, setView] = useState<'all' | 'deck' | 'collection'>('all');
   const [color, setColor] = useState('');
   const [tokensOnly, setTokensOnly] = useState(false);
   const [sort, setSort] = useState('theme');
-  const [selected, setSelected] = useState<Deck | null>(null);
+  const [selected, setSelected] = useState<Deck | null>(deckFromLocation);
   const [notice, setNotice] = useState('');
   const searchRef = useRef<HTMLInputElement>(null);
   const repositoryUrl = import.meta.env.VITE_REPOSITORY_URL || '';
@@ -393,10 +148,29 @@ export default function App() {
     return () => window.removeEventListener('keydown', focusSearch);
   }, []);
   useEffect(() => {
+    const syncDeckFromUrl = () => setSelected(deckFromLocation());
+    window.addEventListener('popstate', syncDeckFromUrl);
+    return () => window.removeEventListener('popstate', syncDeckFromUrl);
+  }, []);
+  useEffect(() => {
     if (!notice) return;
     const timer = window.setTimeout(() => setNotice(''), 3500);
     return () => window.clearTimeout(timer);
   }, [notice]);
+
+  const openDeck = (deck: Deck) => {
+    const url = new URL(window.location.href);
+    url.searchParams.set('deck', deck.id);
+    window.history.pushState({}, '', url);
+    setSelected(deck);
+  };
+
+  const closeDeck = () => {
+    const url = new URL(window.location.href);
+    url.searchParams.delete('deck');
+    window.history.pushState({}, '', url);
+    setSelected(null);
+  };
 
   const filtered = useMemo(() => {
     const words = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
@@ -566,7 +340,7 @@ export default function App() {
                 key={deck.id}
                 deck={deck}
                 index={index}
-                onOpen={setSelected}
+                onOpen={openDeck}
               />
             ))}
           </div>
@@ -662,11 +436,7 @@ export default function App() {
         </a>
       </footer>
       {selected && (
-        <DeckDetail
-          deck={selected}
-          onClose={() => setSelected(null)}
-          onNotice={setNotice}
-        />
+        <DeckDetail deck={selected} onClose={closeDeck} onNotice={setNotice} />
       )}
       {notice && (
         <output className="toast">

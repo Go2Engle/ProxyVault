@@ -28,6 +28,10 @@ Keep the site static and privacy-friendly. Do not add analytics, accounts, secre
 
 Run `python3 scripts/sync_decks.py`, then inspect the generated JSON and confirm the terminal reports the expected deck and collection counts. The importer intentionally reads hyperlink metadata from the `.xlsx` export because Google's CSV export discards hyperlink targets.
 
+Public Archidekt decklists are also cached into each record's `preview` field for the full-page visual view. Keep this enrichment optional and failure-tolerant: a provider outage must not remove a previously cached preview or prevent the catalog from building.
+
+Public Google Drive folders and Imgur albums are indexed into per-deck gallery manifests under `public/data/galleries`. The site links to the creator-hosted images and does not copy the image binaries. Private folders, unsupported file types, and temporarily unavailable hosts should fall back to the original proxy-source link.
+
 ## Rights and credit
 
 Proxy Vault indexes third-party links; it does not claim ownership of community-created cards, posts, decklists, franchises, or source files. Never rehost a creator's artwork without permission. Keep direct attribution intact.

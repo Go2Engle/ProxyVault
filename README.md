@@ -7,8 +7,10 @@ A fast, static catalog for the community-maintained collection of custom Magic: 
 - Browses 149 complete decks and 5 miscellaneous collections.
 - Searches themes, commanders, archetypes, creators, sources, and notes.
 - Filters by record type, color identity, and token availability.
-- Opens the original proxy files and decklist without rehosting community art.
-- Downloads an individual record as JSON or the visible catalog as CSV.
+- Opens each deck in a shareable, full-page workspace with visual stacks, text mode, card search, and a focused card inspector.
+- Displays cached card lists and Scryfall printing images for public Archidekt decks without rehosting community proxy art.
+- Discovers public Google Drive folders and Imgur albums and presents their custom proxy images in an on-demand gallery above the decklist.
+- Downloads an available decklist as plain text or the visible catalog as CSV.
 - Copies supported Moxfield/Archidekt URLs before opening Proxxied's deck builder.
 - Refreshes from the public Google workbook every day.
 - Deploys as a static GitHub Pages site with no database, API key, or hosting bill.
@@ -38,7 +40,7 @@ The workflow builds and publishes the site, then runs daily to pull changes from
 python3 scripts/sync_decks.py
 ```
 
-The importer downloads the workbook as `.xlsx` and reads the hyperlink relationships that are missing from Google's CSV export.
+The importer downloads the workbook as `.xlsx` and reads the hyperlink relationships that are missing from Google's CSV export. It also refreshes visual previews for public Archidekt lists and public image manifests for Google Drive and Imgur sources. Gallery manifests are split into per-deck files under `public/data/galleries` so visitors only load custom-image metadata for the deck they open. Providers that block static imports remain linked from a clearly labeled fallback page until a community-maintained export is available.
 
 ## Contributing
 

@@ -1,0 +1,784 @@
+{
+  "provider": "Google Drive",
+  "totalImages": 111,
+  "partial": false,
+  "images": [
+    {
+      "id": "14CeFzs2qYPeun_2_EGN-talip6OAMv24",
+      "name": "SEKIRO CARD BACK.png",
+      "image": "https://drive.google.com/thumbnail?id=14CeFzs2qYPeun_2_EGN-talip6OAMv24&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=14CeFzs2qYPeun_2_EGN-talip6OAMv24&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/14CeFzs2qYPeun_2_EGN-talip6OAMv24/view"
+    },
+    {
+      "id": "1mQIye2Txi44vZcqHP8sT3w13zkOriqsT",
+      "name": "1 - Tetsuo, Imperial Champion (Sekiro, One-Armed Wolf).png",
+      "image": "https://drive.google.com/thumbnail?id=1mQIye2Txi44vZcqHP8sT3w13zkOriqsT&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1mQIye2Txi44vZcqHP8sT3w13zkOriqsT&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1mQIye2Txi44vZcqHP8sT3w13zkOriqsT/view"
+    },
+    {
+      "id": "1vAcWsSb0qiKO0nBE1O15VWgDpLefB0Fg",
+      "name": "2 - Relentless Assault.png",
+      "image": "https://drive.google.com/thumbnail?id=1vAcWsSb0qiKO0nBE1O15VWgDpLefB0Fg&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1vAcWsSb0qiKO0nBE1O15VWgDpLefB0Fg&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1vAcWsSb0qiKO0nBE1O15VWgDpLefB0Fg/view"
+    },
+    {
+      "id": "1jCB20jR_rCsF9sSbV3jjKSMD9NBSuRpi",
+      "name": "3 - Slip Through Space.png",
+      "image": "https://drive.google.com/thumbnail?id=1jCB20jR_rCsF9sSbV3jjKSMD9NBSuRpi&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1jCB20jR_rCsF9sSbV3jjKSMD9NBSuRpi&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1jCB20jR_rCsF9sSbV3jjKSMD9NBSuRpi/view"
+    },
+    {
+      "id": "150j77Luf3EwI4UMc1T3y_0sMxgQbqC8o",
+      "name": "4 - Ancestral Vision.png",
+      "image": "https://drive.google.com/thumbnail?id=150j77Luf3EwI4UMc1T3y_0sMxgQbqC8o&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=150j77Luf3EwI4UMc1T3y_0sMxgQbqC8o&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/150j77Luf3EwI4UMc1T3y_0sMxgQbqC8o/view"
+    },
+    {
+      "id": "1aj1V24h8HyKKntB6OV3dFVCrYWPxERQb",
+      "name": "5 - Twinferno.png",
+      "image": "https://drive.google.com/thumbnail?id=1aj1V24h8HyKKntB6OV3dFVCrYWPxERQb&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1aj1V24h8HyKKntB6OV3dFVCrYWPxERQb&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1aj1V24h8HyKKntB6OV3dFVCrYWPxERQb/view"
+    },
+    {
+      "id": "1gKSFZc2GN1bfN5Dk_W0ySnOIW5k3jrvO",
+      "name": "6 - Drach’Nyen (The Mortal Blade).png",
+      "image": "https://drive.google.com/thumbnail?id=1gKSFZc2GN1bfN5Dk_W0ySnOIW5k3jrvO&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1gKSFZc2GN1bfN5Dk_W0ySnOIW5k3jrvO&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1gKSFZc2GN1bfN5Dk_W0ySnOIW5k3jrvO/view"
+    },
+    {
+      "id": "1fc80hkbURZMfnhtMmZpJinv-FGiVhE05",
+      "name": "7 - Jhoira, Ageless Innovator (Lady Butterfly).png",
+      "image": "https://drive.google.com/thumbnail?id=1fc80hkbURZMfnhtMmZpJinv-FGiVhE05&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1fc80hkbURZMfnhtMmZpJinv-FGiVhE05&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1fc80hkbURZMfnhtMmZpJinv-FGiVhE05/view"
+    },
+    {
+      "id": "1U3pNHSwlkC_14yaeC533UG0XoiDBhCdH",
+      "name": "8 - Oathkeeper, Takeno’s Daisho (Kusabimaru).png",
+      "image": "https://drive.google.com/thumbnail?id=1U3pNHSwlkC_14yaeC533UG0XoiDBhCdH&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1U3pNHSwlkC_14yaeC533UG0XoiDBhCdH&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1U3pNHSwlkC_14yaeC533UG0XoiDBhCdH/view"
+    },
+    {
+      "id": "1Ql2tFNPAe6bJcTLX4noSw9UVS1UABt1y",
+      "name": "9 - Gilgamesh, Master-at-Arms (Isshin, Founder of Ashina).png",
+      "image": "https://drive.google.com/thumbnail?id=1Ql2tFNPAe6bJcTLX4noSw9UVS1UABt1y&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1Ql2tFNPAe6bJcTLX4noSw9UVS1UABt1y&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1Ql2tFNPAe6bJcTLX4noSw9UVS1UABt1y/view"
+    },
+    {
+      "id": "1wkCMwiTNM9uv02ItZ3hNbQ3En5KzKxgS",
+      "name": "10 - Godo, Bandit Warlord (Gyoubu Oniwa).png",
+      "image": "https://drive.google.com/thumbnail?id=1wkCMwiTNM9uv02ItZ3hNbQ3En5KzKxgS&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1wkCMwiTNM9uv02ItZ3hNbQ3En5KzKxgS&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1wkCMwiTNM9uv02ItZ3hNbQ3En5KzKxgS/view"
+    },
+    {
+      "id": "1IoxnLl-xg3g98Ir5ADQjmU3u9SHF-Pue",
+      "name": "11 - Tainted Strike.png",
+      "image": "https://drive.google.com/thumbnail?id=1IoxnLl-xg3g98Ir5ADQjmU3u9SHF-Pue&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1IoxnLl-xg3g98Ir5ADQjmU3u9SHF-Pue&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1IoxnLl-xg3g98Ir5ADQjmU3u9SHF-Pue/view"
+    },
+    {
+      "id": "1w3Vzlk2j-xkDyaL-e4WY9C7OXxAJ02Dz",
+      "name": "12 - Counterspell (Deflection).png",
+      "image": "https://drive.google.com/thumbnail?id=1w3Vzlk2j-xkDyaL-e4WY9C7OXxAJ02Dz&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1w3Vzlk2j-xkDyaL-e4WY9C7OXxAJ02Dz&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1w3Vzlk2j-xkDyaL-e4WY9C7OXxAJ02Dz/view"
+    },
+    {
+      "id": "1f4vJHDegLjllRt2rEL7HfpYkUEzJycXP",
+      "name": "13 - Negate (Mikiri Counter).png",
+      "image": "https://drive.google.com/thumbnail?id=1f4vJHDegLjllRt2rEL7HfpYkUEzJycXP&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1f4vJHDegLjllRt2rEL7HfpYkUEzJycXP&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1f4vJHDegLjllRt2rEL7HfpYkUEzJycXP/view"
+    },
+    {
+      "id": "1IzLbrpelrkIjwgCzfv2mAmr7AQMN9pUd",
+      "name": "14 - Akki Battle Squad (Owl, Enraged Father).png",
+      "image": "https://drive.google.com/thumbnail?id=1IzLbrpelrkIjwgCzfv2mAmr7AQMN9pUd&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1IzLbrpelrkIjwgCzfv2mAmr7AQMN9pUd&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1IzLbrpelrkIjwgCzfv2mAmr7AQMN9pUd/view"
+    },
+    {
+      "id": "1WsS4OHfkLVNL2TzpPmU42WKIbtTknOat",
+      "name": "15 - Jhoira, Weatherlight Captain (Emma, the Gentle Blade).png",
+      "image": "https://drive.google.com/thumbnail?id=1WsS4OHfkLVNL2TzpPmU42WKIbtTknOat&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1WsS4OHfkLVNL2TzpPmU42WKIbtTknOat&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1WsS4OHfkLVNL2TzpPmU42WKIbtTknOat/view"
+    },
+    {
+      "id": "1mh__p_bLai0erPZA4I1y3lYVRTsjHbnR",
+      "name": "16 - Seize the Day (Bloodlust).png",
+      "image": "https://drive.google.com/thumbnail?id=1mh__p_bLai0erPZA4I1y3lYVRTsjHbnR&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1mh__p_bLai0erPZA4I1y3lYVRTsjHbnR&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1mh__p_bLai0erPZA4I1y3lYVRTsjHbnR/view"
+    },
+    {
+      "id": "1cuMXWvkfGwpUHR51v65FL-bzySyrfj-U",
+      "name": "17 - Wheel of Fate.png",
+      "image": "https://drive.google.com/thumbnail?id=1cuMXWvkfGwpUHR51v65FL-bzySyrfj-U&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1cuMXWvkfGwpUHR51v65FL-bzySyrfj-U&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1cuMXWvkfGwpUHR51v65FL-bzySyrfj-U/view"
+    },
+    {
+      "id": "1sk73y8FteKfEnsWeD8R_f5F4KXuMefXE",
+      "name": "18 - Embercleave (Remnant_ Saint Isshin) (1).png",
+      "image": "https://drive.google.com/thumbnail?id=1sk73y8FteKfEnsWeD8R_f5F4KXuMefXE&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1sk73y8FteKfEnsWeD8R_f5F4KXuMefXE&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1sk73y8FteKfEnsWeD8R_f5F4KXuMefXE/view"
+    },
+    {
+      "id": "1_Ci4fMi7vKhGxaRNM228xk3lMttlR0aL",
+      "name": "19 - Chart a Course (Plunging Strike).png",
+      "image": "https://drive.google.com/thumbnail?id=1_Ci4fMi7vKhGxaRNM228xk3lMttlR0aL&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1_Ci4fMi7vKhGxaRNM228xk3lMttlR0aL&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1_Ci4fMi7vKhGxaRNM228xk3lMttlR0aL/view"
+    },
+    {
+      "id": "1b1rJ-RJIPznGFTb8MHKePWfqe8S7w-Ye",
+      "name": "20 - Pact Weapon (Remnant_ Inner Genichiro).png",
+      "image": "https://drive.google.com/thumbnail?id=1b1rJ-RJIPznGFTb8MHKePWfqe8S7w-Ye&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1b1rJ-RJIPznGFTb8MHKePWfqe8S7w-Ye&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1b1rJ-RJIPznGFTb8MHKePWfqe8S7w-Ye/view"
+    },
+    {
+      "id": "1YusP8wW4-ev5_LVmXGmTbv8ncCGeOW8z",
+      "name": "21 - Secrets of the Golden City.png",
+      "image": "https://drive.google.com/thumbnail?id=1YusP8wW4-ev5_LVmXGmTbv8ncCGeOW8z&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1YusP8wW4-ev5_LVmXGmTbv8ncCGeOW8z&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1YusP8wW4-ev5_LVmXGmTbv8ncCGeOW8z/view"
+    },
+    {
+      "id": "1Cn95qTx4tsHT9AW5wKJjPTus3z0ygzsa",
+      "name": "22 - Enthusiastic Mechanaut (Corrupted Monk).png",
+      "image": "https://drive.google.com/thumbnail?id=1Cn95qTx4tsHT9AW5wKJjPTus3z0ygzsa&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1Cn95qTx4tsHT9AW5wKJjPTus3z0ygzsa&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1Cn95qTx4tsHT9AW5wKJjPTus3z0ygzsa/view"
+    },
+    {
+      "id": "1A-oMg9aJ1RGdHyN-S_a8DEoB3qID3knq",
+      "name": "23 - Mystical Tutor.png",
+      "image": "https://drive.google.com/thumbnail?id=1A-oMg9aJ1RGdHyN-S_a8DEoB3qID3knq&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1A-oMg9aJ1RGdHyN-S_a8DEoB3qID3knq&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1A-oMg9aJ1RGdHyN-S_a8DEoB3qID3knq/view"
+    },
+    {
+      "id": "1dJh8yBmYZ1R5DXXgOA_HbLhSy0W96o1_",
+      "name": "24 - Frantic Search.png",
+      "image": "https://drive.google.com/thumbnail?id=1dJh8yBmYZ1R5DXXgOA_HbLhSy0W96o1_&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1dJh8yBmYZ1R5DXXgOA_HbLhSy0W96o1_&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1dJh8yBmYZ1R5DXXgOA_HbLhSy0W96o1_/view"
+    },
+    {
+      "id": "1Hv2i9uuEIDVWh7OEySOdtlkWWYIsiFcH",
+      "name": "25 - Kediss, Emberclaw Familiar (Shikibu Toshikatsu Yamauchi, Seven Ashina Spears) (2).png",
+      "image": "https://drive.google.com/thumbnail?id=1Hv2i9uuEIDVWh7OEySOdtlkWWYIsiFcH&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1Hv2i9uuEIDVWh7OEySOdtlkWWYIsiFcH&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1Hv2i9uuEIDVWh7OEySOdtlkWWYIsiFcH/view"
+    },
+    {
+      "id": "1czgS_Zs0f3ukEdTxjc4J-xJS4ejjAJ3i",
+      "name": "26 - Genji Glove (Remnant_ Inner Father).png",
+      "image": "https://drive.google.com/thumbnail?id=1czgS_Zs0f3ukEdTxjc4J-xJS4ejjAJ3i&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1czgS_Zs0f3ukEdTxjc4J-xJS4ejjAJ3i&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1czgS_Zs0f3ukEdTxjc4J-xJS4ejjAJ3i/view"
+    },
+    {
+      "id": "1FolZFYWLtPwmQhMGEJRYx410GlgN4F-6",
+      "name": "27 - Brass Squire (Armored Warrior).png",
+      "image": "https://drive.google.com/thumbnail?id=1FolZFYWLtPwmQhMGEJRYx410GlgN4F-6&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1FolZFYWLtPwmQhMGEJRYx410GlgN4F-6&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1FolZFYWLtPwmQhMGEJRYx410GlgN4F-6/view"
+    },
+    {
+      "id": "17bq-q6CYrSISDPMj75Yzin7MVsIIBmy-",
+      "name": "28 - Blacksmith’s Talent (Sculptor’s Talent).png",
+      "image": "https://drive.google.com/thumbnail?id=17bq-q6CYrSISDPMj75Yzin7MVsIIBmy-&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=17bq-q6CYrSISDPMj75Yzin7MVsIIBmy-&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/17bq-q6CYrSISDPMj75Yzin7MVsIIBmy-/view"
+    },
+    {
+      "id": "14VqJHC5N6JsOe8ms4-_H7vysTS_X6F_F",
+      "name": "29 - Conqueror’s Flail (Prosthetic Tool_ Loaded Axe).png",
+      "image": "https://drive.google.com/thumbnail?id=14VqJHC5N6JsOe8ms4-_H7vysTS_X6F_F&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=14VqJHC5N6JsOe8ms4-_H7vysTS_X6F_F&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/14VqJHC5N6JsOe8ms4-_H7vysTS_X6F_F/view"
+    },
+    {
+      "id": "1NyiEkiIoYvH-xNaksr_F9rguviy91syN",
+      "name": "30 - Dragonfire Blade (Prosthetic Tool_ Shinobi Firecracker).png",
+      "image": "https://drive.google.com/thumbnail?id=1NyiEkiIoYvH-xNaksr_F9rguviy91syN&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1NyiEkiIoYvH-xNaksr_F9rguviy91syN&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1NyiEkiIoYvH-xNaksr_F9rguviy91syN/view"
+    },
+    {
+      "id": "1x5hhnsbuwzeEEgb8rR7cnjYeZFGyyZzo",
+      "name": "31 - Winged Boots (Prosthetic Tool_ Grappling Hook).png",
+      "image": "https://drive.google.com/thumbnail?id=1x5hhnsbuwzeEEgb8rR7cnjYeZFGyyZzo&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1x5hhnsbuwzeEEgb8rR7cnjYeZFGyyZzo&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1x5hhnsbuwzeEEgb8rR7cnjYeZFGyyZzo/view"
+    },
+    {
+      "id": "1YxUUCuOEygr1DvE0sgNUA6Jo_uaO_NWn",
+      "name": "32 - Sword of the Animist (Prosthetic Tool_ Loaded Shuriken).png",
+      "image": "https://drive.google.com/thumbnail?id=1YxUUCuOEygr1DvE0sgNUA6Jo_uaO_NWn&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1YxUUCuOEygr1DvE0sgNUA6Jo_uaO_NWn&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1YxUUCuOEygr1DvE0sgNUA6Jo_uaO_NWn/view"
+    },
+    {
+      "id": "1EinNYyelDKGU2vI0xV7lEjit_QaAALTW",
+      "name": "33 - Slip Out the Back (Electric Slash).png",
+      "image": "https://drive.google.com/thumbnail?id=1EinNYyelDKGU2vI0xV7lEjit_QaAALTW&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1EinNYyelDKGU2vI0xV7lEjit_QaAALTW&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1EinNYyelDKGU2vI0xV7lEjit_QaAALTW/view"
+    },
+    {
+      "id": "1mbFefk4jnCK2QvVKgArhWaIKodt6NF-n",
+      "name": "34 - Brainstorm (Flash of Lightning).png",
+      "image": "https://drive.google.com/thumbnail?id=1mbFefk4jnCK2QvVKgArhWaIKodt6NF-n&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1mbFefk4jnCK2QvVKgArhWaIKodt6NF-n&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1mbFefk4jnCK2QvVKgArhWaIKodt6NF-n/view"
+    },
+    {
+      "id": "1tQI76yK6YKUkQMdhw5wlp7ChoFu5FVgA",
+      "name": "35 - Narset’s Reversal (Lightning Reversal).png",
+      "image": "https://drive.google.com/thumbnail?id=1tQI76yK6YKUkQMdhw5wlp7ChoFu5FVgA&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1tQI76yK6YKUkQMdhw5wlp7ChoFu5FVgA&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1tQI76yK6YKUkQMdhw5wlp7ChoFu5FVgA/view"
+    },
+    {
+      "id": "1O8tUieMvntrcDwSPalMrvbpwruUAGTs0",
+      "name": "36 - Inevitable Betrayal.png",
+      "image": "https://drive.google.com/thumbnail?id=1O8tUieMvntrcDwSPalMrvbpwruUAGTs0&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1O8tUieMvntrcDwSPalMrvbpwruUAGTs0&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1O8tUieMvntrcDwSPalMrvbpwruUAGTs0/view"
+    },
+    {
+      "id": "1WwgvQB_0LHSKuPElR7cHZlDdBAFyY7-w",
+      "name": "37 - Artful Dodge (Sword Dive Thrust Attack).png",
+      "image": "https://drive.google.com/thumbnail?id=1WwgvQB_0LHSKuPElR7cHZlDdBAFyY7-w&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1WwgvQB_0LHSKuPElR7cHZlDdBAFyY7-w&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1WwgvQB_0LHSKuPElR7cHZlDdBAFyY7-w/view"
+    },
+    {
+      "id": "15hcgRSsSzO3yYxC3Zmttf-1IIU_y6ztj",
+      "name": "38 - Padeem, Consul of Innovation (Genichiro Ashina).png",
+      "image": "https://drive.google.com/thumbnail?id=15hcgRSsSzO3yYxC3Zmttf-1IIU_y6ztj&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=15hcgRSsSzO3yYxC3Zmttf-1IIU_y6ztj&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/15hcgRSsSzO3yYxC3Zmttf-1IIU_y6ztj/view"
+    },
+    {
+      "id": "197SUXyN3bgVh6rqky4z6rZUfUlP8GqTg",
+      "name": "39 - Excalibur, Sword of Eden (Shinobi Prosthetic).png",
+      "image": "https://drive.google.com/thumbnail?id=197SUXyN3bgVh6rqky4z6rZUfUlP8GqTg&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=197SUXyN3bgVh6rqky4z6rZUfUlP8GqTg&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/197SUXyN3bgVh6rqky4z6rZUfUlP8GqTg/view"
+    },
+    {
+      "id": "1JHkHb6UtRXNB-IuOK5XuJlz-8pEf0FMD",
+      "name": "40 - Dalakos, Crafter of Wonders (The Sculptor).png",
+      "image": "https://drive.google.com/thumbnail?id=1JHkHb6UtRXNB-IuOK5XuJlz-8pEf0FMD&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1JHkHb6UtRXNB-IuOK5XuJlz-8pEf0FMD&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1JHkHb6UtRXNB-IuOK5XuJlz-8pEf0FMD/view"
+    },
+    {
+      "id": "1mQagnJRU2sy14_WRSOSiSQk-siPcBie6",
+      "name": "41 - Fiendlash (Remnant_ Hatred Demon).png",
+      "image": "https://drive.google.com/thumbnail?id=1mQagnJRU2sy14_WRSOSiSQk-siPcBie6&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1mQagnJRU2sy14_WRSOSiSQk-siPcBie6&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1mQagnJRU2sy14_WRSOSiSQk-siPcBie6/view"
+    },
+    {
+      "id": "13Mf2bfgarcv184GLOLHSIpW8mUxkMfnY",
+      "name": "42 - The Reality Chip (Sculptor’s Idol).png",
+      "image": "https://drive.google.com/thumbnail?id=13Mf2bfgarcv184GLOLHSIpW8mUxkMfnY&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=13Mf2bfgarcv184GLOLHSIpW8mUxkMfnY&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/13Mf2bfgarcv184GLOLHSIpW8mUxkMfnY/view"
+    },
+    {
+      "id": "1yjz8vFFfJG85dJpU8gsm27noGUTUvf4B",
+      "name": "43 - Emry, Lurker of the Loch (O’Rin of the Water).png",
+      "image": "https://drive.google.com/thumbnail?id=1yjz8vFFfJG85dJpU8gsm27noGUTUvf4B&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1yjz8vFFfJG85dJpU8gsm27noGUTUvf4B&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1yjz8vFFfJG85dJpU8gsm27noGUTUvf4B/view"
+    },
+    {
+      "id": "1iUvMKYB8o5-Ia21bEuX2qBljvim6iaRp",
+      "name": "44 - Magnetic Theft (No Hesitation).png",
+      "image": "https://drive.google.com/thumbnail?id=1iUvMKYB8o5-Ia21bEuX2qBljvim6iaRp&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1iUvMKYB8o5-Ia21bEuX2qBljvim6iaRp&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1iUvMKYB8o5-Ia21bEuX2qBljvim6iaRp/view"
+    },
+    {
+      "id": "1iJ_r08Fs76BIs1sr7VORMtcHFskGtmms",
+      "name": "45 - Etherium Sculptor (Mist Noble).png",
+      "image": "https://drive.google.com/thumbnail?id=1iJ_r08Fs76BIs1sr7VORMtcHFskGtmms&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1iJ_r08Fs76BIs1sr7VORMtcHFskGtmms&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1iJ_r08Fs76BIs1sr7VORMtcHFskGtmms/view"
+    },
+    {
+      "id": "1wSyNqc7XWpOEshwSogUYWCa5EwvQNnyL",
+      "name": "46 - Komainu Battle Armor (Guardian Ape).png",
+      "image": "https://drive.google.com/thumbnail?id=1wSyNqc7XWpOEshwSogUYWCa5EwvQNnyL&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1wSyNqc7XWpOEshwSogUYWCa5EwvQNnyL&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1wSyNqc7XWpOEshwSogUYWCa5EwvQNnyL/view"
+    },
+    {
+      "id": "1olrGSyHhQftuzsXIMEeFAumLW4cqlEJH",
+      "name": "47 - Lizard Blades (Prosthetic Tool_ Flame Vent).png",
+      "image": "https://drive.google.com/thumbnail?id=1olrGSyHhQftuzsXIMEeFAumLW4cqlEJH&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1olrGSyHhQftuzsXIMEeFAumLW4cqlEJH&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1olrGSyHhQftuzsXIMEeFAumLW4cqlEJH/view"
+    },
+    {
+      "id": "1CDiz02-MWf_jxu21Eyrj_3xe4CJUkPry",
+      "name": "48 - Fabricate (Bond of Lord and Retainer).png",
+      "image": "https://drive.google.com/thumbnail?id=1CDiz02-MWf_jxu21Eyrj_3xe4CJUkPry&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1CDiz02-MWf_jxu21Eyrj_3xe4CJUkPry&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1CDiz02-MWf_jxu21Eyrj_3xe4CJUkPry/view"
+    },
+    {
+      "id": "1CG-fqt4nmWlGeJdI46ISNUhQ2PR_1sJ6",
+      "name": "49 - Rakdos Signet (Ako’s Sugar).png",
+      "image": "https://drive.google.com/thumbnail?id=1CG-fqt4nmWlGeJdI46ISNUhQ2PR_1sJ6&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1CG-fqt4nmWlGeJdI46ISNUhQ2PR_1sJ6&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1CG-fqt4nmWlGeJdI46ISNUhQ2PR_1sJ6/view"
+    },
+    {
+      "id": "17Li5lRWRRBula_wK3aNkilORKratmwzV",
+      "name": "50 - Dimir Signet (Gachiin’s Sugar).png",
+      "image": "https://drive.google.com/thumbnail?id=17Li5lRWRRBula_wK3aNkilORKratmwzV&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=17Li5lRWRRBula_wK3aNkilORKratmwzV&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/17Li5lRWRRBula_wK3aNkilORKratmwzV/view"
+    },
+    {
+      "id": "1VdBVk6qjuOil-0tiul3R_lH_57VRa9oq",
+      "name": "1 - Tetsuo, Imperial Champion (Sekiro, One-Armed Wolf).png",
+      "image": "https://drive.google.com/thumbnail?id=1VdBVk6qjuOil-0tiul3R_lH_57VRa9oq&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1VdBVk6qjuOil-0tiul3R_lH_57VRa9oq&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1VdBVk6qjuOil-0tiul3R_lH_57VRa9oq/view"
+    },
+    {
+      "id": "1oLU5QkHMnHfL2Kx75rKqNMDBr06hWlSR",
+      "name": "2 - Relentless Assault.png",
+      "image": "https://drive.google.com/thumbnail?id=1oLU5QkHMnHfL2Kx75rKqNMDBr06hWlSR&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1oLU5QkHMnHfL2Kx75rKqNMDBr06hWlSR&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1oLU5QkHMnHfL2Kx75rKqNMDBr06hWlSR/view"
+    },
+    {
+      "id": "1cuqGMx_CrEepoED6_osCRq-IPx9dLyZl",
+      "name": "3 - Slip Through Space.png",
+      "image": "https://drive.google.com/thumbnail?id=1cuqGMx_CrEepoED6_osCRq-IPx9dLyZl&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1cuqGMx_CrEepoED6_osCRq-IPx9dLyZl&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1cuqGMx_CrEepoED6_osCRq-IPx9dLyZl/view"
+    },
+    {
+      "id": "1H0e6WKtAROzcnlCnApgt21tX6DgRpzz4",
+      "name": "4 - Ancestral Vision.png",
+      "image": "https://drive.google.com/thumbnail?id=1H0e6WKtAROzcnlCnApgt21tX6DgRpzz4&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1H0e6WKtAROzcnlCnApgt21tX6DgRpzz4&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1H0e6WKtAROzcnlCnApgt21tX6DgRpzz4/view"
+    },
+    {
+      "id": "1VtmEGAmcMsP2hOzzB3mvxD6jalTILSLY",
+      "name": "5 - Twinferno.png",
+      "image": "https://drive.google.com/thumbnail?id=1VtmEGAmcMsP2hOzzB3mvxD6jalTILSLY&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1VtmEGAmcMsP2hOzzB3mvxD6jalTILSLY&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1VtmEGAmcMsP2hOzzB3mvxD6jalTILSLY/view"
+    },
+    {
+      "id": "1fM3EW_7J9qv5LZP590tV9SPgQoDMlzt-",
+      "name": "6 - Drach’Nyen (The Mortal Blade).png",
+      "image": "https://drive.google.com/thumbnail?id=1fM3EW_7J9qv5LZP590tV9SPgQoDMlzt-&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1fM3EW_7J9qv5LZP590tV9SPgQoDMlzt-&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1fM3EW_7J9qv5LZP590tV9SPgQoDMlzt-/view"
+    },
+    {
+      "id": "1_wFPlSTR0v9rnPW9bwoLb-wDI0AltnLA",
+      "name": "7 - Jhoira, Ageless Innovator (Lady Butterfly).png",
+      "image": "https://drive.google.com/thumbnail?id=1_wFPlSTR0v9rnPW9bwoLb-wDI0AltnLA&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1_wFPlSTR0v9rnPW9bwoLb-wDI0AltnLA&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1_wFPlSTR0v9rnPW9bwoLb-wDI0AltnLA/view"
+    },
+    {
+      "id": "1qTNZh3l_HMQQPX8nRNoxPUxieGusjNda",
+      "name": "8 - Oathkeeper, Takeno’s Daisho (Kusabimaru).png",
+      "image": "https://drive.google.com/thumbnail?id=1qTNZh3l_HMQQPX8nRNoxPUxieGusjNda&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1qTNZh3l_HMQQPX8nRNoxPUxieGusjNda&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1qTNZh3l_HMQQPX8nRNoxPUxieGusjNda/view"
+    },
+    {
+      "id": "1k-kaiIgSwGq4xkxDq61r7H0fKzhj2CDG",
+      "name": "9 - Gilgamesh, Master-at-Arms (Isshin, Founder of Ashina).png",
+      "image": "https://drive.google.com/thumbnail?id=1k-kaiIgSwGq4xkxDq61r7H0fKzhj2CDG&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1k-kaiIgSwGq4xkxDq61r7H0fKzhj2CDG&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1k-kaiIgSwGq4xkxDq61r7H0fKzhj2CDG/view"
+    },
+    {
+      "id": "1pNJ7YNWqQyL7NkoX8FELp3OD5_yCdwsI",
+      "name": "10 - Godo, Bandit Warlord (Gyoubu Oniwa).png",
+      "image": "https://drive.google.com/thumbnail?id=1pNJ7YNWqQyL7NkoX8FELp3OD5_yCdwsI&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1pNJ7YNWqQyL7NkoX8FELp3OD5_yCdwsI&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1pNJ7YNWqQyL7NkoX8FELp3OD5_yCdwsI/view"
+    },
+    {
+      "id": "1ohL9yB4jjT-s7FncnrIFLaXdIWod2vt6",
+      "name": "11 - Tainted Strike.png",
+      "image": "https://drive.google.com/thumbnail?id=1ohL9yB4jjT-s7FncnrIFLaXdIWod2vt6&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1ohL9yB4jjT-s7FncnrIFLaXdIWod2vt6&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1ohL9yB4jjT-s7FncnrIFLaXdIWod2vt6/view"
+    },
+    {
+      "id": "1qjjInlw0RzIgUqA0j2TLLNwnJNYwQgfn",
+      "name": "12 - Counterspell (Deflection).png",
+      "image": "https://drive.google.com/thumbnail?id=1qjjInlw0RzIgUqA0j2TLLNwnJNYwQgfn&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1qjjInlw0RzIgUqA0j2TLLNwnJNYwQgfn&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1qjjInlw0RzIgUqA0j2TLLNwnJNYwQgfn/view"
+    },
+    {
+      "id": "1eZbUrJ8tS2ljQAgWIM22tzQqns7UXTqz",
+      "name": "13 - Negate (Mikiri Counter).png",
+      "image": "https://drive.google.com/thumbnail?id=1eZbUrJ8tS2ljQAgWIM22tzQqns7UXTqz&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1eZbUrJ8tS2ljQAgWIM22tzQqns7UXTqz&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1eZbUrJ8tS2ljQAgWIM22tzQqns7UXTqz/view"
+    },
+    {
+      "id": "1Jfug0sdD2xRn8RJHqNXcRYdW8LRxANwl",
+      "name": "14 - Akki Battle Squad (Owl, Enraged Father).png",
+      "image": "https://drive.google.com/thumbnail?id=1Jfug0sdD2xRn8RJHqNXcRYdW8LRxANwl&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1Jfug0sdD2xRn8RJHqNXcRYdW8LRxANwl&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1Jfug0sdD2xRn8RJHqNXcRYdW8LRxANwl/view"
+    },
+    {
+      "id": "10JAuQSzUaRfARJr87AcGGeMDWzbURS2H",
+      "name": "15 - Jhoira, Weatherlight Captain (Emma, the Gentle Blade).png",
+      "image": "https://drive.google.com/thumbnail?id=10JAuQSzUaRfARJr87AcGGeMDWzbURS2H&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=10JAuQSzUaRfARJr87AcGGeMDWzbURS2H&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/10JAuQSzUaRfARJr87AcGGeMDWzbURS2H/view"
+    },
+    {
+      "id": "1etrcOiEUM4PYvPPz5QinRl9FWb7AyrmH",
+      "name": "16 - Seize the Day (Bloodlust).png",
+      "image": "https://drive.google.com/thumbnail?id=1etrcOiEUM4PYvPPz5QinRl9FWb7AyrmH&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1etrcOiEUM4PYvPPz5QinRl9FWb7AyrmH&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1etrcOiEUM4PYvPPz5QinRl9FWb7AyrmH/view"
+    },
+    {
+      "id": "1UZiGLMmr7I4SC6eDQWnWG7L8V4UE0liz",
+      "name": "17 - Wheel of Fate.png",
+      "image": "https://drive.google.com/thumbnail?id=1UZiGLMmr7I4SC6eDQWnWG7L8V4UE0liz&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1UZiGLMmr7I4SC6eDQWnWG7L8V4UE0liz&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1UZiGLMmr7I4SC6eDQWnWG7L8V4UE0liz/view"
+    },
+    {
+      "id": "1qn-SQaXPzUxEdEkk5SVNlsgYV86yfehf",
+      "name": "18 - Embercleave (Remnant_ Saint Isshin).png",
+      "image": "https://drive.google.com/thumbnail?id=1qn-SQaXPzUxEdEkk5SVNlsgYV86yfehf&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1qn-SQaXPzUxEdEkk5SVNlsgYV86yfehf&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1qn-SQaXPzUxEdEkk5SVNlsgYV86yfehf/view"
+    },
+    {
+      "id": "16ru-SO7KBYy2VCKsPQk6WKFZnCzV6z2L",
+      "name": "19 - Chart a Course (Plunging Strike).png",
+      "image": "https://drive.google.com/thumbnail?id=16ru-SO7KBYy2VCKsPQk6WKFZnCzV6z2L&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=16ru-SO7KBYy2VCKsPQk6WKFZnCzV6z2L&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/16ru-SO7KBYy2VCKsPQk6WKFZnCzV6z2L/view"
+    },
+    {
+      "id": "1vB3FamVKkVL2A2DSlz1J7SdwTHXUCLug",
+      "name": "20 - Pact Weapon (Remnant_ Inner Genichiro).png",
+      "image": "https://drive.google.com/thumbnail?id=1vB3FamVKkVL2A2DSlz1J7SdwTHXUCLug&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1vB3FamVKkVL2A2DSlz1J7SdwTHXUCLug&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1vB3FamVKkVL2A2DSlz1J7SdwTHXUCLug/view"
+    },
+    {
+      "id": "1bjIfXimLLdhZbGrJThkVMeczEHDMGbXA",
+      "name": "21 - Secrets of the Golden City.png",
+      "image": "https://drive.google.com/thumbnail?id=1bjIfXimLLdhZbGrJThkVMeczEHDMGbXA&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1bjIfXimLLdhZbGrJThkVMeczEHDMGbXA&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1bjIfXimLLdhZbGrJThkVMeczEHDMGbXA/view"
+    },
+    {
+      "id": "1OEWtAuzCKpx8HzwCjJ-FEDTViOiRmv4P",
+      "name": "22 - Enthusiastic Mechanaut (Corrupted Monk).png",
+      "image": "https://drive.google.com/thumbnail?id=1OEWtAuzCKpx8HzwCjJ-FEDTViOiRmv4P&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1OEWtAuzCKpx8HzwCjJ-FEDTViOiRmv4P&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1OEWtAuzCKpx8HzwCjJ-FEDTViOiRmv4P/view"
+    },
+    {
+      "id": "16Ak6GAQ7LmNi-4fL0qCSusDoPmFrPww5",
+      "name": "23 - Mystical Tutor.png",
+      "image": "https://drive.google.com/thumbnail?id=16Ak6GAQ7LmNi-4fL0qCSusDoPmFrPww5&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=16Ak6GAQ7LmNi-4fL0qCSusDoPmFrPww5&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/16Ak6GAQ7LmNi-4fL0qCSusDoPmFrPww5/view"
+    },
+    {
+      "id": "16pJTYwLkgi2p4u4BLmyEP2whrJgEbBC9",
+      "name": "24 - Frantic Search.png",
+      "image": "https://drive.google.com/thumbnail?id=16pJTYwLkgi2p4u4BLmyEP2whrJgEbBC9&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=16pJTYwLkgi2p4u4BLmyEP2whrJgEbBC9&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/16pJTYwLkgi2p4u4BLmyEP2whrJgEbBC9/view"
+    },
+    {
+      "id": "1NAk_mcvpBQgAD_f1YISiLYZtiKGReiRX",
+      "name": "25 - Kediss, Emberclaw Familiar (Shikibu Toshikatsu Yamauchi, Seven Ashina Spears) (2).png",
+      "image": "https://drive.google.com/thumbnail?id=1NAk_mcvpBQgAD_f1YISiLYZtiKGReiRX&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1NAk_mcvpBQgAD_f1YISiLYZtiKGReiRX&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1NAk_mcvpBQgAD_f1YISiLYZtiKGReiRX/view"
+    },
+    {
+      "id": "1J2vvxQHCwJ6d2AeIBsfejjggDKT08WUc",
+      "name": "26 - Genji Glove (Remnant_ Inner Father).png",
+      "image": "https://drive.google.com/thumbnail?id=1J2vvxQHCwJ6d2AeIBsfejjggDKT08WUc&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1J2vvxQHCwJ6d2AeIBsfejjggDKT08WUc&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1J2vvxQHCwJ6d2AeIBsfejjggDKT08WUc/view"
+    },
+    {
+      "id": "111miPjYDZzJzoKPtVNC41lCeelEXeqS0",
+      "name": "27 - Brass Squire (Armored Warrior).png",
+      "image": "https://drive.google.com/thumbnail?id=111miPjYDZzJzoKPtVNC41lCeelEXeqS0&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=111miPjYDZzJzoKPtVNC41lCeelEXeqS0&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/111miPjYDZzJzoKPtVNC41lCeelEXeqS0/view"
+    },
+    {
+      "id": "1AwPNrP0--kcxveuBZQewPPksgfl8eGMW",
+      "name": "28 - Blacksmith’s Talent (Sculptor’s Talent).png",
+      "image": "https://drive.google.com/thumbnail?id=1AwPNrP0--kcxveuBZQewPPksgfl8eGMW&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1AwPNrP0--kcxveuBZQewPPksgfl8eGMW&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1AwPNrP0--kcxveuBZQewPPksgfl8eGMW/view"
+    },
+    {
+      "id": "1-Pa-K1PT8-b7-zRfTlBvxYGbs4wDon6R",
+      "name": "29 - Conqueror’s Flail (Prosthetic Tool_ Loaded Axe).png",
+      "image": "https://drive.google.com/thumbnail?id=1-Pa-K1PT8-b7-zRfTlBvxYGbs4wDon6R&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1-Pa-K1PT8-b7-zRfTlBvxYGbs4wDon6R&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1-Pa-K1PT8-b7-zRfTlBvxYGbs4wDon6R/view"
+    },
+    {
+      "id": "1bwz_OrXX9mTYsBGKW4RmQ2g875Zf2n2m",
+      "name": "30 - Dragonfire Blade (Prosthetic Tool_ Shinobi Firecracker).png",
+      "image": "https://drive.google.com/thumbnail?id=1bwz_OrXX9mTYsBGKW4RmQ2g875Zf2n2m&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1bwz_OrXX9mTYsBGKW4RmQ2g875Zf2n2m&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1bwz_OrXX9mTYsBGKW4RmQ2g875Zf2n2m/view"
+    },
+    {
+      "id": "1jrr-34KeOO0MMCyxKdg1U2zhieacxXQV",
+      "name": "31 - Winged Boots (Prosthetic Tool_ Grappling Hook).png",
+      "image": "https://drive.google.com/thumbnail?id=1jrr-34KeOO0MMCyxKdg1U2zhieacxXQV&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1jrr-34KeOO0MMCyxKdg1U2zhieacxXQV&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1jrr-34KeOO0MMCyxKdg1U2zhieacxXQV/view"
+    },
+    {
+      "id": "1Dz-elR7mPHDqNGworIq6tEvzbr3GWaze",
+      "name": "32 - Sword of the Animist (Prosthetic Tool_ Loaded Shuriken).png",
+      "image": "https://drive.google.com/thumbnail?id=1Dz-elR7mPHDqNGworIq6tEvzbr3GWaze&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1Dz-elR7mPHDqNGworIq6tEvzbr3GWaze&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1Dz-elR7mPHDqNGworIq6tEvzbr3GWaze/view"
+    },
+    {
+      "id": "1SGVgIUEWcvntxUEDVx86d00Kda9LqoCH",
+      "name": "33 - Slip Out the Back (Electric Slash).png",
+      "image": "https://drive.google.com/thumbnail?id=1SGVgIUEWcvntxUEDVx86d00Kda9LqoCH&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1SGVgIUEWcvntxUEDVx86d00Kda9LqoCH&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1SGVgIUEWcvntxUEDVx86d00Kda9LqoCH/view"
+    },
+    {
+      "id": "1IJZtyidrNhda3wxPui4Gb9xGjzf_eSuY",
+      "name": "34 - Brainstorm (Flash of Lightning).png",
+      "image": "https://drive.google.com/thumbnail?id=1IJZtyidrNhda3wxPui4Gb9xGjzf_eSuY&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1IJZtyidrNhda3wxPui4Gb9xGjzf_eSuY&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1IJZtyidrNhda3wxPui4Gb9xGjzf_eSuY/view"
+    },
+    {
+      "id": "1sIl75IF0QBM96HcmrtYZeYi_zwxmxhps",
+      "name": "35 - Narset’s Reversal (Lightning Reversal).png",
+      "image": "https://drive.google.com/thumbnail?id=1sIl75IF0QBM96HcmrtYZeYi_zwxmxhps&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1sIl75IF0QBM96HcmrtYZeYi_zwxmxhps&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1sIl75IF0QBM96HcmrtYZeYi_zwxmxhps/view"
+    },
+    {
+      "id": "1bf60lbZb9ZdwpFbnppxH0lKbb6UlXicn",
+      "name": "36 - Inevitable Betrayal.png",
+      "image": "https://drive.google.com/thumbnail?id=1bf60lbZb9ZdwpFbnppxH0lKbb6UlXicn&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1bf60lbZb9ZdwpFbnppxH0lKbb6UlXicn&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1bf60lbZb9ZdwpFbnppxH0lKbb6UlXicn/view"
+    },
+    {
+      "id": "1UfaSL3LyhJLuOK_YBet-MJflNuAfk5te",
+      "name": "37 - Artful Dodge (Sword Dive Thrust Attack).png",
+      "image": "https://drive.google.com/thumbnail?id=1UfaSL3LyhJLuOK_YBet-MJflNuAfk5te&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1UfaSL3LyhJLuOK_YBet-MJflNuAfk5te&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1UfaSL3LyhJLuOK_YBet-MJflNuAfk5te/view"
+    },
+    {
+      "id": "1fWKs_2CoO-xyVxEWQYaeNWtIJ4eiYQSE",
+      "name": "38 - Padeem, Consul of Innovation (Genichiro Ashina).png",
+      "image": "https://drive.google.com/thumbnail?id=1fWKs_2CoO-xyVxEWQYaeNWtIJ4eiYQSE&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1fWKs_2CoO-xyVxEWQYaeNWtIJ4eiYQSE&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1fWKs_2CoO-xyVxEWQYaeNWtIJ4eiYQSE/view"
+    },
+    {
+      "id": "1nrqcFeSF3H49MVXrM7h8Qzc0NQWphSrb",
+      "name": "39 - Excalibur, Sword of Eden (Shinobi Prosthetic).png",
+      "image": "https://drive.google.com/thumbnail?id=1nrqcFeSF3H49MVXrM7h8Qzc0NQWphSrb&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1nrqcFeSF3H49MVXrM7h8Qzc0NQWphSrb&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1nrqcFeSF3H49MVXrM7h8Qzc0NQWphSrb/view"
+    },
+    {
+      "id": "12tzSb-lql6M-XeUIpo_ZRtsq2kncHrKD",
+      "name": "40 - Dalakos, Crafter of Wonders (The Sculptor).png",
+      "image": "https://drive.google.com/thumbnail?id=12tzSb-lql6M-XeUIpo_ZRtsq2kncHrKD&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=12tzSb-lql6M-XeUIpo_ZRtsq2kncHrKD&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/12tzSb-lql6M-XeUIpo_ZRtsq2kncHrKD/view"
+    },
+    {
+      "id": "1RWYH_yVMg8VzLxk-KHFv13vM7duA9Jxg",
+      "name": "41 - Fiendlash (Remnant_ Hatred Demon).png",
+      "image": "https://drive.google.com/thumbnail?id=1RWYH_yVMg8VzLxk-KHFv13vM7duA9Jxg&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1RWYH_yVMg8VzLxk-KHFv13vM7duA9Jxg&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1RWYH_yVMg8VzLxk-KHFv13vM7duA9Jxg/view"
+    },
+    {
+      "id": "1zUFnyPo2jB_UUdK2f_J9_pRa4fuZwjDk",
+      "name": "42 - The Reality Chip (Sculptor’s Idol).png",
+      "image": "https://drive.google.com/thumbnail?id=1zUFnyPo2jB_UUdK2f_J9_pRa4fuZwjDk&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1zUFnyPo2jB_UUdK2f_J9_pRa4fuZwjDk&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1zUFnyPo2jB_UUdK2f_J9_pRa4fuZwjDk/view"
+    },
+    {
+      "id": "1eJ6UEJx9OWl7-P9rTjelvtU1N12RVhue",
+      "name": "43 - Emry, Lurker of the Loch (O’Rin of the Water).png",
+      "image": "https://drive.google.com/thumbnail?id=1eJ6UEJx9OWl7-P9rTjelvtU1N12RVhue&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1eJ6UEJx9OWl7-P9rTjelvtU1N12RVhue&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1eJ6UEJx9OWl7-P9rTjelvtU1N12RVhue/view"
+    },
+    {
+      "id": "1ww4DkqeCkLp4k5TvsXyiuZE99aDDDgOl",
+      "name": "44 - Magnetic Theft (No Hesitation).png",
+      "image": "https://drive.google.com/thumbnail?id=1ww4DkqeCkLp4k5TvsXyiuZE99aDDDgOl&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1ww4DkqeCkLp4k5TvsXyiuZE99aDDDgOl&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1ww4DkqeCkLp4k5TvsXyiuZE99aDDDgOl/view"
+    },
+    {
+      "id": "1ctPkJekJSqqgg5sxUpwDx4kQ7uS0EyNa",
+      "name": "45 - Etherium Sculptor (Mist Noble).png",
+      "image": "https://drive.google.com/thumbnail?id=1ctPkJekJSqqgg5sxUpwDx4kQ7uS0EyNa&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1ctPkJekJSqqgg5sxUpwDx4kQ7uS0EyNa&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1ctPkJekJSqqgg5sxUpwDx4kQ7uS0EyNa/view"
+    },
+    {
+      "id": "1jU5_Fz4JAD5swW2CltMCqUAOXjnWaFop",
+      "name": "46 - Komainu Battle Armor (Guardian Ape).png",
+      "image": "https://drive.google.com/thumbnail?id=1jU5_Fz4JAD5swW2CltMCqUAOXjnWaFop&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1jU5_Fz4JAD5swW2CltMCqUAOXjnWaFop&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1jU5_Fz4JAD5swW2CltMCqUAOXjnWaFop/view"
+    },
+    {
+      "id": "1y87QHH6mpEzxqmqutlQCnZGnESnwOqHV",
+      "name": "47 - Lizard Blades (Prosthetic Tool_ Flame Vent).png",
+      "image": "https://drive.google.com/thumbnail?id=1y87QHH6mpEzxqmqutlQCnZGnESnwOqHV&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1y87QHH6mpEzxqmqutlQCnZGnESnwOqHV&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1y87QHH6mpEzxqmqutlQCnZGnESnwOqHV/view"
+    },
+    {
+      "id": "1f9AwfyOzYjTspZDlpY0JmuN39ndY9rbv",
+      "name": "48 - Fabricate (Bond of Lord and Retainer).png",
+      "image": "https://drive.google.com/thumbnail?id=1f9AwfyOzYjTspZDlpY0JmuN39ndY9rbv&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1f9AwfyOzYjTspZDlpY0JmuN39ndY9rbv&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1f9AwfyOzYjTspZDlpY0JmuN39ndY9rbv/view"
+    },
+    {
+      "id": "1ErisBC-XM0tuF67EsZMkMVx5OdnNvzLf",
+      "name": "49 - Rakdos Signet (Ako’s Sugar).png",
+      "image": "https://drive.google.com/thumbnail?id=1ErisBC-XM0tuF67EsZMkMVx5OdnNvzLf&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1ErisBC-XM0tuF67EsZMkMVx5OdnNvzLf&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1ErisBC-XM0tuF67EsZMkMVx5OdnNvzLf/view"
+    },
+    {
+      "id": "1Va94nKzBTmOsSaPOmU31zw3A683FDIQM",
+      "name": "50 - Dimir Signet (Gachiin’s Sugar).png",
+      "image": "https://drive.google.com/thumbnail?id=1Va94nKzBTmOsSaPOmU31zw3A683FDIQM&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1Va94nKzBTmOsSaPOmU31zw3A683FDIQM&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1Va94nKzBTmOsSaPOmU31zw3A683FDIQM/view"
+    },
+    {
+      "id": "1-X_dEMOfc-zh3fFLAhXeYc04chipD82F",
+      "name": "City’s Blessing.png",
+      "image": "https://drive.google.com/thumbnail?id=1-X_dEMOfc-zh3fFLAhXeYc04chipD82F&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1-X_dEMOfc-zh3fFLAhXeYc04chipD82F&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1-X_dEMOfc-zh3fFLAhXeYc04chipD82F/view"
+    },
+    {
+      "id": "1TamUCF88h0fArf3r2Po-bM4ig6P0ON7d",
+      "name": "Phyrexian Germ (Old Dragon of the Tree).png",
+      "image": "https://drive.google.com/thumbnail?id=1TamUCF88h0fArf3r2Po-bM4ig6P0ON7d&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1TamUCF88h0fArf3r2Po-bM4ig6P0ON7d&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1TamUCF88h0fArf3r2Po-bM4ig6P0ON7d/view"
+    },
+    {
+      "id": "1nvbxrHYB4XpVajG-bcwMky7aFe0GzzAc",
+      "name": "Poison Counter.png",
+      "image": "https://drive.google.com/thumbnail?id=1nvbxrHYB4XpVajG-bcwMky7aFe0GzzAc&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1nvbxrHYB4XpVajG-bcwMky7aFe0GzzAc&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1nvbxrHYB4XpVajG-bcwMky7aFe0GzzAc/view"
+    },
+    {
+      "id": "1KzW2zVRo7lIAij5QfHiz3eiDHEV7xo3K",
+      "name": "Sword.png",
+      "image": "https://drive.google.com/thumbnail?id=1KzW2zVRo7lIAij5QfHiz3eiDHEV7xo3K&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1KzW2zVRo7lIAij5QfHiz3eiDHEV7xo3K&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1KzW2zVRo7lIAij5QfHiz3eiDHEV7xo3K/view"
+    },
+    {
+      "id": "1c-EJV4apJHGGZhge9989lGuAykbC_Xpb",
+      "name": "Treasure.png",
+      "image": "https://drive.google.com/thumbnail?id=1c-EJV4apJHGGZhge9989lGuAykbC_Xpb&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1c-EJV4apJHGGZhge9989lGuAykbC_Xpb&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1c-EJV4apJHGGZhge9989lGuAykbC_Xpb/view"
+    },
+    {
+      "id": "1YuBLxT43nOCJWBGUny5CwxOpnUq0AmPP",
+      "name": "City’s Blessing.png",
+      "image": "https://drive.google.com/thumbnail?id=1YuBLxT43nOCJWBGUny5CwxOpnUq0AmPP&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1YuBLxT43nOCJWBGUny5CwxOpnUq0AmPP&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1YuBLxT43nOCJWBGUny5CwxOpnUq0AmPP/view"
+    },
+    {
+      "id": "1qX3mQoWi4iAGsNh2m1x1zojKn6ZqjHwm",
+      "name": "Phyrexian Germ (Old Dragon of the Tree).png",
+      "image": "https://drive.google.com/thumbnail?id=1qX3mQoWi4iAGsNh2m1x1zojKn6ZqjHwm&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1qX3mQoWi4iAGsNh2m1x1zojKn6ZqjHwm&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1qX3mQoWi4iAGsNh2m1x1zojKn6ZqjHwm/view"
+    },
+    {
+      "id": "1opBiR02-VD9hsKY_xyXKYg8TAwQzHXHi",
+      "name": "Poison Counter.png",
+      "image": "https://drive.google.com/thumbnail?id=1opBiR02-VD9hsKY_xyXKYg8TAwQzHXHi&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1opBiR02-VD9hsKY_xyXKYg8TAwQzHXHi&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1opBiR02-VD9hsKY_xyXKYg8TAwQzHXHi/view"
+    },
+    {
+      "id": "193ufxfEB0juKS4h-eFFDp839OB7Puwfb",
+      "name": "Sword.png",
+      "image": "https://drive.google.com/thumbnail?id=193ufxfEB0juKS4h-eFFDp839OB7Puwfb&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=193ufxfEB0juKS4h-eFFDp839OB7Puwfb&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/193ufxfEB0juKS4h-eFFDp839OB7Puwfb/view"
+    },
+    {
+      "id": "1RDsAQixdpr2TJfeWiHtf715DvGhBgv3M",
+      "name": "Treasure.png",
+      "image": "https://drive.google.com/thumbnail?id=1RDsAQixdpr2TJfeWiHtf715DvGhBgv3M&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1RDsAQixdpr2TJfeWiHtf715DvGhBgv3M&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1RDsAQixdpr2TJfeWiHtf715DvGhBgv3M/view"
+    }
+  ]
+}
