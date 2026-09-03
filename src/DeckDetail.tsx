@@ -236,15 +236,24 @@ function TextList({
 }
 
 function PreviewUnavailable({ deck }: { deck: Deck }) {
+  const isCollection = deck.kind === 'collection';
   return (
     <section className="preview-unavailable">
       <div className="unavailable-mark">
-        <ImageOff size={28} />
+        {isCollection ? <Images size={28} /> : <ImageOff size={28} />}
       </div>
-      <span className="section-number">DECK DATA / PENDING</span>
-      <h2>This decklist has not been cached yet.</h2>
+      <span className="section-number">
+        {isCollection ? 'COLLECTION / CREATOR ARCHIVE' : 'DECK DATA / PENDING'}
+      </span>
+      <h2>
+        {isCollection
+          ? 'This is an art collection, not a complete decklist.'
+          : 'This decklist has not been cached yet.'}
+      </h2>
       <p>
-        {/moxfield/i.test(deck.decklist.label)
+        {isCollection
+          ? 'Browse the custom card images above, or open the original folder for the complete creator-hosted collection.'
+          : /moxfield/i.test(deck.decklist.label)
           ? 'Moxfield currently blocks automated catalog imports. The original decklist is still available, and a future checked-in text export can activate this view without changing the page.'
           : 'This source does not currently expose a reliable structured export. The original links remain available while the community works toward a cached list.'}
       </p>

@@ -437,7 +437,13 @@ def main() -> None:
     if OUTPUT.exists():
         try:
             previous = json.loads(OUTPUT.read_text(encoding="utf-8"))
-            existing = {str(deck["id"]): deck for deck in previous.get("decks", [])}
+            existing = {
+                str(item["id"]): item
+                for item in [
+                    *previous.get("decks", []),
+                    *previous.get("collections", []),
+                ]
+            }
         except (OSError, ValueError, KeyError, TypeError):
             pass
 
@@ -468,7 +474,7 @@ def main() -> None:
         if row.get("A") and (row.get("B_url") or row.get("C_url") or row.get("D_url"))
     ]
     enrich_previews(decks, existing)
-    enrich_galleries(decks, existing)
+    enrich_galleries([*decks, *collections], existing)
     document = {
         "source": SOURCE_URL,
         "decks": decks,

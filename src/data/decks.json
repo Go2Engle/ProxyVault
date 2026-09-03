@@ -30145,7 +30145,13 @@
         "label": "Mikiebo/ReFLeXLyubo",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1hv2917/update_mr_house_fallout_proxy_deck_the_house/"
       },
-      "notes": "68 Fallout Reskins"
+      "notes": "68 Fallout Reskins",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 77,
+        "partial": false,
+        "path": "./data/galleries/fallout-mr-house-precon-upgrades-aab95c8cc2.json"
+      }
     },
     {
       "id": "final-fantasy-scions-spellcraft-precon-upgrades-db56262bad",
@@ -30163,7 +30169,13 @@
         "label": "Ensaga",
         "url": ""
       },
-      "notes": "Suggested Cuts/Swaps"
+      "notes": "Suggested Cuts/Swaps",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 20,
+        "partial": false,
+        "path": "./data/galleries/final-fantasy-scions-spellcraft-precon-upgrades-db56262bad.json"
+      }
     },
     {
       "id": "pok-mon-shocks-basic-lands-9432402750",
@@ -30181,7 +30193,13 @@
         "label": "Speedster2814",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1svomhh/pok%C3%A9mon_proxies_shocks_and_basics/"
       },
-      "notes": ""
+      "notes": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 30,
+        "partial": false,
+        "path": "./data/galleries/pok-mon-shocks-basic-lands-9432402750.json"
+      }
     },
     {
       "id": "star-wars-basic-lands-fc3006faba",
@@ -30199,7 +30217,13 @@
         "label": "Havsglimt",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1us53ek/complete_star_wars_droid_army_commander_deck_50/"
       },
-      "notes": ""
+      "notes": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 50,
+        "partial": false,
+        "path": "./data/galleries/star-wars-basic-lands-fc3006faba.json"
+      }
     },
     {
       "id": "fractal-art-basic-lands-a3afa59b40",
@@ -30217,7 +30241,13 @@
         "label": "Speedster2814",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1vdytem/artist_series_logan_apple_thoughtweaver_fractal/"
       },
-      "notes": "Includes Wastes"
+      "notes": "Includes Wastes",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 24,
+        "partial": false,
+        "path": "./data/galleries/fractal-art-basic-lands-a3afa59b40.json"
+      }
     }
   ]
 }
