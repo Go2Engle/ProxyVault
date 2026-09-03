@@ -5,7 +5,9 @@ import {
   Code2,
   Download,
   ExternalLink,
+  Grid3X3,
   Layers3,
+  List,
   Search,
   Sparkles,
 } from 'lucide-react';
@@ -95,6 +97,58 @@ function DeckCard({
   );
 }
 
+function DeckListRow({
+  deck,
+  index,
+  onOpen,
+}: {
+  deck: Deck;
+  index: number;
+  onOpen: (deck: Deck) => void;
+}) {
+  const { title, variant } = splitTheme(deck.theme);
+  const { commander, archetype } = splitBuild(deck.commanderArchetype);
+  const tags = tagsFor(deck).slice(0, 3);
+  return (
+    <article
+      className="deck-list-row"
+      style={{ '--deck-accent': accentFor(deck.theme) } as React.CSSProperties}
+    >
+      <button onClick={() => onOpen(deck)} aria-label={`View ${deck.theme}`}>
+        <span className="list-row-index">
+          <i>{title.slice(0, 1)}</i>
+          <small>PV–{String(index + 1).padStart(3, '0')}</small>
+        </span>
+        <span className="list-row-title">
+          <small>{variant}</small>
+          <strong>{title}</strong>
+          {tags.length > 0 && (
+            <span className="list-row-tags">
+              {tags.map((tag) => (
+                <i key={tag}>{tag}</i>
+              ))}
+            </span>
+          )}
+        </span>
+        <span className="list-row-build">
+          <ManaPips colors={colorsFor(deck.commanderArchetype)} />
+          <span>
+            <strong>{commander}</strong>
+            <small>{archetype}</small>
+          </span>
+        </span>
+        <span className="list-row-creator">
+          <small>Curated by</small>
+          <strong>{deck.creator.label || 'community'}</strong>
+        </span>
+        <span className="list-row-view">
+          View <ArrowUpRight size={15} />
+        </span>
+      </button>
+    </article>
+  );
+}
+
 function csvCell(value: string) {
   return `"${value.replaceAll('"', '""')}"`;
 }
@@ -133,6 +187,7 @@ export default function App() {
   const [color, setColor] = useState('');
   const [tokensOnly, setTokensOnly] = useState(false);
   const [sort, setSort] = useState('theme');
+  const [catalogLayout, setCatalogLayout] = useState<'cards' | 'list'>('cards');
   const [selected, setSelected] = useState<Deck | null>(deckFromLocation);
   const [notice, setNotice] = useState('');
   const searchRef = useRef<HTMLInputElement>(null);
@@ -318,6 +373,24 @@ export default function App() {
           </div>
           <div className="archive-controls">
             <span>{filtered.length} found</span>
+            <div className="catalog-layout-switcher" aria-label="Catalog view">
+              <button
+                className={catalogLayout === 'cards' ? 'active' : ''}
+                onClick={() => setCatalogLayout('cards')}
+                aria-label="Card view"
+                title="Card view"
+              >
+                <Grid3X3 size={14} />
+              </button>
+              <button
+                className={catalogLayout === 'list' ? 'active' : ''}
+                onClick={() => setCatalogLayout('list')}
+                aria-label="List view"
+                title="List view"
+              >
+                <List size={14} />
+              </button>
+            </div>
             <label>
               Sort{' '}
               <select
@@ -335,16 +408,29 @@ export default function App() {
           </div>
         </div>
         {filtered.length ? (
-          <div className="deck-grid">
-            {filtered.map((deck, index) => (
-              <DeckCard
-                key={deck.id}
-                deck={deck}
-                index={index}
-                onOpen={openDeck}
-              />
-            ))}
-          </div>
+          catalogLayout === 'cards' ? (
+            <div className="deck-grid">
+              {filtered.map((deck, index) => (
+                <DeckCard
+                  key={deck.id}
+                  deck={deck}
+                  index={index}
+                  onOpen={openDeck}
+                />
+              ))}
+            </div>
+          ) : (
+            <div className="deck-list">
+              {filtered.map((deck, index) => (
+                <DeckListRow
+                  key={deck.id}
+                  deck={deck}
+                  index={index}
+                  onOpen={openDeck}
+                />
+              ))}
+            </div>
+          )
         ) : (
           <div className="empty-state">
             <Search size={26} />
