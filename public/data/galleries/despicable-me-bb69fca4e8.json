@@ -1,0 +1,21 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 2,
+  "partial": true,
+  "images": [
+    {
+      "id": "09b5086084ce8876",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/4b8d2c11-53fd-4c1b-ab4f-ab3a67cd9c71_promomainpage.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/4b8d2c11-53fd-4c1b-ab4f-ab3a67cd9c71_promomainpage.png",
+      "sourceUrl": "https://ko-fi.com/s/ab1cf63a80"
+    },
+    {
+      "id": "e263310afb917c23",
+      "name": "Ko-fi preview 2",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/ceea3e45-acd2-4bac-b334-8b6a9de16218_promomainpage.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/ceea3e45-acd2-4bac-b334-8b6a9de16218_promomainpage.png",
+      "sourceUrl": "https://ko-fi.com/s/ab1cf63a80"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "e8718e00e571e5a9",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/e461841c-6054-481b-ae3c-30ae7e90797b_darksiders-store-1.jpg",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/e461841c-6054-481b-ae3c-30ae7e90797b_darksiders-store-1.jpg",
+      "sourceUrl": "https://ko-fi.com/s/4699c6c9fa"
+    }
+  ]
+}

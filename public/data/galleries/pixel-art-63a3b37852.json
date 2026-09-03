@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "6866c1322a684cc2",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/6279597e-5fe8-4f55-8698-985f945c51fa_previewforkofi-redditdeckpost.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/6279597e-5fe8-4f55-8698-985f945c51fa_previewforkofi-redditdeckpost.png",
+      "sourceUrl": "https://ko-fi.com/s/53c13f324d"
+    }
+  ]
+}

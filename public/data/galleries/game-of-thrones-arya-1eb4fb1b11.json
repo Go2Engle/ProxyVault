@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "f0c80893f9611eef",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/3ee77c6b-aa54-4e36-85e5-f5112bfd6726_valar.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/3ee77c6b-aa54-4e36-85e5-f5112bfd6726_valar.png",
+      "sourceUrl": "https://ko-fi.com/post/A-Game-of-Thrones-Valar-Morghulis-FULL-EDH-DECK-H2H317ZNR6"
+    }
+  ]
+}

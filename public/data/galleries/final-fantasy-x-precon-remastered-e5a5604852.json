@@ -1,0 +1,35 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 4,
+  "partial": true,
+  "images": [
+    {
+      "id": "18d4e77b4b6e3e6b",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/e86efffe-6642-4b2d-b98b-833865eb0b82_kofiproductgallery1.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/e86efffe-6642-4b2d-b98b-833865eb0b82_kofiproductgallery1.png",
+      "sourceUrl": "https://ko-fi.com/s/0b004d8089"
+    },
+    {
+      "id": "2753343aecf0edbf",
+      "name": "Ko-fi preview 2",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/9c0bd7b9-451e-43ee-9f84-83a0ac3e0159_kofiproductgallery2.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/9c0bd7b9-451e-43ee-9f84-83a0ac3e0159_kofiproductgallery2.png",
+      "sourceUrl": "https://ko-fi.com/s/0b004d8089"
+    },
+    {
+      "id": "18fbc2db4006ba1f",
+      "name": "Ko-fi preview 3",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/a71b2087-5410-4b72-bc48-f06b8ecabd23_kofiproductgallery3.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/a71b2087-5410-4b72-bc48-f06b8ecabd23_kofiproductgallery3.png",
+      "sourceUrl": "https://ko-fi.com/s/0b004d8089"
+    },
+    {
+      "id": "aaa38f69290badbd",
+      "name": "Ko-fi preview 4",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/2121cff2-5011-47ce-89f5-3694bd0d0d68_kofiproductgallery4.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/2121cff2-5011-47ce-89f5-3694bd0d0d68_kofiproductgallery4.png",
+      "sourceUrl": "https://ko-fi.com/s/0b004d8089"
+    }
+  ]
+}

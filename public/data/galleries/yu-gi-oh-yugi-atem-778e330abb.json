@@ -1,0 +1,28 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 3,
+  "partial": true,
+  "images": [
+    {
+      "id": "52bc50690a7a2f6c",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/7f4eac29-bca4-4e12-8800-8b72ee89d5f3_inallaarchmageritualistyugimutoatemkingofgames.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/7f4eac29-bca4-4e12-8800-8b72ee89d5f3_inallaarchmageritualistyugimutoatemkingofgames.png",
+      "sourceUrl": "https://ko-fi.com/s/a67297d463"
+    },
+    {
+      "id": "805a24df07f9d452",
+      "name": "Ko-fi preview 2",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/e5033c16-c3e2-4d13-bf24-8deba67bb74c_ertairesurrecteddarkmagician.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/e5033c16-c3e2-4d13-bf24-8deba67bb74c_ertairesurrecteddarkmagician.png",
+      "sourceUrl": "https://ko-fi.com/s/a67297d463"
+    },
+    {
+      "id": "0c5fc2137178eb2e",
+      "name": "Ko-fi preview 3",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/68251e21-f678-476f-908b-df3f042fb307_nabandeanofiterationdarkmagiciangirl1.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/68251e21-f678-476f-908b-df3f042fb307_nabandeanofiterationdarkmagiciangirl1.png",
+      "sourceUrl": "https://ko-fi.com/s/a67297d463"
+    }
+  ]
+}

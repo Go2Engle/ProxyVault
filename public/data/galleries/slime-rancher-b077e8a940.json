@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "000f18c224085a87",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/8dd10595-224b-4064-b6fb-81ab24711843_slimerancher_kofi_cover.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/8dd10595-224b-4064-b6fb-81ab24711843_slimerancher_kofi_cover.png",
+      "sourceUrl": "https://ko-fi.com/s/e023bc58a7"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "ca34cfbe671a3813",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/c051c4ed-7df1-4dc4-a23c-71d1547dd3d2_lanister.jpg",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/c051c4ed-7df1-4dc4-a23c-71d1547dd3d2_lanister.jpg",
+      "sourceUrl": "https://ko-fi.com/post/A-Game-of-Thrones-A-Lannister-always-pays-his-Deb-U7U116EMQ4"
+    }
+  ]
+}

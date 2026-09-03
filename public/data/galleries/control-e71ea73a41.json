@@ -1,0 +1,28 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 3,
+  "partial": true,
+  "images": [
+    {
+      "id": "5d7c3d1a8f87d2f1",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/085cbf76-6aba-4625-97d7-1cf5afdfa279_mairsil,thepretenderjessefen,director.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/085cbf76-6aba-4625-97d7-1cf5afdfa279_mairsil,thepretenderjessefen,director.png",
+      "sourceUrl": "https://ko-fi.com/s/af7fd61472"
+    },
+    {
+      "id": "4f9661987cfb3545",
+      "name": "Ko-fi preview 2",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/2e2c038e-024c-4e93-afdf-82ed6d11f4b9_theboard.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/2e2c038e-024c-4e93-afdf-82ed6d11f4b9_theboard.png",
+      "sourceUrl": "https://ko-fi.com/s/af7fd61472"
+    },
+    {
+      "id": "64cc8e260cc0ceb6",
+      "name": "Ko-fi preview 3",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/84c35969-70b8-4c1f-94e1-54206c8a9124_blasphemousacttakecontrol.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/84c35969-70b8-4c1f-94e1-54206c8a9124_blasphemousacttakecontrol.png",
+      "sourceUrl": "https://ko-fi.com/s/af7fd61472"
+    }
+  ]
+}

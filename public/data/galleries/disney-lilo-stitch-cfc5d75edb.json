@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "bd5606e60a1ab47c",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/1c465b2b-0ee5-4445-8372-42b80fc13fd2_lilostitchpromo1.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/1c465b2b-0ee5-4445-8372-42b80fc13fd2_lilostitchpromo1.png",
+      "sourceUrl": "https://ko-fi.com/s/95608faba8"
+    }
+  ]
+}

@@ -25,6 +25,9 @@ ARCHIDEKT_DECK_RE = re.compile(r"https?://(?:www\.)?archidekt\.com/decks/(\d+)")
 DRIVE_FOLDER_RE = re.compile(r"https?://drive\.google\.com/drive/(?:u/\d+/)?folders/([A-Za-z0-9_-]+)")
 IMGUR_ALBUM_RE = re.compile(r"https?://(?:www\.)?imgur\.com/(?:a|gallery)/([^/?#]+)")
 KOFI_PRODUCT_RE = re.compile(r"https?://(?:www\.)?ko-fi\.com/s/([A-Za-z0-9]+)")
+KOFI_POST_RE = re.compile(
+    r"https?://(?:www\.)?ko-fi\.com/post/[^/?#]*-([A-Za-z0-9]+)(?:[?#]|$)"
+)
 DRIVE_ITEM_RE = re.compile(
     r'\[\[null,"([A-Za-z0-9_-]{15,})"\],null,null,null,'
     r'"(image/(?:png|jpeg|gif|webp)|application/vnd\.google-apps\.folder)"'
@@ -35,6 +38,13 @@ try:
     KOFI_GALLERIES = json.loads(KOFI_GALLERIES_FILE.read_text(encoding="utf-8"))
 except (OSError, ValueError):
     KOFI_GALLERIES = {}
+
+
+def kofi_source_key(source_url: str) -> str | None:
+    for pattern in (KOFI_PRODUCT_RE, KOFI_POST_RE):
+        if match := pattern.match(source_url):
+            return match.group(1)
+    return None
 
 NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
 REL_NS = {"r": "http://schemas.openxmlformats.org/package/2006/relationships"}
@@ -229,14 +239,14 @@ def imgur_gallery(source_url: str) -> dict[str, object] | None:
 
 
 def kofi_gallery(source_url: str) -> dict[str, object] | None:
-    match = KOFI_PRODUCT_RE.match(source_url)
-    if not match:
+    source_key = kofi_source_key(source_url)
+    if not source_key:
         return None
-    source_images = KOFI_GALLERIES.get(match.group(1), [])
+    source_images = KOFI_GALLERIES.get(source_key, [])
     images: list[dict[str, object]] = []
     for index, item in enumerate(source_images, start=1):
         image_url = str(item.get("url") or "")
-        if not image_url.startswith("https://storage.ko-fi.com/cdn/useruploads/display/"):
+        if not image_url.startswith("https://storage.ko-fi.com/cdn/useruploads/"):
             continue
         images.append(
             {
@@ -262,7 +272,7 @@ def proxy_gallery(source_url: str) -> dict[str, object] | None:
         return drive_gallery(source_url)
     if IMGUR_ALBUM_RE.match(source_url):
         return imgur_gallery(source_url)
-    if KOFI_PRODUCT_RE.match(source_url):
+    if kofi_source_key(source_url):
         return kofi_gallery(source_url)
     return None
 
@@ -364,8 +374,8 @@ def enrich_galleries(decks: list[dict[str, object]], existing: dict[str, dict[st
         if DRIVE_FOLDER_RE.match(str(deck["deckSource"]["url"]))
         or IMGUR_ALBUM_RE.match(str(deck["deckSource"]["url"]))
         or (
-            (match := KOFI_PRODUCT_RE.match(str(deck["deckSource"]["url"])))
-            and match.group(1) in KOFI_GALLERIES
+            (source_key := kofi_source_key(str(deck["deckSource"]["url"])))
+            and source_key in KOFI_GALLERIES
         )
     ]
     with ThreadPoolExecutor(max_workers=6) as executor:

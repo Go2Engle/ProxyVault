@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "01c808951e31ec6d",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/3cfc451b-eb65-4af4-8000-64cde937caa5_screenshot2024-12-08120849.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/3cfc451b-eb65-4af4-8000-64cde937caa5_screenshot2024-12-08120849.png",
+      "sourceUrl": "https://ko-fi.com/post/A-Game-of-Thrones-The-Long-Night-FULL-EDH-DECK-P5P3175W4P"
+    }
+  ]
+}

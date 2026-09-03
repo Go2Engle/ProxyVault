@@ -19,7 +19,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Reyhan/Yoshimaru - Legends (Abzan)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 10,
+        "partial": true,
+        "path": "./data/galleries/adventure-time-card-wars-19545214f5.json"
+      }
     },
     {
       "id": "adventure-time-finn-jake-0faa2da75d",
@@ -143,7 +149,13 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Azlask - Eldrazi Typal (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 10,
+        "partial": true,
+        "path": "./data/galleries/attack-on-titan-erin-ymir-2ac943a9b4.json"
+      }
     },
     {
       "id": "attack-on-titan-ymir-cc9edc6d5a",
@@ -189,7 +201,13 @@
       },
       "notes": "Spare cards in the main folder, currently missing Aang's Iceberg and Eerie Ultimatum",
       "commanderArchetype": "Avatar Aang - Ally Typal, Element Bending (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/avatar-the-last-airbender-3a338c12cb.json"
+      }
     },
     {
       "id": "avatar-the-last-airbender-bb59e5f227",
@@ -1595,7 +1613,13 @@
       },
       "notes": "",
       "commanderArchetype": "Karlov - Lifegain (Orzhov)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/blasphemous-6662b86178.json"
+      }
     },
     {
       "id": "bloodborne-hunter-942c17f7ba",
@@ -1693,7 +1717,13 @@
       },
       "notes": "",
       "commanderArchetype": "Mairsil - Combo, Control (Grixis)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 3,
+        "partial": true,
+        "path": "./data/galleries/control-e71ea73a41.json"
+      }
     },
     {
       "id": "crash-bandicoot-crash-cortex-f0ba1e0e89",
@@ -1713,7 +1743,13 @@
       },
       "notes": "",
       "commanderArchetype": "Rashmi & Ragavan - Artifact Tokens (Temur)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/crash-bandicoot-crash-cortex-f0ba1e0e89.json"
+      }
     },
     {
       "id": "cruelty-squad-937b730407",
@@ -1863,7 +1899,13 @@
       },
       "notes": "",
       "commanderArchetype": "Akiri/Silas Renn - Voltron (WUBR)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/darksiders-aca5814230.json"
+      }
     },
     {
       "id": "dc-comics-poison-ivy-87144ad1bc",
@@ -2889,7 +2931,13 @@
       },
       "notes": "",
       "commanderArchetype": "Enrika - Zombie Typal (Golgari)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/dead-space-ed942b25b2.json"
+      }
     },
     {
       "id": "death-note-a6e2044d48",
@@ -2909,7 +2957,13 @@
       },
       "notes": "",
       "commanderArchetype": "Mathas - Aikido (Mardu)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/death-note-a6e2044d48.json"
+      }
     },
     {
       "id": "despicable-me-bb69fca4e8",
@@ -2929,7 +2983,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Mole Man - Landfall (Mono-G)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 2,
+        "partial": true,
+        "path": "./data/galleries/despicable-me-bb69fca4e8.json"
+      }
     },
     {
       "id": "destiny-2-villains-cb3809e127",
@@ -2949,7 +3009,13 @@
       },
       "notes": "",
       "commanderArchetype": "Omnath - \"Evil\" Legends (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/destiny-2-villains-cb3809e127.json"
+      }
     },
     {
       "id": "devil-may-cry-5935fbacd1",
@@ -2969,7 +3035,13 @@
       },
       "notes": "",
       "commanderArchetype": "Kefka - Discard (Grixis)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/devil-may-cry-5935fbacd1.json"
+      }
     },
     {
       "id": "devil-may-cry-53dd94c104",
@@ -3067,7 +3139,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Pir/Toothy - +1+1 Counters (Simic)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/disney-lilo-stitch-cfc5d75edb.json"
+      }
     },
     {
       "id": "disney-pixar-heroes-06afffba26",
@@ -4591,7 +4669,13 @@
       },
       "notes": "",
       "commanderArchetype": "Hazezon - Deserts, Landfall (Naya)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/dune-house-atreides-111fc8a315.json"
+      }
     },
     {
       "id": "dune-house-harkonnen-d55d8178e2",
@@ -4611,7 +4695,13 @@
       },
       "notes": "",
       "commanderArchetype": "Queza - Lifegain, Wheels (Esper)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/dune-house-harkonnen-d55d8178e2.json"
+      }
     },
     {
       "id": "dune-muad-dib-d583a5345d",
@@ -4657,7 +4747,13 @@
       },
       "notes": "",
       "commanderArchetype": "Sisay - Legends (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/elden-ring-b46e29ec2a.json"
+      }
     },
     {
       "id": "elder-scrolls-skyrim-daedric-princes-3abdd59fa6",
@@ -4677,7 +4773,13 @@
       },
       "notes": "",
       "commanderArchetype": "Child of Alara - God Typal (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 17,
+        "partial": true,
+        "path": "./data/galleries/elder-scrolls-skyrim-daedric-princes-3abdd59fa6.json"
+      }
     },
     {
       "id": "fallout-1cc2dd7c2a",
@@ -4697,7 +4799,13 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "The Gitrog - Landfall (Golgari)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 10,
+        "partial": true,
+        "path": "./data/galleries/fallout-1cc2dd7c2a.json"
+      }
     },
     {
       "id": "final-fantasy-dc115b27c4",
@@ -4821,7 +4929,13 @@
       },
       "notes": "Includes the full precon + 46 upgrades",
       "commanderArchetype": "Tidus - +1/+1 Counters (Bant)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 4,
+        "partial": true,
+        "path": "./data/galleries/final-fantasy-x-precon-remastered-e5a5604852.json"
+      }
     },
     {
       "id": "fire-emblem-engage-220a13b368",
@@ -6135,7 +6249,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Sidisi - Zombie Typal, Reanimator (Sultai)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/game-of-thrones-aegon-11651729d2.json"
+      }
     },
     {
       "id": "game-of-thrones-aegon-dorne-bf373acae3",
@@ -6181,7 +6301,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Phage - Voltron(ish) (Mono-B)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/game-of-thrones-arya-1eb4fb1b11.json"
+      }
     },
     {
       "id": "game-of-thrones-cersei-a8494f1b9e",
@@ -6201,7 +6327,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Queen Marchesa - Aikido (Mardu)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/game-of-thrones-cersei-a8494f1b9e.json"
+      }
     },
     {
       "id": "game-of-thrones-daenerys-c50f3ac5d3",
@@ -6221,7 +6353,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Zurgo & Ojutai - Dragon Typal (Jeskai)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/game-of-thrones-daenerys-c50f3ac5d3.json"
+      }
     },
     {
       "id": "game-of-thrones-daenerys-a367ea01a8",
@@ -8861,7 +8999,13 @@
       },
       "notes": "",
       "commanderArchetype": "Marina Vendrell - Rooms (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/hades-melino-cd16b820ec.json"
+      }
     },
     {
       "id": "happy-tree-friends-2731ae12ef",
@@ -10069,7 +10213,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Sidar Jabari - Knights (Esper)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 5,
+        "partial": true,
+        "path": "./data/galleries/hollow-knight-hornet-78d786b325.json"
+      }
     },
     {
       "id": "homestuck-doc-scratch-a821ed2ceb",
@@ -11217,7 +11367,13 @@
       },
       "notes": "",
       "commanderArchetype": "Rocco - Combo, Toolbox (Naya)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 5,
+        "partial": true,
+        "path": "./data/galleries/jojo-s-bizarre-adventure-steel-ball-run-2402f9fc7a.json"
+      }
     },
     {
       "id": "jojo-s-bizarre-adventure-stone-ocean-a9088a508f",
@@ -11237,7 +11393,13 @@
       },
       "notes": "",
       "commanderArchetype": "Uril - Enchantments, Voltron (Naya)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 4,
+        "partial": true,
+        "path": "./data/galleries/jojo-s-bizarre-adventure-stone-ocean-a9088a508f.json"
+      }
     },
     {
       "id": "k-pop-demon-hunters-huntr-x-8a224c0f93",
@@ -11257,7 +11419,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Lyse Hext - Spellslinger, Voltron (Azorius)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 6,
+        "partial": true,
+        "path": "./data/galleries/k-pop-demon-hunters-huntr-x-8a224c0f93.json"
+      }
     },
     {
       "id": "kakegurui-yumeko-kirari-7b205b9ad0",
@@ -11277,7 +11445,13 @@
       },
       "notes": "",
       "commanderArchetype": "Okaun/Zndrsplt - Coin Flips, Chaos (Izzet)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/kakegurui-yumeko-kirari-7b205b9ad0.json"
+      }
     },
     {
       "id": "kingdom-hearts-sora-ddf243ef28",
@@ -11297,7 +11471,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Narset - Voltron (Jeskai)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 6,
+        "partial": true,
+        "path": "./data/galleries/kingdom-hearts-sora-ddf243ef28.json"
+      }
     },
     {
       "id": "league-of-legends-lux-star-guardians-745a5def63",
@@ -12731,6 +12911,12 @@
             "collectorNumber": "324"
           }
         ]
+      },
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 8,
+        "partial": true,
+        "path": "./data/galleries/league-of-legends-runeterra-gangplank-9afad77c02.json"
       }
     },
     {
@@ -12751,7 +12937,13 @@
       },
       "notes": "",
       "commanderArchetype": "Wilhelt - Aristocrats, Zombie Typal (Dimir)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/loop-hero-50f9475d74.json"
+      }
     },
     {
       "id": "lovecraft-mythos-king-in-yellow-e142ff8681",
@@ -14141,7 +14333,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Havi - Legends (Naya)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 14,
+        "partial": true,
+        "path": "./data/galleries/marvel-x-men-ff20e2b514.json"
+      }
     },
     {
       "id": "mass-effect-reapers-cd03078739",
@@ -15821,7 +16019,13 @@
       },
       "notes": "Spare Card: Skeleton Archer",
       "commanderArchetype": "Wandering Minstrel - Landfall, IP-themed (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 10,
+        "partial": true,
+        "path": "./data/galleries/minecraft-a20a98d210.json"
+      }
     },
     {
       "id": "my-hero-academia-a49849259d",
@@ -17127,7 +17331,13 @@
       },
       "notes": "Card Back, Tokens, Alt Art Options",
       "commanderArchetype": "The Vision - Artifacts, Voltron (Colourless)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 7,
+        "partial": true,
+        "path": "./data/galleries/nier-e53d8bdc8e.json"
+      }
     },
     {
       "id": "no-man-s-sky-c38e4e4d31",
@@ -18397,6 +18607,12 @@
             "collectorNumber": "261"
           }
         ]
+      },
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 15,
+        "partial": true,
+        "path": "./data/galleries/outer-wilds-d355be4b45.json"
       }
     },
     {
@@ -19681,7 +19897,13 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Ur-Dragon - Dragon Typal (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/pixel-art-63a3b37852.json"
+      }
     },
     {
       "id": "pok-mon-cynthia-aff7467d7e",
@@ -19701,7 +19923,13 @@
       },
       "notes": "",
       "commanderArchetype": "Sisay - Legends (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/pok-mon-cynthia-aff7467d7e.json"
+      }
     },
     {
       "id": "pok-mon-pok-mon-breeder-6ac2766e4c",
@@ -22053,7 +22281,13 @@
       },
       "notes": "",
       "commanderArchetype": "Wandering Minstrel - Landfall (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/shadow-of-the-colossus-bd2b37ddbb.json"
+      }
     },
     {
       "id": "simpsons-steamed-hams-76f48c3d28",
@@ -22125,7 +22359,13 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Aeve - Ooze Typal (Mono-G)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/slime-rancher-b077e8a940.json"
+      }
     },
     {
       "id": "solo-leveling-ce5a55d6cb",
@@ -22171,7 +22411,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Dr. Eggman - Constructs (Grixis)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 6,
+        "partial": true,
+        "path": "./data/galleries/sonic-the-hedgehog-dr-eggman-08974904f4.json"
+      }
     },
     {
       "id": "sonic-the-hedgehog-tails-4a447bc001",
@@ -23283,7 +23529,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Second Doctor/Donna - Aikido (Jeskai)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 9,
+        "partial": true,
+        "path": "./data/galleries/spy-x-family-forger-family-350cb488ae.json"
+      }
     },
     {
       "id": "star-wars-darth-vader-32985ebd2c",
@@ -23303,7 +23555,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Kaervek - Spellslinger (Mono-B)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 4,
+        "partial": true,
+        "path": "./data/galleries/star-wars-darth-vader-32985ebd2c.json"
+      }
     },
     {
       "id": "star-wars-droid-army-2b34c1976f",
@@ -24353,6 +24611,12 @@
             "collectorNumber": "271"
           }
         ]
+      },
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 10,
+        "partial": true,
+        "path": "./data/galleries/steven-universe-a67652894c.json"
       }
     },
     {
@@ -25561,6 +25825,12 @@
             "collectorNumber": "409"
           }
         ]
+      },
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 20,
+        "partial": true,
+        "path": "./data/galleries/subnautica-2c108c88c0.json"
       }
     },
     {
@@ -26743,7 +27013,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Satoru Umezawa - Ninja Typal (Dimir)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 6,
+        "partial": true,
+        "path": "./data/galleries/teenage-mutant-ninja-turtles-d1a5c8ae24.json"
+      }
     },
     {
       "id": "the-last-of-us-f1794350d7",
@@ -27903,7 +28179,13 @@
       },
       "notes": "",
       "commanderArchetype": "Beluna - Adventures (Temur)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/the-legend-of-zelda-zelda-e4e0acf385.json"
+      }
     },
     {
       "id": "the-witcher-monsters-a3ae4c541e",
@@ -27975,7 +28257,13 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Tom Bombadil - Sagas (WUBRG)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 8,
+        "partial": true,
+        "path": "./data/galleries/the-witcher-07606e3463.json"
+      }
     },
     {
       "id": "undertale-deltarune-24517ddf98",
@@ -28021,7 +28309,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Éowyn - Knight Typal (Jeskai)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/warhammer-fantasy-repanse-e80c8007ba.json"
+      }
     },
     {
       "id": "warhammer-fantasy-tomb-kings-8bdbe7ee8f",
@@ -28041,7 +28335,13 @@
       },
       "notes": "No decklist so adjust 24 basic lands as desired (I suggest 15 Swamps/9 Islands). Tokens",
       "commanderArchetype": "Wilhelt - Zombie Typal (Dimir)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 6,
+        "partial": true,
+        "path": "./data/galleries/warhammer-fantasy-tomb-kings-8bdbe7ee8f.json"
+      }
     },
     {
       "id": "wednesday-netflix-the-addams-family-401ae24528",
@@ -29819,7 +30119,13 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Inalla - Wizard Typal (Grixis)",
-      "aiUse": ""
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 3,
+        "partial": true,
+        "path": "./data/galleries/yu-gi-oh-yugi-atem-778e330abb.json"
+      }
     }
   ],
   "collections": [

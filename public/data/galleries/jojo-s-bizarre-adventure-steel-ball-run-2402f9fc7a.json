@@ -1,0 +1,42 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 5,
+  "partial": true,
+  "images": [
+    {
+      "id": "8ca676cc1516309d",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/ce87ca92-644b-450c-8a79-a556334ce0cf_rocco,caberetticatererfunnyvalentine.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/ce87ca92-644b-450c-8a79-a556334ce0cf_rocco,caberetticatererfunnyvalentine.png",
+      "sourceUrl": "https://ko-fi.com/s/c99f4c3436"
+    },
+    {
+      "id": "168ceded4f3c4f47",
+      "name": "Ko-fi preview 2",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/f5c468f1-bd5e-484c-96c9-cb78ef30d3b6_kiki-jiki,mirrorbreakerdd4c.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/f5c468f1-bd5e-484c-96c9-cb78ef30d3b6_kiki-jiki,mirrorbreakerdd4c.png",
+      "sourceUrl": "https://ko-fi.com/s/c99f4c3436"
+    },
+    {
+      "id": "886c93a8f931144b",
+      "name": "Ko-fi preview 3",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/3c56bde5-4d17-4129-8a75-ca23fed82e2b_floodedstrand.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/3c56bde5-4d17-4129-8a75-ca23fed82e2b_floodedstrand.png",
+      "sourceUrl": "https://ko-fi.com/s/c99f4c3436"
+    },
+    {
+      "id": "a0cedfca325198ee",
+      "name": "Ko-fi preview 4",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/852dd305-3908-474e-863f-aeefa0da0083_pyroblast1.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/852dd305-3908-474e-863f-aeefa0da0083_pyroblast1.png",
+      "sourceUrl": "https://ko-fi.com/s/c99f4c3436"
+    },
+    {
+      "id": "3293f3fcdb06da18",
+      "name": "Ko-fi preview 5",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/d81bfc28-5fac-4b55-b734-9a1feebae03e_nullrodwreckingball.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/d81bfc28-5fac-4b55-b734-9a1feebae03e_nullrodwreckingball.png",
+      "sourceUrl": "https://ko-fi.com/s/c99f4c3436"
+    }
+  ]
+}

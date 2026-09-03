@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "8f9019effa1cbebd",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/89806a11-0430-4201-a4cc-0b9bfef550ff_common.jpg",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/89806a11-0430-4201-a4cc-0b9bfef550ff_common.jpg",
+      "sourceUrl": "https://ko-fi.com/s/67c59f6c54"
+    }
+  ]
+}

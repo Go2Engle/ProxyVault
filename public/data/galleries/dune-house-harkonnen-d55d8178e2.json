@@ -1,0 +1,14 @@
+{
+  "provider": "Ko-fi",
+  "totalImages": 1,
+  "partial": true,
+  "images": [
+    {
+      "id": "421e621a56a2366c",
+      "name": "Ko-fi preview 1",
+      "image": "https://storage.ko-fi.com/cdn/useruploads/display/024a853e-544d-41cc-9d7a-fc41e0067a17_secret-lair-maker6.png",
+      "thumbnail": "https://storage.ko-fi.com/cdn/useruploads/display/024a853e-544d-41cc-9d7a-fc41e0067a17_secret-lair-maker6.png",
+      "sourceUrl": "https://ko-fi.com/s/601204524b"
+    }
+  ]
+}
