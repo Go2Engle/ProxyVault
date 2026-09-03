@@ -857,6 +857,53 @@ h3 {
   font-size: 12px;
   font-weight: 600;
 }
+.scroll-to-top {
+  position: fixed;
+  z-index: 70;
+  right: clamp(16px, 3vw, 38px);
+  bottom: clamp(16px, 3vw, 34px);
+  min-width: 58px;
+  height: 44px;
+  padding: 0 13px;
+  border: 1px solid #414752;
+  border-radius: 3px;
+  background: rgba(18, 22, 29, 0.94);
+  color: #d9dcd7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(12px);
+  box-shadow: 0 14px 38px rgba(0, 0, 0, 0.38);
+  cursor: pointer;
+  font-family: 'DM Mono';
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition:
+    opacity 0.18s ease,
+    transform 0.18s ease,
+    border-color 0.18s ease;
+  backdrop-filter: blur(12px);
+}
+.scroll-to-top-visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+.scroll-to-top:hover,
+.scroll-to-top:focus-visible {
+  border-color: var(--acid);
+  color: var(--acid);
+  outline: 0;
+}
+.deck-page-backdrop > .scroll-to-top:hover,
+.deck-page-backdrop > .scroll-to-top:focus-visible {
+  border-color: var(--deck-accent, var(--acid));
+  color: var(--deck-accent, var(--acid));
+}
 
 .about-section,
 .contribute-section {

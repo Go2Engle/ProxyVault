@@ -10,10 +10,12 @@ import {
   ImageOff,
   Images,
   List,
+  MessageCircle,
   Search,
   Share2,
 } from 'lucide-react';
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
+import ScrollToTop from './ScrollToTop';
 import {
   accentFor,
   colorsFor,
@@ -404,8 +406,14 @@ export default function DeckDetail({
   const { title, variant } = splitTheme(deck.theme);
   const { commander, archetype } = splitBuild(deck.commanderArchetype);
   const proxxiedReady = isProxxiedReady(deck.decklist.url);
+  const redditUrl = [
+    deck.creator.url,
+    deck.deckSource.url,
+    deck.decklist.url,
+  ].find((url) => /reddit\.com/i.test(url));
   const [mode, setMode] = useState<'visual' | 'text'>('visual');
   const [cardQuery, setCardQuery] = useState('');
+  const pageScrollRef = useRef<HTMLDivElement>(null);
   const [activeCard, setActiveCard] = useState<PreviewCard | null>(
     deck.preview?.cards.find((card) => card.category === 'Commander') ||
       deck.preview?.cards[0] ||
@@ -454,15 +462,16 @@ export default function DeckDetail({
       .then(() => onNotice('Share link copied.'));
 
   return (
-    <div className="deck-page-backdrop">
+    <div
+      className="deck-page-backdrop"
+      ref={pageScrollRef}
+      style={{ '--deck-accent': accentFor(deck.theme) } as React.CSSProperties}
+    >
       <dialog
         open
         className="deck-page"
         aria-modal="true"
         aria-labelledby="deck-page-title"
-        style={
-          { '--deck-accent': accentFor(deck.theme) } as React.CSSProperties
-        }
       >
         <header className="deck-page-nav">
           <button className="deck-back" onClick={onClose}>
@@ -528,6 +537,12 @@ export default function DeckDetail({
                 rel="noreferrer"
               >
                 <FileArchive size={17} /> Proxy files <ExternalLink size={14} />
+              </a>
+            )}
+            {redditUrl && (
+              <a href={redditUrl} target="_blank" rel="noreferrer">
+                <MessageCircle size={17} /> Reddit post{' '}
+                <ExternalLink size={14} />
               </a>
             )}
             {deck.decklist.url && (
@@ -647,6 +662,7 @@ export default function DeckDetail({
           </p>
         </footer>
       </dialog>
+      <ScrollToTop targetRef={pageScrollRef} />
     </div>
   );
 }

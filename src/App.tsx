@@ -11,6 +11,7 @@ import {
 } from 'lucide-react';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import DeckDetail from './DeckDetail';
+import ScrollToTop from './ScrollToTop';
 import catalog from './data/decks.json';
 import {
   accentFor,
@@ -443,6 +444,7 @@ export default function App() {
           <Check size={16} /> {notice}
         </output>
       )}
+      {!selected && <ScrollToTop />}
     </main>
   );
 }
