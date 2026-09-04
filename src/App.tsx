@@ -5,9 +5,13 @@ import {
   Code2,
   Download,
   ExternalLink,
+  FileText,
   Grid3X3,
+  Images,
   Layers3,
+  Link2,
   List,
+  RefreshCw,
   Search,
   Sparkles,
 } from 'lucide-react';
@@ -319,6 +323,7 @@ export default function App() {
             Browse
           </a>
           <a href="#about">About</a>
+          <a href="#how-it-works">How it works</a>
           <a className="contribute-link" href="#contribute">
             <Code2 size={16} /> Contribute
           </a>
@@ -546,9 +551,94 @@ export default function App() {
         </div>
       </section>
 
+      <section className="how-section" id="how-it-works">
+        <header className="how-heading">
+          <div>
+            <span className="section-number">04 / HOW IT WORKS</span>
+            <h2>Make every deck easy to explore.</h2>
+          </div>
+          <p>
+            Proxy Vault keeps files with their creators. What can be previewed
+            here depends on the public links saved in the community sheet.
+            These formats give visitors the richest, most reliable experience.
+          </p>
+        </header>
+
+        <div className="compatibility-grid">
+          <article className="compatibility-card">
+            <div className="compatibility-icon">
+              <FileText size={20} />
+            </div>
+            <span>Visual decklists</span>
+            <h3>Use a public Archidekt deck.</h3>
+            <p>
+              Public Archidekt links become visual stacks, searchable card
+              lists, text downloads, and a focused card inspector. Moxfield and
+              plain-text lists stay available as source links, but are not
+              rendered in the workspace yet.
+            </p>
+            <small>BEST: ARCHIDEKT.COM/DECKS/…</small>
+          </article>
+
+          <article className="compatibility-card">
+            <div className="compatibility-icon">
+              <Images size={20} />
+            </div>
+            <span>Proxy artwork</span>
+            <h3>Use public Drive folders or Imgur albums.</h3>
+            <p>
+              Set Google Drive folders to “Anyone with the link” as a viewer.
+              PNG, JPG, WebP, and GIF images are indexed, including images in
+              nested folders. Public or unlisted Imgur albums also preview
+              cleanly.
+            </p>
+            <small>BEST: ONE PUBLIC FOLDER OR ALBUM PER ENTRY</small>
+          </article>
+
+          <article className="compatibility-card">
+            <div className="compatibility-icon">
+              <Link2 size={20} />
+            </div>
+            <span>Creator context</span>
+            <h3>Keep the original post attached.</h3>
+            <p>
+              A Reddit post or creator page becomes a direct source and credit
+              action. Ko-fi shops and posts remain linked, with their publicly
+              visible artwork represented through the curated preview cache.
+            </p>
+            <small>BEST: ORIGINAL REDDIT POST OR CREATOR PAGE</small>
+          </article>
+
+          <article className="compatibility-card">
+            <div className="compatibility-icon">
+              <RefreshCw size={20} />
+            </div>
+            <span>Catalog updates</span>
+            <h3>Edit the shared spreadsheet once.</h3>
+            <p>
+              The sheet is the source of truth. The daily sync picks up new
+              rows and changed links, refreshes supported previews, and places
+              the latest entries on the Newly Added shelf.
+            </p>
+            <small>SYNCED DAILY</small>
+          </article>
+        </div>
+
+        <aside className="compatibility-recipe">
+          <span>BEST-COMPATIBILITY RECIPE</span>
+          <strong>
+            Public Drive or Imgur artwork + public Archidekt list + original
+            creator post.
+          </strong>
+          <a href={catalog.source} target="_blank" rel="noreferrer">
+            Open the source sheet <ExternalLink size={14} />
+          </a>
+        </aside>
+      </section>
+
       <section className="contribute-section" id="contribute">
         <div>
-          <span className="section-number">04 / CONTRIBUTE</span>
+          <span className="section-number">05 / CONTRIBUTE</span>
           <h2>Keep the vault useful.</h2>
         </div>
         <div>

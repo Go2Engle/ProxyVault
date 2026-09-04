@@ -42,6 +42,16 @@ python3 scripts/sync_decks.py
 
 The importer downloads the workbook as `.xlsx` and reads the hyperlink relationships that are missing from Google's CSV export. It also refreshes visual previews for public Archidekt lists and public image manifests for Google Drive and Imgur sources. Gallery manifests are split into per-deck files under `public/data/galleries` so visitors only load custom-image metadata for the deck they open. Providers that block static imports remain linked from a clearly labeled fallback page until a community-maintained export is available.
 
+## Best source compatibility
+
+For the richest deck page, give each sheet row three public links:
+
+- **Decklist:** a public Archidekt deck URL. Archidekt lists become visual stacks, searchable text lists, downloads, and card-inspector views. Moxfield and plain-text lists remain linked but are not imported into the visual workspace.
+- **Proxy artwork:** a public Google Drive folder or a public/unlisted Imgur album. For Drive, set access to **Anyone with the link → Viewer**. PNG, JPG, WebP, and GIF files are supported, including images inside nested folders.
+- **Credit and context:** the original Reddit post or creator page so visitors can reach the source directly.
+
+Ko-fi storefront and post links stay available as creator links. Their public artwork is represented through the repository's curated preview cache because Ko-fi does not offer an unattended public product-reading API.
+
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md). Deck records should be corrected at the [canonical community spreadsheet](https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0) whenever possible. Repository issues and pull requests are best for importer, accessibility, design, and deployment improvements.

@@ -15,6 +15,8 @@ Please preserve:
 - notes about tokens, card backs, bonus cards, banned cards, or missing files; and
 - the sheet's existing conventions.
 
+For the best on-site preview, pair a public Archidekt decklist with a public Google Drive folder or public/unlisted Imgur album and the original creator post. Archidekt is currently the only decklist provider imported into the full visual workspace; other decklist links remain available as external sources. Google Drive folders must use **Anyone with the link → Viewer** access. Supported gallery files are PNG, JPG, WebP, and GIF, including images in nested Drive folders.
+
 ## Site changes
 
 1. Install Node.js 22 or newer.
