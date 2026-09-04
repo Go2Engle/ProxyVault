@@ -51,6 +51,23 @@ function ManaPips({ colors }: { colors: string[] }) {
   );
 }
 
+function coverFor(deck: Deck) {
+  return (
+    deck.customGallery?.coverImage ||
+    deck.preview?.cards.find((card) => card.category === 'Commander')?.image ||
+    deck.preview?.cards[0]?.image
+  );
+}
+
+function useDeckCover(deck: Deck) {
+  const candidate = coverFor(deck);
+  const [failedCover, setFailedCover] = useState<string>();
+  return {
+    cover: candidate && candidate !== failedCover ? candidate : undefined,
+    markFailed: () => setFailedCover(candidate),
+  };
+}
+
 function DeckCard({
   deck,
   index,
@@ -63,6 +80,7 @@ function DeckCard({
   const { title, variant } = splitTheme(deck.theme);
   const { commander, archetype } = splitBuild(deck.commanderArchetype);
   const accent = accentFor(deck.theme);
+  const { cover, markFailed } = useDeckCover(deck);
   return (
     <article
       className="deck-card"
@@ -73,12 +91,23 @@ function DeckCard({
         onClick={() => onOpen(deck)}
         aria-label={`View ${deck.theme}`}
       />
-      <div className="card-topline">
-        <span>PV–{String(index + 1).padStart(3, '0')}</span>
-        <ManaPips colors={colorsFor(deck.commanderArchetype)} />
-      </div>
-      <div className="card-sigil" aria-hidden="true">
-        <span>{title.slice(0, 1)}</span>
+      <div className={`card-visual${cover ? ' card-visual-image' : ''}`}>
+        {cover ? (
+          <img
+            src={cover}
+            alt=""
+            loading="lazy"
+            onError={markFailed}
+          />
+        ) : (
+          <div className="card-sigil" aria-hidden="true">
+            <span>{title.slice(0, 1)}</span>
+          </div>
+        )}
+        <div className="card-topline">
+          <span>PV–{String(index + 1).padStart(3, '0')}</span>
+          <ManaPips colors={colorsFor(deck.commanderArchetype)} />
+        </div>
       </div>
       <div className="card-content">
         <p className="card-kicker">{variant}</p>
@@ -112,10 +141,7 @@ function NewArrivalCard({
   onOpen: (deck: Deck) => void;
 }) {
   const { title, variant } = splitTheme(deck.theme);
-  const cover =
-    deck.customGallery?.coverImage ||
-    deck.preview?.cards.find((card) => card.category === 'Commander')?.image ||
-    deck.preview?.cards[0]?.image;
+  const { cover, markFailed } = useDeckCover(deck);
   return (
     <article
       className="new-arrival-card"
@@ -124,7 +150,12 @@ function NewArrivalCard({
       <button onClick={() => onOpen(deck)} aria-label={`View ${deck.theme}`}>
         <span className="new-arrival-art">
           {cover ? (
-            <img src={cover} alt="" loading="lazy" />
+            <img
+              src={cover}
+              alt=""
+              loading="lazy"
+              onError={markFailed}
+            />
           ) : (
             <span className="new-arrival-fallback" aria-hidden="true">
               {title.slice(0, 1)}
