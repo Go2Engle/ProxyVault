@@ -18,6 +18,15 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "src" / "data" / "decks.json"
 GALLERY_DIR = ROOT / "public" / "data" / "galleries"
 KOFI_GALLERIES_FILE = ROOT / "data" / "kofi-galleries.json"
+NEWLY_ADDED_LIMIT = 6
+INITIAL_NEWLY_ADDED = [
+    "final-fantasy-x-precon-remastered-e5a5604852",
+    "diablo-8dacf13270",
+    "avatar-the-last-airbender-3a338c12cb",
+    "hi-fi-rush-3850f1c66f",
+    "backrooms-0889aa2750",
+    "game-of-thrones-house-tyrell-39a9728929",
+]
 SHEET_ID = "1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4"
 SOURCE_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/edit?gid=0#gid=0"
 EXPORT_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=xlsx"
@@ -396,11 +405,13 @@ def enrich_galleries(decks: list[dict[str, object]], existing: dict[str, dict[st
                         json.dumps(gallery, indent=2, ensure_ascii=False) + "\n",
                         encoding="utf-8",
                     )
+                    cover = (gallery.get("images") or [{}])[0]
                     deck["customGallery"] = {
                         "provider": gallery["provider"],
                         "totalImages": gallery["totalImages"],
                         "partial": gallery["partial"],
                         "path": f"./data/galleries/{deck['id']}.json",
+                        "coverImage": str(cover.get("thumbnail") or cover.get("image") or ""),
                     }
                     print(
                         f"  Gallery {completed}/{len(eligible)}: {deck['theme']} "
@@ -424,6 +435,7 @@ def enrich_galleries(decks: list[dict[str, object]], existing: dict[str, dict[st
                             "totalImages": cached["totalImages"],
                             "partial": cached.get("partial", False),
                             "path": f"./data/galleries/{deck['id']}.json",
+                            "coverImage": cached.get("coverImage", ""),
                         }
                         print(f"  Cached gallery retained for {deck['theme']}: {error}")
                     else:
@@ -433,6 +445,7 @@ def enrich_galleries(decks: list[dict[str, object]], existing: dict[str, dict[st
 
 
 def main() -> None:
+    previous: dict[str, object] = {}
     existing: dict[str, dict[str, object]] = {}
     if OUTPUT.exists():
         try:
@@ -475,8 +488,25 @@ def main() -> None:
     ]
     enrich_previews(decks, existing)
     enrich_galleries([*decks, *collections], existing)
+    all_items = [*decks, *collections]
+    current_ids = {str(item["id"]) for item in all_items}
+    detected_ids = [str(item["id"]) for item in all_items if str(item["id"]) not in existing]
+    prior_newly_added = previous.get("newlyAdded")
+    candidates = (
+        [*detected_ids, *prior_newly_added]
+        if isinstance(prior_newly_added, list)
+        else INITIAL_NEWLY_ADDED
+    )
+    newly_added: list[str] = []
+    for item_id in candidates:
+        item_id = str(item_id)
+        if item_id in current_ids and item_id not in newly_added:
+            newly_added.append(item_id)
+        if len(newly_added) >= NEWLY_ADDED_LIMIT:
+            break
     document = {
         "source": SOURCE_URL,
+        "newlyAdded": newly_added,
         "decks": decks,
         "collections": collections,
     }

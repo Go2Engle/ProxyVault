@@ -1,5 +1,13 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
+  "newlyAdded": [
+    "final-fantasy-x-precon-remastered-e5a5604852",
+    "diablo-8dacf13270",
+    "avatar-the-last-airbender-3a338c12cb",
+    "hi-fi-rush-3850f1c66f",
+    "backrooms-0889aa2750",
+    "game-of-thrones-house-tyrell-39a9728929"
+  ],
   "decks": [
     {
       "id": "adventure-time-card-wars-19545214f5",
@@ -24,7 +32,8 @@
         "provider": "Ko-fi",
         "totalImages": 10,
         "partial": true,
-        "path": "./data/galleries/adventure-time-card-wars-19545214f5.json"
+        "path": "./data/galleries/adventure-time-card-wars-19545214f5.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/a39863dd-0ee6-484e-aa25-1dbf157126e3_yoshimarueverfaithful.png"
       }
     },
     {
@@ -50,7 +59,8 @@
         "provider": "Google Drive",
         "totalImages": 68,
         "partial": false,
-        "path": "./data/galleries/adventure-time-finn-jake-0faa2da75d.json"
+        "path": "./data/galleries/adventure-time-finn-jake-0faa2da75d.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1ndQukfukOCPimh62IYRFBsGN8v34q5O1&sz=w520"
       }
     },
     {
@@ -76,7 +86,8 @@
         "provider": "Google Drive",
         "totalImages": 109,
         "partial": false,
-        "path": "./data/galleries/aliens-b2d41d5372.json"
+        "path": "./data/galleries/aliens-b2d41d5372.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1enNwmOkAyC3sp4rC1VC_GDbmuP_t4kgo&sz=w520"
       }
     },
     {
@@ -102,7 +113,8 @@
         "provider": "Google Drive",
         "totalImages": 80,
         "partial": false,
-        "path": "./data/galleries/arcane-league-of-legends-silco-a95998c029.json"
+        "path": "./data/galleries/arcane-league-of-legends-silco-a95998c029.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1aUuDzVYrSPYMfxoh4n91bGNyO-b5iD9n&sz=w520"
       }
     },
     {
@@ -128,7 +140,8 @@
         "provider": "Google Drive",
         "totalImages": 122,
         "partial": false,
-        "path": "./data/galleries/arcane-league-of-legends-9fdedb1516.json"
+        "path": "./data/galleries/arcane-league-of-legends-9fdedb1516.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=10_JeOCj8kgHGewJ1YmbziUsipqauG6-S&sz=w520"
       }
     },
     {
@@ -154,7 +167,8 @@
         "provider": "Ko-fi",
         "totalImages": 10,
         "partial": true,
-        "path": "./data/galleries/attack-on-titan-erin-ymir-2ac943a9b4.json"
+        "path": "./data/galleries/attack-on-titan-erin-ymir-2ac943a9b4.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/e7c43e11-ecd6-4a63-8c5e-a50f462c83fe_secret-lair-maker5.png"
       }
     },
     {
@@ -180,7 +194,8 @@
         "provider": "Google Drive",
         "totalImages": 58,
         "partial": false,
-        "path": "./data/galleries/attack-on-titan-ymir-cc9edc6d5a.json"
+        "path": "./data/galleries/attack-on-titan-ymir-cc9edc6d5a.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=11rEWmHyp4y6AgAtGh_DuuXC6aXwKja4T&sz=w520"
       }
     },
     {
@@ -206,7 +221,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/avatar-the-last-airbender-3a338c12cb.json"
+        "path": "./data/galleries/avatar-the-last-airbender-3a338c12cb.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/a280d9d0-1c5a-441b-8327-3b2b3f82a7d4_avatar.png"
       }
     },
     {
@@ -1416,7 +1432,8 @@
         "provider": "Google Drive",
         "totalImages": 123,
         "partial": false,
-        "path": "./data/galleries/avatar-the-last-airbender-bb59e5f227.json"
+        "path": "./data/galleries/avatar-the-last-airbender-bb59e5f227.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1RO3naMnG5knotr0VeqVIgipQOpYO7Z8E&sz=w520"
       }
     },
     {
@@ -1442,7 +1459,8 @@
         "provider": "Google Drive",
         "totalImages": 105,
         "partial": false,
-        "path": "./data/galleries/avatar-the-last-airbender-aang-a89f56fe42.json"
+        "path": "./data/galleries/avatar-the-last-airbender-aang-a89f56fe42.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=10EQ3MfMN_8-50XIHogyMJqhqrd10UTdD&sz=w520"
       }
     },
     {
@@ -1468,7 +1486,8 @@
         "provider": "Google Drive",
         "totalImages": 65,
         "partial": false,
-        "path": "./data/galleries/backrooms-0889aa2750.json"
+        "path": "./data/galleries/backrooms-0889aa2750.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1uknTl07HLKHHypvi7K89iPX5-fd3jDTo&sz=w520"
       }
     },
     {
@@ -1494,7 +1513,8 @@
         "provider": "Ko-fi",
         "totalImages": 10,
         "partial": true,
-        "path": "./data/galleries/balatro-23106a4acd.json"
+        "path": "./data/galleries/balatro-23106a4acd.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/a33c9950-74e7-465b-b962-06ce137150c3_yusrifortunesflame.png"
       }
     },
     {
@@ -1520,7 +1540,8 @@
         "provider": "Google Drive",
         "totalImages": 65,
         "partial": false,
-        "path": "./data/galleries/batman-27a4cef335.json"
+        "path": "./data/galleries/batman-27a4cef335.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1IvPPX5maJBnZdiH1HyPAjfeo6zTCBk3L&sz=w520"
       }
     },
     {
@@ -1546,7 +1567,8 @@
         "provider": "Google Drive",
         "totalImages": 76,
         "partial": false,
-        "path": "./data/galleries/berserk-guts-4d14ca87cf.json"
+        "path": "./data/galleries/berserk-guts-4d14ca87cf.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1AC5DeTxqAMj9XQnoDgzEzg0I8nLeqTCz&sz=w520"
       }
     },
     {
@@ -1572,7 +1594,8 @@
         "provider": "Google Drive",
         "totalImages": 125,
         "partial": false,
-        "path": "./data/galleries/bionicle-5de136364f.json"
+        "path": "./data/galleries/bionicle-5de136364f.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1exwgcghwIcTz-11VWb7uKVXUcXURjJ4m&sz=w520"
       }
     },
     {
@@ -1618,7 +1641,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/blasphemous-6662b86178.json"
+        "path": "./data/galleries/blasphemous-6662b86178.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/1c814054-6cca-456d-a56e-2d891805ed10_showcasecoverl.png"
       }
     },
     {
@@ -1644,7 +1668,8 @@
         "provider": "Google Drive",
         "totalImages": 87,
         "partial": false,
-        "path": "./data/galleries/bloodborne-hunter-942c17f7ba.json"
+        "path": "./data/galleries/bloodborne-hunter-942c17f7ba.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1C8IxSvqrsyuf4oc7rwfmTXoSJcG52TSX&sz=w520"
       }
     },
     {
@@ -1670,7 +1695,8 @@
         "provider": "Imgur",
         "totalImages": 109,
         "partial": false,
-        "path": "./data/galleries/bloodborne-paleblood-97b91168d6.json"
+        "path": "./data/galleries/bloodborne-paleblood-97b91168d6.json",
+        "coverImage": "https://i.imgur.com/miy5wS4h.png"
       }
     },
     {
@@ -1696,7 +1722,8 @@
         "provider": "Google Drive",
         "totalImages": 122,
         "partial": false,
-        "path": "./data/galleries/clair-obscur-expedition-33-8252000874.json"
+        "path": "./data/galleries/clair-obscur-expedition-33-8252000874.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1wYT-s8bBzEaJDtD_FBGoPSXWxNbKR8IH&sz=w520"
       }
     },
     {
@@ -1722,7 +1749,8 @@
         "provider": "Ko-fi",
         "totalImages": 3,
         "partial": true,
-        "path": "./data/galleries/control-e71ea73a41.json"
+        "path": "./data/galleries/control-e71ea73a41.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/085cbf76-6aba-4625-97d7-1cf5afdfa279_mairsil,thepretenderjessefen,director.png"
       }
     },
     {
@@ -1748,7 +1776,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/crash-bandicoot-crash-cortex-f0ba1e0e89.json"
+        "path": "./data/galleries/crash-bandicoot-crash-cortex-f0ba1e0e89.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/99383604-7554-4b17-b090-943782347fa6_common.jpg"
       }
     },
     {
@@ -1774,7 +1803,8 @@
         "provider": "Google Drive",
         "totalImages": 84,
         "partial": false,
-        "path": "./data/galleries/cruelty-squad-937b730407.json"
+        "path": "./data/galleries/cruelty-squad-937b730407.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=17fXPX4HblKNBNHO9Ef9eVxYAcj_6t6fs&sz=w520"
       }
     },
     {
@@ -1800,7 +1830,8 @@
         "provider": "Google Drive",
         "totalImages": 82,
         "partial": false,
-        "path": "./data/galleries/cyberpunk-2077-4000191bb1.json"
+        "path": "./data/galleries/cyberpunk-2077-4000191bb1.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1EDdVAH8NRXVY8Fq5AO6VZVdAqVUMy3-W&sz=w520"
       }
     },
     {
@@ -1826,7 +1857,8 @@
         "provider": "Google Drive",
         "totalImages": 229,
         "partial": false,
-        "path": "./data/galleries/cyberpunk-2077-a9dc6f4e9a.json"
+        "path": "./data/galleries/cyberpunk-2077-a9dc6f4e9a.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1Cxu-8FX_jlahaXqTFn46b6pMoobUxnh7&sz=w520"
       }
     },
     {
@@ -1852,7 +1884,8 @@
         "provider": "Google Drive",
         "totalImages": 102,
         "partial": false,
-        "path": "./data/galleries/cyberpunk-2077-c622176bac.json"
+        "path": "./data/galleries/cyberpunk-2077-c622176bac.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1Le8S7CYjB1D9o6cC_dP248XB54JMXCNw&sz=w520"
       }
     },
     {
@@ -1878,7 +1911,8 @@
         "provider": "Google Drive",
         "totalImages": 130,
         "partial": false,
-        "path": "./data/galleries/dark-souls-chosen-undead-a1904cef81.json"
+        "path": "./data/galleries/dark-souls-chosen-undead-a1904cef81.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1xCMYGajhTldoxKZWgrdAm2ak0XceDDL2&sz=w520"
       }
     },
     {
@@ -1904,7 +1938,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/darksiders-aca5814230.json"
+        "path": "./data/galleries/darksiders-aca5814230.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/e461841c-6054-481b-ae3c-30ae7e90797b_darksiders-store-1.jpg"
       }
     },
     {
@@ -2910,7 +2945,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/dc-comics-poison-ivy-87144ad1bc.json"
+        "path": "./data/galleries/dc-comics-poison-ivy-87144ad1bc.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1GKcuMGalPXjiG2pgbQW9KGHP_RQiSz5n&sz=w520"
       }
     },
     {
@@ -2936,7 +2972,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/dead-space-ed942b25b2.json"
+        "path": "./data/galleries/dead-space-ed942b25b2.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/d49394ba-8ca3-4d77-8328-b8bd334316b8_store-common.jpg"
       }
     },
     {
@@ -2962,7 +2999,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/death-note-a6e2044d48.json"
+        "path": "./data/galleries/death-note-a6e2044d48.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/0788e7a1-ce44-4e7c-9d44-eb0fefc09be7_store-common.jpg"
       }
     },
     {
@@ -2988,7 +3026,8 @@
         "provider": "Ko-fi",
         "totalImages": 2,
         "partial": true,
-        "path": "./data/galleries/despicable-me-bb69fca4e8.json"
+        "path": "./data/galleries/despicable-me-bb69fca4e8.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/4b8d2c11-53fd-4c1b-ab4f-ab3a67cd9c71_promomainpage.png"
       }
     },
     {
@@ -3014,7 +3053,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/destiny-2-villains-cb3809e127.json"
+        "path": "./data/galleries/destiny-2-villains-cb3809e127.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/aa285d4b-86b6-4ac5-b5d4-f54457c828c1_common.jpg"
       }
     },
     {
@@ -3040,7 +3080,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/devil-may-cry-5935fbacd1.json"
+        "path": "./data/galleries/devil-may-cry-5935fbacd1.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/85f8ed82-49cd-41be-90e8-339793af602d_dmc_larva.png"
       }
     },
     {
@@ -3066,7 +3107,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/devil-may-cry-53dd94c104.json"
+        "path": "./data/galleries/devil-may-cry-53dd94c104.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1Qc9rBMFC5EdOXD65_Dvuymrd-fBx7KXb&sz=w520"
       }
     },
     {
@@ -3092,7 +3134,8 @@
         "provider": "Google Drive",
         "totalImages": 77,
         "partial": false,
-        "path": "./data/galleries/diablo-8dacf13270.json"
+        "path": "./data/galleries/diablo-8dacf13270.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1Unq017iBnPdck-zsnSECgp1WpKS7GtrK&sz=w520"
       }
     },
     {
@@ -3118,7 +3161,8 @@
         "provider": "Ko-fi",
         "totalImages": 3,
         "partial": true,
-        "path": "./data/galleries/diablo-7827f6e372.json"
+        "path": "./data/galleries/diablo-7827f6e372.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/6767fb18-1773-4832-8639-a1de2c9acd7f_be%e2%80%99lakor,thedarkmasterdiablo,lordofterror3.png"
       }
     },
     {
@@ -3144,7 +3188,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/disney-lilo-stitch-cfc5d75edb.json"
+        "path": "./data/galleries/disney-lilo-stitch-cfc5d75edb.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/1c465b2b-0ee5-4445-8372-42b80fc13fd2_lilostitchpromo1.png"
       }
     },
     {
@@ -3170,7 +3215,8 @@
         "provider": "Google Drive",
         "totalImages": 96,
         "partial": false,
-        "path": "./data/galleries/disney-pixar-heroes-06afffba26.json"
+        "path": "./data/galleries/disney-pixar-heroes-06afffba26.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=19FohN8xQzRFW3-6A6TN2c3B-oeYvnbeA&sz=w520"
       }
     },
     {
@@ -3196,7 +3242,8 @@
         "provider": "Google Drive",
         "totalImages": 109,
         "partial": false,
-        "path": "./data/galleries/disney-pixar-villains-556839c1c2.json"
+        "path": "./data/galleries/disney-pixar-villains-556839c1c2.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1BYXn-975OdGjDIXb9k5HcWERagvELdGy&sz=w520"
       }
     },
     {
@@ -3222,7 +3269,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/disney-princesses-f16c6879e1.json"
+        "path": "./data/galleries/disney-princesses-f16c6879e1.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1-cy-rU0rDU7wW_2Og3jQPLbmKDz2U4pk&sz=w520"
       }
     },
     {
@@ -4648,7 +4696,8 @@
         "provider": "Google Drive",
         "totalImages": 82,
         "partial": false,
-        "path": "./data/galleries/dune-baron-harkonnen-d514991b10.json"
+        "path": "./data/galleries/dune-baron-harkonnen-d514991b10.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1mriHld9h-jtvgHddB54eZNfdbznT60d2&sz=w520"
       }
     },
     {
@@ -4674,7 +4723,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/dune-house-atreides-111fc8a315.json"
+        "path": "./data/galleries/dune-house-atreides-111fc8a315.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/024a853e-544d-41cc-9d7a-fc41e0067a17_secret-lair-maker6.png"
       }
     },
     {
@@ -4700,7 +4750,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/dune-house-harkonnen-d55d8178e2.json"
+        "path": "./data/galleries/dune-house-harkonnen-d55d8178e2.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/024a853e-544d-41cc-9d7a-fc41e0067a17_secret-lair-maker6.png"
       }
     },
     {
@@ -4726,7 +4777,8 @@
         "provider": "Google Drive",
         "totalImages": 61,
         "partial": false,
-        "path": "./data/galleries/dune-muad-dib-d583a5345d.json"
+        "path": "./data/galleries/dune-muad-dib-d583a5345d.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=10XXyNyDuTeDxjc0tLqW4kLhV9CEmakRJ&sz=w520"
       }
     },
     {
@@ -4752,7 +4804,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/elden-ring-b46e29ec2a.json"
+        "path": "./data/galleries/elden-ring-b46e29ec2a.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/53ab6539-000e-4bc1-a79f-5a2bf6cd4ab0_er_larva.png"
       }
     },
     {
@@ -4778,7 +4831,8 @@
         "provider": "Ko-fi",
         "totalImages": 17,
         "partial": true,
-        "path": "./data/galleries/elder-scrolls-skyrim-daedric-princes-3abdd59fa6.json"
+        "path": "./data/galleries/elder-scrolls-skyrim-daedric-princes-3abdd59fa6.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/93f9ccce-44ba-464b-a6a4-a8732b7b8f20_skyrimthumbnail.png"
       }
     },
     {
@@ -4804,7 +4858,8 @@
         "provider": "Ko-fi",
         "totalImages": 10,
         "partial": true,
-        "path": "./data/galleries/fallout-1cc2dd7c2a.json"
+        "path": "./data/galleries/fallout-1cc2dd7c2a.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/9b8fe1b1-b111-44cb-bf15-c86d5d850227_thegitrogravenousride.png"
       }
     },
     {
@@ -4830,7 +4885,8 @@
         "provider": "Google Drive",
         "totalImages": 157,
         "partial": false,
-        "path": "./data/galleries/final-fantasy-dc115b27c4.json"
+        "path": "./data/galleries/final-fantasy-dc115b27c4.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1ngU56sQJ7xksi_VQ7OpbZE4zA1-44Aj4&sz=w520"
       }
     },
     {
@@ -4856,7 +4912,8 @@
         "provider": "Google Drive",
         "totalImages": 215,
         "partial": false,
-        "path": "./data/galleries/final-fantasy-monsters-w-lann-reynn-f842989c49.json"
+        "path": "./data/galleries/final-fantasy-monsters-w-lann-reynn-f842989c49.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1QYIPcJPjx6UwCJymqqxMTdfnWinOXhNM&sz=w520"
       }
     },
     {
@@ -4882,7 +4939,8 @@
         "provider": "Google Drive",
         "totalImages": 215,
         "partial": false,
-        "path": "./data/galleries/final-fantasy-monsters-w-lunafreya-0b93a387ab.json"
+        "path": "./data/galleries/final-fantasy-monsters-w-lunafreya-0b93a387ab.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1XRbwGQNewHmnMsNIpAltjtilO6-r9Ks4&sz=w520"
       }
     },
     {
@@ -4908,7 +4966,8 @@
         "provider": "Google Drive",
         "totalImages": 191,
         "partial": false,
-        "path": "./data/galleries/final-fantasy-tifa-20c13f76f2.json"
+        "path": "./data/galleries/final-fantasy-tifa-20c13f76f2.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1GhdtOkp-Oxuxws9GUppQqTv5VNNtu9bO&sz=w520"
       }
     },
     {
@@ -4934,7 +4993,8 @@
         "provider": "Ko-fi",
         "totalImages": 4,
         "partial": true,
-        "path": "./data/galleries/final-fantasy-x-precon-remastered-e5a5604852.json"
+        "path": "./data/galleries/final-fantasy-x-precon-remastered-e5a5604852.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/e86efffe-6642-4b2d-b98b-833865eb0b82_kofiproductgallery1.png"
       }
     },
     {
@@ -6176,7 +6236,8 @@
         "provider": "Google Drive",
         "totalImages": 201,
         "partial": false,
-        "path": "./data/galleries/full-metal-alchemist-0c3ba00d65.json"
+        "path": "./data/galleries/full-metal-alchemist-0c3ba00d65.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1HfYR9DeyMJiHTiX_ko2_o_Xlou20NQ4Z&sz=w520"
       }
     },
     {
@@ -6202,7 +6263,8 @@
         "provider": "Google Drive",
         "totalImages": 99,
         "partial": false,
-        "path": "./data/galleries/full-metal-alchemist-88773c1790.json"
+        "path": "./data/galleries/full-metal-alchemist-88773c1790.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1uAKv_tashcJv_NRxOZL08EmtgIS_8TtE&sz=w520"
       }
     },
     {
@@ -6228,7 +6290,8 @@
         "provider": "Google Drive",
         "totalImages": 52,
         "partial": false,
-        "path": "./data/galleries/futurama-zapp-brannigan-61b4099be8.json"
+        "path": "./data/galleries/futurama-zapp-brannigan-61b4099be8.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1VPaaGDkjLZxO7gtY6Wtm1HoZvTJlFtRi&sz=w520"
       }
     },
     {
@@ -6254,7 +6317,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/game-of-thrones-aegon-11651729d2.json"
+        "path": "./data/galleries/game-of-thrones-aegon-11651729d2.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/3cfc451b-eb65-4af4-8000-64cde937caa5_screenshot2024-12-08120849.png"
       }
     },
     {
@@ -6280,7 +6344,8 @@
         "provider": "Google Drive",
         "totalImages": 101,
         "partial": false,
-        "path": "./data/galleries/game-of-thrones-aegon-dorne-bf373acae3.json"
+        "path": "./data/galleries/game-of-thrones-aegon-dorne-bf373acae3.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=12Mx6KsrXLXx3F0c8J6eLMctZ874PrKyG&sz=w520"
       }
     },
     {
@@ -6306,7 +6371,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/game-of-thrones-arya-1eb4fb1b11.json"
+        "path": "./data/galleries/game-of-thrones-arya-1eb4fb1b11.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/3ee77c6b-aa54-4e36-85e5-f5112bfd6726_valar.png"
       }
     },
     {
@@ -6332,7 +6398,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/game-of-thrones-cersei-a8494f1b9e.json"
+        "path": "./data/galleries/game-of-thrones-cersei-a8494f1b9e.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/c051c4ed-7df1-4dc4-a23c-71d1547dd3d2_lanister.jpg"
       }
     },
     {
@@ -6358,7 +6425,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/game-of-thrones-daenerys-c50f3ac5d3.json"
+        "path": "./data/galleries/game-of-thrones-daenerys-c50f3ac5d3.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/8e625572-86b4-49b0-8efc-78745b521542_slide1.jpg"
       }
     },
     {
@@ -7640,7 +7708,8 @@
         "provider": "Google Drive",
         "totalImages": 56,
         "partial": false,
-        "path": "./data/galleries/game-of-thrones-daenerys-a367ea01a8.json"
+        "path": "./data/galleries/game-of-thrones-daenerys-a367ea01a8.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1nv4ZPfqVc8hdBEznczB3XXBeD7q_l7Vq&sz=w520"
       }
     },
     {
@@ -7666,7 +7735,8 @@
         "provider": "Google Drive",
         "totalImages": 86,
         "partial": false,
-        "path": "./data/galleries/game-of-thrones-house-lannister-e5752d9376.json"
+        "path": "./data/galleries/game-of-thrones-house-lannister-e5752d9376.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1o-A7lKGlsfxaZn4qnkiskzpedD-H6njC&sz=w520"
       }
     },
     {
@@ -7692,7 +7762,8 @@
         "provider": "Google Drive",
         "totalImages": 66,
         "partial": false,
-        "path": "./data/galleries/game-of-thrones-house-tyrell-39a9728929.json"
+        "path": "./data/galleries/game-of-thrones-house-tyrell-39a9728929.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1iXGYHoiI_peFi075zRpsxlJqjXKwL7Iz&sz=w520"
       }
     },
     {
@@ -8926,7 +8997,8 @@
         "provider": "Google Drive",
         "totalImages": 68,
         "partial": false,
-        "path": "./data/galleries/game-of-thrones-jon-snow-4a515d18d5.json"
+        "path": "./data/galleries/game-of-thrones-jon-snow-4a515d18d5.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1J6DlMkUr33qA0i8Q2aC_6Xi0-UKcXeyU&sz=w520"
       }
     },
     {
@@ -8952,7 +9024,8 @@
         "provider": "Google Drive",
         "totalImages": 66,
         "partial": false,
-        "path": "./data/galleries/game-of-thrones-littlefinger-0a6d6ed402.json"
+        "path": "./data/galleries/game-of-thrones-littlefinger-0a6d6ed402.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=187HqRcodYmi3VhfP3VJC3vBcPjzEC59-&sz=w520"
       }
     },
     {
@@ -8978,7 +9051,8 @@
         "provider": "Google Drive",
         "totalImages": 51,
         "partial": false,
-        "path": "./data/galleries/game-of-thrones-house-greyjoy-dc0e0c0f92.json"
+        "path": "./data/galleries/game-of-thrones-house-greyjoy-dc0e0c0f92.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1UjwV8Emymmz4Q4f4MZrED2pzxUHU5-H3&sz=w520"
       }
     },
     {
@@ -9004,7 +9078,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/hades-melino-cd16b820ec.json"
+        "path": "./data/galleries/hades-melino-cd16b820ec.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/d5b56b0c-513b-4c39-b88b-1159b533ec0f_shop-common.jpg"
       }
     },
     {
@@ -10166,7 +10241,8 @@
         "provider": "Google Drive",
         "totalImages": 71,
         "partial": false,
-        "path": "./data/galleries/happy-tree-friends-2731ae12ef.json"
+        "path": "./data/galleries/happy-tree-friends-2731ae12ef.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1ADzW6nqEgyGKkeghNAD6KbYiMwBfMhN-&sz=w520"
       }
     },
     {
@@ -10192,7 +10268,8 @@
         "provider": "Google Drive",
         "totalImages": 124,
         "partial": false,
-        "path": "./data/galleries/hi-fi-rush-3850f1c66f.json"
+        "path": "./data/galleries/hi-fi-rush-3850f1c66f.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1cMf6DVIOQiXc8W8FHTT5JX9WEHgQcKhf&sz=w520"
       }
     },
     {
@@ -10218,7 +10295,8 @@
         "provider": "Ko-fi",
         "totalImages": 5,
         "partial": true,
-        "path": "./data/galleries/hollow-knight-hornet-78d786b325.json"
+        "path": "./data/galleries/hollow-knight-hornet-78d786b325.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/5f341721-e23e-488c-acaa-e5c9ca7e49a0_promoorange.png"
       }
     },
     {
@@ -11320,7 +11398,8 @@
         "provider": "Google Drive",
         "totalImages": 49,
         "partial": false,
-        "path": "./data/galleries/homestuck-doc-scratch-a821ed2ceb.json"
+        "path": "./data/galleries/homestuck-doc-scratch-a821ed2ceb.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1ceqJUZ0-PDdwHXQfM6tLrvfHpROFnmKb&sz=w520"
       }
     },
     {
@@ -11346,7 +11425,8 @@
         "provider": "Google Drive",
         "totalImages": 101,
         "partial": false,
-        "path": "./data/galleries/horizon-aloy-9fc2502e56.json"
+        "path": "./data/galleries/horizon-aloy-9fc2502e56.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1MdmZyWJCb5nB2Js0XvfIpscvv5OqeaFG&sz=w520"
       }
     },
     {
@@ -11372,7 +11452,8 @@
         "provider": "Ko-fi",
         "totalImages": 5,
         "partial": true,
-        "path": "./data/galleries/jojo-s-bizarre-adventure-steel-ball-run-2402f9fc7a.json"
+        "path": "./data/galleries/jojo-s-bizarre-adventure-steel-ball-run-2402f9fc7a.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/ce87ca92-644b-450c-8a79-a556334ce0cf_rocco,caberetticatererfunnyvalentine.png"
       }
     },
     {
@@ -11398,7 +11479,8 @@
         "provider": "Ko-fi",
         "totalImages": 4,
         "partial": true,
-        "path": "./data/galleries/jojo-s-bizarre-adventure-stone-ocean-a9088a508f.json"
+        "path": "./data/galleries/jojo-s-bizarre-adventure-stone-ocean-a9088a508f.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/c97a7773-79ea-466e-8930-611ec6e6f8cf_uril,themiststalkerfatherpucci.png"
       }
     },
     {
@@ -11424,7 +11506,8 @@
         "provider": "Ko-fi",
         "totalImages": 6,
         "partial": true,
-        "path": "./data/galleries/k-pop-demon-hunters-huntr-x-8a224c0f93.json"
+        "path": "./data/galleries/k-pop-demon-hunters-huntr-x-8a224c0f93.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/c1307447-b774-4725-9425-9f76682419d4_promomainpagestandard.png"
       }
     },
     {
@@ -11450,7 +11533,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/kakegurui-yumeko-kirari-7b205b9ad0.json"
+        "path": "./data/galleries/kakegurui-yumeko-kirari-7b205b9ad0.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/89806a11-0430-4201-a4cc-0b9bfef550ff_common.jpg"
       }
     },
     {
@@ -11476,7 +11560,8 @@
         "provider": "Ko-fi",
         "totalImages": 6,
         "partial": true,
-        "path": "./data/galleries/kingdom-hearts-sora-ddf243ef28.json"
+        "path": "./data/galleries/kingdom-hearts-sora-ddf243ef28.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/400ff815-c747-4ae4-b4b0-1b808972aadf_narsetenlightenedexilesorakeybleschosen2.jpeg"
       }
     },
     {
@@ -11502,7 +11587,8 @@
         "provider": "Google Drive",
         "totalImages": 58,
         "partial": false,
-        "path": "./data/galleries/league-of-legends-lux-star-guardians-745a5def63.json"
+        "path": "./data/galleries/league-of-legends-lux-star-guardians-745a5def63.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1Fcm5LAyj2B8nCBiTDmzEpNe668tUOePV&sz=w520"
       }
     },
     {
@@ -12916,7 +13002,8 @@
         "provider": "Ko-fi",
         "totalImages": 8,
         "partial": true,
-        "path": "./data/galleries/league-of-legends-runeterra-gangplank-9afad77c02.json"
+        "path": "./data/galleries/league-of-legends-runeterra-gangplank-9afad77c02.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/24c74175-b810-41fd-8f86-83c9c3a4ecc7_artfrrsie.png"
       }
     },
     {
@@ -12942,7 +13029,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/loop-hero-50f9475d74.json"
+        "path": "./data/galleries/loop-hero-50f9475d74.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/5e349a93-a857-490d-977d-8ca9fcbdb263_lh_sc_larvaedition.png"
       }
     },
     {
@@ -12968,7 +13056,8 @@
         "provider": "Google Drive",
         "totalImages": 49,
         "partial": false,
-        "path": "./data/galleries/lovecraft-mythos-king-in-yellow-e142ff8681.json"
+        "path": "./data/galleries/lovecraft-mythos-king-in-yellow-e142ff8681.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1RcPPLQxGLWRM8O2GJNPiLGtxJ-i_x2Vh&sz=w520"
       }
     },
     {
@@ -12994,7 +13083,8 @@
         "provider": "Google Drive",
         "totalImages": 134,
         "partial": false,
-        "path": "./data/galleries/marvel-galactus-54b5bc4dbe.json"
+        "path": "./data/galleries/marvel-galactus-54b5bc4dbe.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1iZD833IHonEaZR5_QrTUB_Et4llEMyCg&sz=w520"
       }
     },
     {
@@ -14312,7 +14402,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/marvel-wolverine-3d3fb5f020.json"
+        "path": "./data/galleries/marvel-wolverine-3d3fb5f020.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1qXrvyAsDFbIPH6nIFOBT_QnOzsvUczcV&sz=w520"
       }
     },
     {
@@ -14338,7 +14429,8 @@
         "provider": "Ko-fi",
         "totalImages": 14,
         "partial": true,
-        "path": "./data/galleries/marvel-x-men-ff20e2b514.json"
+        "path": "./data/galleries/marvel-x-men-ff20e2b514.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/d1c75174-1639-4a22-922b-d0c49fe7fdba_promobronze.png"
       }
     },
     {
@@ -14364,7 +14456,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/mass-effect-reapers-cd03078739.json"
+        "path": "./data/galleries/mass-effect-reapers-cd03078739.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=13w7OomMaz_3Ha3N-Qqv5OS8W26K32yxT&sz=w520"
       }
     },
     {
@@ -14390,7 +14483,8 @@
         "provider": "Google Drive",
         "totalImages": 56,
         "partial": false,
-        "path": "./data/galleries/metroid-dark-samus-b4a5ceb958.json"
+        "path": "./data/galleries/metroid-dark-samus-b4a5ceb958.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1wMCz3EmqRU_lr-GlCk8v9SBaVbmSEl5T&sz=w520"
       }
     },
     {
@@ -15972,7 +16066,8 @@
         "provider": "Google Drive",
         "totalImages": 244,
         "partial": false,
-        "path": "./data/galleries/metroid-dark-samus-f6425afe0b.json"
+        "path": "./data/galleries/metroid-dark-samus-f6425afe0b.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1bzI8TnDvE2rpfLaUwZJIXKGOu7ByHjTh&sz=w520"
       }
     },
     {
@@ -15998,7 +16093,8 @@
         "provider": "Google Drive",
         "totalImages": 280,
         "partial": false,
-        "path": "./data/galleries/metroid-samus-3b64003043.json"
+        "path": "./data/galleries/metroid-samus-3b64003043.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1p3CTW-pmC6lV8_mICu7xW4ujY-3NjIgT&sz=w520"
       }
     },
     {
@@ -16024,7 +16120,8 @@
         "provider": "Ko-fi",
         "totalImages": 10,
         "partial": true,
-        "path": "./data/galleries/minecraft-a20a98d210.json"
+        "path": "./data/galleries/minecraft-a20a98d210.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/89a1eb58-dc74-4cea-97a7-83913db2ef84__front400dpi.png"
       }
     },
     {
@@ -17258,7 +17355,8 @@
         "provider": "Google Drive",
         "totalImages": 91,
         "partial": false,
-        "path": "./data/galleries/my-hero-academia-a49849259d.json"
+        "path": "./data/galleries/my-hero-academia-a49849259d.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=128RlTqjWkTAyon-sGrQl-yiKQsBBHN5W&sz=w520"
       }
     },
     {
@@ -17284,7 +17382,8 @@
         "provider": "Google Drive",
         "totalImages": 100,
         "partial": false,
-        "path": "./data/galleries/naruto-fafa442cc3.json"
+        "path": "./data/galleries/naruto-fafa442cc3.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=17Mf_La1YxuuRuvxsUhdxiaeAakVg66y4&sz=w520"
       }
     },
     {
@@ -17310,7 +17409,8 @@
         "provider": "Google Drive",
         "totalImages": 171,
         "partial": false,
-        "path": "./data/galleries/neon-genesis-evangelion-6dec271951.json"
+        "path": "./data/galleries/neon-genesis-evangelion-6dec271951.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1v5WDyenYDefQDU_Rrwwpl2dcyhSWoiQS&sz=w520"
       }
     },
     {
@@ -17336,7 +17436,8 @@
         "provider": "Ko-fi",
         "totalImages": 7,
         "partial": true,
-        "path": "./data/galleries/nier-e53d8bdc8e.json"
+        "path": "./data/galleries/nier-e53d8bdc8e.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/af3f3e59-3655-4a60-be66-ba54ae0edb4a_promomainpagebronze.png"
       }
     },
     {
@@ -17362,7 +17463,8 @@
         "provider": "Google Drive",
         "totalImages": 51,
         "partial": false,
-        "path": "./data/galleries/no-man-s-sky-c38e4e4d31.json"
+        "path": "./data/galleries/no-man-s-sky-c38e4e4d31.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1KabnVCoxpeMNgeHXwxpG_XW6maE-Eb2s&sz=w520"
       }
     },
     {
@@ -17388,7 +17490,8 @@
         "provider": "Google Drive",
         "totalImages": 88,
         "partial": false,
-        "path": "./data/galleries/one-piece-d757d6b5ea.json"
+        "path": "./data/galleries/one-piece-d757d6b5ea.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1sw_jzwyyP5wUJ82XS7iysTsb2rC-6vbS&sz=w520"
       }
     },
     {
@@ -17414,7 +17517,8 @@
         "provider": "Google Drive",
         "totalImages": 100,
         "partial": false,
-        "path": "./data/galleries/one-piece-ce8c965dac.json"
+        "path": "./data/galleries/one-piece-ce8c965dac.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1vXc_BRAWmHoBlu3JhuzsOl7zQ71XlQAp&sz=w520"
       }
     },
     {
@@ -18612,7 +18716,8 @@
         "provider": "Ko-fi",
         "totalImages": 15,
         "partial": true,
-        "path": "./data/galleries/outer-wilds-d355be4b45.json"
+        "path": "./data/galleries/outer-wilds-d355be4b45.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/ef40a38c-057c-43d9-91e9-64570fd1b0a3_infiniteguidelinestationthevessel1.png"
       }
     },
     {
@@ -18638,7 +18743,8 @@
         "provider": "Google Drive",
         "totalImages": 82,
         "partial": false,
-        "path": "./data/galleries/over-the-garden-wall-wirt-greg-ca496e5752.json"
+        "path": "./data/galleries/over-the-garden-wall-wirt-greg-ca496e5752.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1rdfd1MqehQlVyh9cO42IgReZVStJYwUr&sz=w520"
       }
     },
     {
@@ -19824,7 +19930,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/persona-3-4-and-5-67358d7a74.json"
+        "path": "./data/galleries/persona-3-4-and-5-67358d7a74.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1_xG6iE_BNsFwS_HtwgtuKU-Fg6SsP_RO&sz=w520"
       }
     },
     {
@@ -19850,7 +19957,8 @@
         "provider": "Google Drive",
         "totalImages": 128,
         "partial": false,
-        "path": "./data/galleries/persona-4-880ac5e66d.json"
+        "path": "./data/galleries/persona-4-880ac5e66d.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1r68Ibxzqi4Nm5JS82YM_HIb57BTz03pU&sz=w520"
       }
     },
     {
@@ -19876,7 +19984,8 @@
         "provider": "Google Drive",
         "totalImages": 80,
         "partial": false,
-        "path": "./data/galleries/persona-5-joker-ed7321b4c3.json"
+        "path": "./data/galleries/persona-5-joker-ed7321b4c3.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1dUp9t7V54lRZ_6mnuX2ohyk5g3BiqnWi&sz=w520"
       }
     },
     {
@@ -19902,7 +20011,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/pixel-art-63a3b37852.json"
+        "path": "./data/galleries/pixel-art-63a3b37852.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/6279597e-5fe8-4f55-8698-985f945c51fa_previewforkofi-redditdeckpost.png"
       }
     },
     {
@@ -19928,7 +20038,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/pok-mon-cynthia-aff7467d7e.json"
+        "path": "./data/galleries/pok-mon-cynthia-aff7467d7e.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/02a16042-20c3-42ff-b0ce-7212d8ee14d8_shop-2.jpg"
       }
     },
     {
@@ -19954,7 +20065,8 @@
         "provider": "Imgur",
         "totalImages": 89,
         "partial": false,
-        "path": "./data/galleries/pok-mon-pok-mon-breeder-6ac2766e4c.json"
+        "path": "./data/galleries/pok-mon-pok-mon-breeder-6ac2766e4c.json",
+        "coverImage": "https://i.imgur.com/g75Q4jZh.png"
       }
     },
     {
@@ -21188,7 +21300,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/power-rangers-ea6bb878c1.json"
+        "path": "./data/galleries/power-rangers-ea6bb878c1.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1OGrl1yX4jw1d-RmxaY9XeE4o0EjbgAeb&sz=w520"
       }
     },
     {
@@ -21214,7 +21327,8 @@
         "provider": "Google Drive",
         "totalImages": 90,
         "partial": false,
-        "path": "./data/galleries/power-rangers-tommy-8c4dc24a02.json"
+        "path": "./data/galleries/power-rangers-tommy-8c4dc24a02.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1HWeLh-JvUzALyiG5y5zocBloiAyauwiU&sz=w520"
       }
     },
     {
@@ -21240,7 +21354,8 @@
         "provider": "Google Drive",
         "totalImages": 107,
         "partial": false,
-        "path": "./data/galleries/re-zero-4680cff437.json"
+        "path": "./data/galleries/re-zero-4680cff437.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=16ZmJWmR9UBnnYg-Nkbc4J0nUwfFzu7tD&sz=w520"
       }
     },
     {
@@ -22234,7 +22349,8 @@
         "provider": "Google Drive",
         "totalImages": 64,
         "partial": false,
-        "path": "./data/galleries/scooby-doo-shaggy-scooby-f8169c5dd5.json"
+        "path": "./data/galleries/scooby-doo-shaggy-scooby-f8169c5dd5.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1GFGJp_6Xc3NlDsJpTbA_fv_EE9YgYRoT&sz=w520"
       }
     },
     {
@@ -22260,7 +22376,8 @@
         "provider": "Google Drive",
         "totalImages": 111,
         "partial": false,
-        "path": "./data/galleries/sekiro-shadows-die-twice-f6ad4c7295.json"
+        "path": "./data/galleries/sekiro-shadows-die-twice-f6ad4c7295.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=14CeFzs2qYPeun_2_EGN-talip6OAMv24&sz=w520"
       }
     },
     {
@@ -22286,7 +22403,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/shadow-of-the-colossus-bd2b37ddbb.json"
+        "path": "./data/galleries/shadow-of-the-colossus-bd2b37ddbb.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/baaa887c-5e96-44a0-bb58-7651de22b4a6_common.jpg"
       }
     },
     {
@@ -22312,7 +22430,8 @@
         "provider": "Google Drive",
         "totalImages": 218,
         "partial": false,
-        "path": "./data/galleries/simpsons-steamed-hams-76f48c3d28.json"
+        "path": "./data/galleries/simpsons-steamed-hams-76f48c3d28.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=11b7RA6Y1WQtydk2UqRC1QssPZ-OO16mA&sz=w520"
       }
     },
     {
@@ -22338,7 +22457,8 @@
         "provider": "Google Drive",
         "totalImages": 218,
         "partial": false,
-        "path": "./data/galleries/simpsons-who-shot-mr-burns-5c8a9a2541.json"
+        "path": "./data/galleries/simpsons-who-shot-mr-burns-5c8a9a2541.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=11b7RA6Y1WQtydk2UqRC1QssPZ-OO16mA&sz=w520"
       }
     },
     {
@@ -22364,7 +22484,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/slime-rancher-b077e8a940.json"
+        "path": "./data/galleries/slime-rancher-b077e8a940.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/8dd10595-224b-4064-b6fb-81ab24711843_slimerancher_kofi_cover.png"
       }
     },
     {
@@ -22390,7 +22511,8 @@
         "provider": "Google Drive",
         "totalImages": 257,
         "partial": false,
-        "path": "./data/galleries/solo-leveling-ce5a55d6cb.json"
+        "path": "./data/galleries/solo-leveling-ce5a55d6cb.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1MvOTKbn51C3ueSBC9g-6aMiaa_qeHBuj&sz=w520"
       }
     },
     {
@@ -22416,7 +22538,8 @@
         "provider": "Ko-fi",
         "totalImages": 6,
         "partial": true,
-        "path": "./data/galleries/sonic-the-hedgehog-dr-eggman-08974904f4.json"
+        "path": "./data/galleries/sonic-the-hedgehog-dr-eggman-08974904f4.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/1705d5d8-8003-4d3e-ba7c-2532466c1934_0-promomainpagebronze.png"
       }
     },
     {
@@ -23482,7 +23605,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/sonic-the-hedgehog-tails-4a447bc001.json"
+        "path": "./data/galleries/sonic-the-hedgehog-tails-4a447bc001.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1_P3T26OJx_C9NHHMhD-f8OQxR7httd0L&sz=w520"
       }
     },
     {
@@ -23508,7 +23632,8 @@
         "provider": "Google Drive",
         "totalImages": 107,
         "partial": false,
-        "path": "./data/galleries/spongebob-spongebob-gary-74e33ac3fb.json"
+        "path": "./data/galleries/spongebob-spongebob-gary-74e33ac3fb.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1zckEJ6XeqvyeeVIVvMIe2W3HI-eWzGgA&sz=w520"
       }
     },
     {
@@ -23534,7 +23659,8 @@
         "provider": "Ko-fi",
         "totalImages": 9,
         "partial": true,
-        "path": "./data/galleries/spy-x-family-forger-family-350cb488ae.json"
+        "path": "./data/galleries/spy-x-family-forger-family-350cb488ae.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/c73b1da0-5d21-407e-86cb-0d4b269f4594_2_promomainpage-bronze.png"
       }
     },
     {
@@ -23560,7 +23686,8 @@
         "provider": "Ko-fi",
         "totalImages": 4,
         "partial": true,
-        "path": "./data/galleries/star-wars-darth-vader-32985ebd2c.json"
+        "path": "./data/galleries/star-wars-darth-vader-32985ebd2c.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/44fdf1e3-2b7d-4da7-bd61-8edd6573d12b_promoorange.png"
       }
     },
     {
@@ -23586,7 +23713,8 @@
         "provider": "Google Drive",
         "totalImages": 87,
         "partial": false,
-        "path": "./data/galleries/star-wars-droid-army-2b34c1976f.json"
+        "path": "./data/galleries/star-wars-droid-army-2b34c1976f.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=17DHIvozKrRUQ839-ZAf2aOJVS4SvhMwk&sz=w520"
       }
     },
     {
@@ -24616,7 +24744,8 @@
         "provider": "Ko-fi",
         "totalImages": 10,
         "partial": true,
-        "path": "./data/galleries/steven-universe-a67652894c.json"
+        "path": "./data/galleries/steven-universe-a67652894c.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/3a09e44d-3abb-4fce-89ed-3a686088ae85_mishraclaimedbygix.png"
       }
     },
     {
@@ -24642,7 +24771,8 @@
         "provider": "Google Drive",
         "totalImages": 49,
         "partial": false,
-        "path": "./data/galleries/steven-universe-27c3e2e9f9.json"
+        "path": "./data/galleries/steven-universe-27c3e2e9f9.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1n2FWlWQHSNbSzKgSMDdbSukL8MpxS5l-&sz=w520"
       }
     },
     {
@@ -24668,7 +24798,8 @@
         "provider": "Google Drive",
         "totalImages": 62,
         "partial": false,
-        "path": "./data/galleries/studio-ghibli-99db8aeab6.json"
+        "path": "./data/galleries/studio-ghibli-99db8aeab6.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=19tCn_T1rJeAyoFoKvpP2EY6gs_JRva41&sz=w520"
       }
     },
     {
@@ -25830,7 +25961,8 @@
         "provider": "Ko-fi",
         "totalImages": 20,
         "partial": true,
-        "path": "./data/galleries/subnautica-2c108c88c0.json"
+        "path": "./data/galleries/subnautica-2c108c88c0.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/24e59ff6-1b87-4eb6-b1e3-9176edc9ca72_sinspiraspunishmentseaemperorleviathan4.png"
       }
     },
     {
@@ -26992,7 +27124,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/sword-art-online-kirito-asuna-3a819a8418.json"
+        "path": "./data/galleries/sword-art-online-kirito-asuna-3a819a8418.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1ZaSJXLPkyJtWIndprEbSbE7zBXOIJvKr&sz=w520"
       }
     },
     {
@@ -27018,7 +27151,8 @@
         "provider": "Ko-fi",
         "totalImages": 6,
         "partial": true,
-        "path": "./data/galleries/teenage-mutant-ninja-turtles-d1a5c8ae24.json"
+        "path": "./data/galleries/teenage-mutant-ninja-turtles-d1a5c8ae24.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/4be2bfdc-2ed0-4e91-8259-e03557fc0cfa_promomainpage.png"
       }
     },
     {
@@ -27044,7 +27178,8 @@
         "provider": "Google Drive",
         "totalImages": 64,
         "partial": false,
-        "path": "./data/galleries/the-last-of-us-f1794350d7.json"
+        "path": "./data/galleries/the-last-of-us-f1794350d7.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1oQGEXEvgq6APe8nF5u9-_pFmAqfJcZ30&sz=w520"
       }
     },
     {
@@ -28158,7 +28293,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/the-legend-of-zelda-link-zelda-88c4ce9b4a.json"
+        "path": "./data/galleries/the-legend-of-zelda-link-zelda-88c4ce9b4a.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1Z-LpiLg33uY_5xOUpq8zyUaAjZNMh6OE&sz=w520"
       }
     },
     {
@@ -28184,7 +28320,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/the-legend-of-zelda-zelda-e4e0acf385.json"
+        "path": "./data/galleries/the-legend-of-zelda-zelda-e4e0acf385.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/5bedb4e7-ab81-4680-814a-5f3e61f9013c_basic.png"
       }
     },
     {
@@ -28210,7 +28347,8 @@
         "provider": "Google Drive",
         "totalImages": 77,
         "partial": false,
-        "path": "./data/galleries/the-witcher-monsters-a3ae4c541e.json"
+        "path": "./data/galleries/the-witcher-monsters-a3ae4c541e.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=13Ysfen-yHigq2il40cYeLU5EflOEngF_&sz=w520"
       }
     },
     {
@@ -28236,7 +28374,8 @@
         "provider": "Google Drive",
         "totalImages": 76,
         "partial": false,
-        "path": "./data/galleries/the-witcher-witchers-f12b91a2d8.json"
+        "path": "./data/galleries/the-witcher-witchers-f12b91a2d8.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1m5LrRD_lXnPScSi60QuOmaJ3vksNkTvI&sz=w520"
       }
     },
     {
@@ -28262,7 +28401,8 @@
         "provider": "Ko-fi",
         "totalImages": 8,
         "partial": true,
-        "path": "./data/galleries/the-witcher-07606e3463.json"
+        "path": "./data/galleries/the-witcher-07606e3463.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/b3c9d523-3164-4d51-b498-085486e499f2_cover.png"
       }
     },
     {
@@ -28288,7 +28428,8 @@
         "provider": "Google Drive",
         "totalImages": 238,
         "partial": false,
-        "path": "./data/galleries/undertale-deltarune-24517ddf98.json"
+        "path": "./data/galleries/undertale-deltarune-24517ddf98.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1PVU65T6jJMMLRCB6e0-v8wpN1GBDO4vq&sz=w520"
       }
     },
     {
@@ -28314,7 +28455,8 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/warhammer-fantasy-repanse-e80c8007ba.json"
+        "path": "./data/galleries/warhammer-fantasy-repanse-e80c8007ba.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/91a9d2e4-dc6a-4344-ba69-fb6c7da8cbf1_deckpost.png"
       }
     },
     {
@@ -28340,7 +28482,8 @@
         "provider": "Ko-fi",
         "totalImages": 6,
         "partial": true,
-        "path": "./data/galleries/warhammer-fantasy-tomb-kings-8bdbe7ee8f.json"
+        "path": "./data/galleries/warhammer-fantasy-tomb-kings-8bdbe7ee8f.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/f6724f08-302c-430d-b09a-31bba2862476_wilhelt,therotcleaversettra,theimperishables.png"
       }
     },
     {
@@ -29838,7 +29981,8 @@
         "provider": "Google Drive",
         "totalImages": 165,
         "partial": false,
-        "path": "./data/galleries/wednesday-netflix-the-addams-family-401ae24528.json"
+        "path": "./data/galleries/wednesday-netflix-the-addams-family-401ae24528.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=11TUpyB4mOyjkVXUB2W5FQhigDMdvQV1A&sz=w520"
       }
     },
     {
@@ -29864,7 +30008,8 @@
         "provider": "Google Drive",
         "totalImages": 132,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-night-elves-db7893f61a.json"
+        "path": "./data/galleries/world-of-warcraft-night-elves-db7893f61a.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1s6NnhQ_5cI3p5-dlM9MuT9lb2aRKtCsO&sz=w520"
       }
     },
     {
@@ -29890,7 +30035,8 @@
         "provider": "Google Drive",
         "totalImages": 116,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-azshara-5c81b69462.json"
+        "path": "./data/galleries/world-of-warcraft-azshara-5c81b69462.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1aoxpJEMCWDKhb_hfS7uE4WcJSR5EuI4a&sz=w520"
       }
     },
     {
@@ -29916,7 +30062,8 @@
         "provider": "Google Drive",
         "totalImages": 113,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-burning-legion-d450e3f801.json"
+        "path": "./data/galleries/world-of-warcraft-burning-legion-d450e3f801.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1L9JOrmz1iX5-1cRn5Q10ZJLGJqiX_hmX&sz=w520"
       }
     },
     {
@@ -29942,7 +30089,8 @@
         "provider": "Google Drive",
         "totalImages": 186,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-dragonflight-46a7df86f3.json"
+        "path": "./data/galleries/world-of-warcraft-dragonflight-46a7df86f3.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1cRpfFq8Rr4ygYYvoUt8p6cwOAnn2fBjN&sz=w520"
       }
     },
     {
@@ -29968,7 +30116,8 @@
         "provider": "Google Drive",
         "totalImages": 154,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-humans-b438cd0f48.json"
+        "path": "./data/galleries/world-of-warcraft-humans-b438cd0f48.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1fAcpU76DhMKADepghnGq3qBtOejaa5yI&sz=w520"
       }
     },
     {
@@ -29994,7 +30143,8 @@
         "provider": "Google Drive",
         "totalImages": 112,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-old-gods-c009c898e2.json"
+        "path": "./data/galleries/world-of-warcraft-old-gods-c009c898e2.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1aIyuFL27Q0qDSErDq8CuBc_0nK0ejW6F&sz=w520"
       }
     },
     {
@@ -30020,7 +30170,8 @@
         "provider": "Google Drive",
         "totalImages": 146,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-orcs-a14ba92290.json"
+        "path": "./data/galleries/world-of-warcraft-orcs-a14ba92290.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1yIcKihvn6xXaHRIpQuvxROzYxUBWJHq-&sz=w520"
       }
     },
     {
@@ -30046,7 +30197,8 @@
         "provider": "Google Drive",
         "totalImages": 198,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-the-earthen-ring-9e9cae5da3.json"
+        "path": "./data/galleries/world-of-warcraft-the-earthen-ring-9e9cae5da3.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1N7xHhyWRRkzzhuoxcf1lu-rbMgx4CxN4&sz=w520"
       }
     },
     {
@@ -30072,7 +30224,8 @@
         "provider": "Google Drive",
         "totalImages": 151,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-the-lich-king-ead19b1a0c.json"
+        "path": "./data/galleries/world-of-warcraft-the-lich-king-ead19b1a0c.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1yDERrGEZRFM6Ilewfx1s6Ahhk0UchZte&sz=w520"
       }
     },
     {
@@ -30098,7 +30251,8 @@
         "provider": "Google Drive",
         "totalImages": 109,
         "partial": false,
-        "path": "./data/galleries/yu-gi-oh-dragunity-c8195a6cc6.json"
+        "path": "./data/galleries/yu-gi-oh-dragunity-c8195a6cc6.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1zG0U7Kg1p9r1DP-WZPAgVZFbF9QyJL0C&sz=w520"
       }
     },
     {
@@ -30124,7 +30278,8 @@
         "provider": "Ko-fi",
         "totalImages": 3,
         "partial": true,
-        "path": "./data/galleries/yu-gi-oh-yugi-atem-778e330abb.json"
+        "path": "./data/galleries/yu-gi-oh-yugi-atem-778e330abb.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/7f4eac29-bca4-4e12-8800-8b72ee89d5f3_inallaarchmageritualistyugimutoatemkingofgames.png"
       }
     }
   ],
@@ -30150,7 +30305,8 @@
         "provider": "Google Drive",
         "totalImages": 77,
         "partial": false,
-        "path": "./data/galleries/fallout-mr-house-precon-upgrades-aab95c8cc2.json"
+        "path": "./data/galleries/fallout-mr-house-precon-upgrades-aab95c8cc2.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1XRQs3ULJOhrN48q9XnI6jPKRrBruhccg&sz=w520"
       }
     },
     {
@@ -30174,7 +30330,8 @@
         "provider": "Google Drive",
         "totalImages": 20,
         "partial": false,
-        "path": "./data/galleries/final-fantasy-scions-spellcraft-precon-upgrades-db56262bad.json"
+        "path": "./data/galleries/final-fantasy-scions-spellcraft-precon-upgrades-db56262bad.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1miaCZHNs2CwM6v3x75BRi2BWRfpdHMN0&sz=w520"
       }
     },
     {
@@ -30198,7 +30355,8 @@
         "provider": "Google Drive",
         "totalImages": 30,
         "partial": false,
-        "path": "./data/galleries/pok-mon-shocks-basic-lands-9432402750.json"
+        "path": "./data/galleries/pok-mon-shocks-basic-lands-9432402750.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1r03m3-AsGGsj2SdR5yO5qR4QNVKkfUhw&sz=w520"
       }
     },
     {
@@ -30222,7 +30380,8 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/star-wars-basic-lands-fc3006faba.json"
+        "path": "./data/galleries/star-wars-basic-lands-fc3006faba.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1CcXgpANwxWggTHNmof2FuWNGNTtPeM07&sz=w520"
       }
     },
     {
@@ -30246,7 +30405,8 @@
         "provider": "Google Drive",
         "totalImages": 24,
         "partial": false,
-        "path": "./data/galleries/fractal-art-basic-lands-a3afa59b40.json"
+        "path": "./data/galleries/fractal-art-basic-lands-a3afa59b40.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1MVCYEwK2gbCzpbsUEQ1Yiqp3B-nn09d9&sz=w520"
       }
     }
   ]

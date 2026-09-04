@@ -34,6 +34,7 @@ export type CustomGallery = {
   totalImages: number;
   partial: boolean;
   path: string;
+  coverImage?: string;
 };
 
 export type CustomGalleryData = Omit<CustomGallery, 'path'> & {

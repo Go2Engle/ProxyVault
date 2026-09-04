@@ -25,6 +25,9 @@ import {
 } from './deck-model';
 
 const decks = [...catalog.decks, ...catalog.collections] as Deck[];
+const newlyAdded = catalog.newlyAdded
+  .map((id) => decks.find((deck) => deck.id === id))
+  .filter((deck): deck is Deck => Boolean(deck));
 
 function deckFromLocation() {
   const id = new URLSearchParams(window.location.search).get('deck');
@@ -93,6 +96,47 @@ function DeckCard({
           View <ArrowUpRight size={14} />
         </button>
       </footer>
+    </article>
+  );
+}
+
+function NewArrivalCard({
+  deck,
+  onOpen,
+}: {
+  deck: Deck;
+  onOpen: (deck: Deck) => void;
+}) {
+  const { title, variant } = splitTheme(deck.theme);
+  const cover =
+    deck.customGallery?.coverImage ||
+    deck.preview?.cards.find((card) => card.category === 'Commander')?.image ||
+    deck.preview?.cards[0]?.image;
+  return (
+    <article
+      className="new-arrival-card"
+      style={{ '--deck-accent': accentFor(deck.theme) } as React.CSSProperties}
+    >
+      <button onClick={() => onOpen(deck)} aria-label={`View ${deck.theme}`}>
+        <span className="new-arrival-art">
+          {cover ? (
+            <img src={cover} alt="" loading="lazy" />
+          ) : (
+            <span className="new-arrival-fallback" aria-hidden="true">
+              {title.slice(0, 1)}
+            </span>
+          )}
+          <span className="new-arrival-badge">New</span>
+        </span>
+        <span className="new-arrival-copy">
+          <small>{variant}</small>
+          <strong>{title}</strong>
+          <span>by {deck.creator.label || 'community'}</span>
+          <i>
+            Explore entry <ArrowUpRight size={14} />
+          </i>
+        </span>
+      </button>
     </article>
   );
 }
@@ -311,6 +355,29 @@ export default function App() {
         </div>
       </section>
 
+      {newlyAdded.length > 0 && (
+        <section className="new-arrivals" aria-labelledby="new-arrivals-title">
+          <header className="new-arrivals-heading">
+            <div>
+              <span className="section-number">01 / NEWLY ADDED</span>
+              <h2 id="new-arrivals-title">Fresh arrivals in the vault.</h2>
+              <p>
+                The latest community decks and collections discovered by the
+                catalog sync.
+              </p>
+            </div>
+            <a href="#browse">
+              View the full archive <ArrowUpRight size={14} />
+            </a>
+          </header>
+          <div className="new-arrivals-grid">
+            {newlyAdded.map((deck) => (
+              <NewArrivalCard key={deck.id} deck={deck} onOpen={openDeck} />
+            ))}
+          </div>
+        </section>
+      )}
+
       <section className="catalog" id="browse">
         <div className="catalog-toolbar">
           <label className="search-box">
@@ -368,7 +435,7 @@ export default function App() {
         </div>
         <div className="section-heading" id="all">
           <div>
-            <span className="section-number">01</span>
+            <span className="section-number">02</span>
             <h2>{query ? `Results for “${query}”` : 'The complete archive'}</h2>
           </div>
           <div className="archive-controls">
@@ -455,7 +522,7 @@ export default function App() {
       <section className="about-section" id="about">
         <img src="./og.png" alt="Proxy Vault collector catalog artwork" />
         <div>
-          <span className="section-number">02 / ABOUT</span>
+          <span className="section-number">03 / ABOUT</span>
           <h2>A front door for a spreadsheet worth preserving.</h2>
           <p>
             The original community sheet remains the source of truth. Proxy
@@ -481,7 +548,7 @@ export default function App() {
 
       <section className="contribute-section" id="contribute">
         <div>
-          <span className="section-number">03 / CONTRIBUTE</span>
+          <span className="section-number">04 / CONTRIBUTE</span>
           <h2>Keep the vault useful.</h2>
         </div>
         <div>
