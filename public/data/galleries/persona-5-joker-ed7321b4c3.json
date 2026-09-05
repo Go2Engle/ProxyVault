@@ -1,6 +1,6 @@
 {
   "provider": "Google Drive",
-  "totalImages": 80,
+  "totalImages": 70,
   "partial": false,
   "images": [
     {
@@ -331,76 +331,6 @@
       "image": "https://drive.google.com/thumbnail?id=1MKp7yfHI665fm8HrZnWBOQrCpqYK2qdP&sz=w1600",
       "thumbnail": "https://drive.google.com/thumbnail?id=1MKp7yfHI665fm8HrZnWBOQrCpqYK2qdP&sz=w520",
       "sourceUrl": "https://drive.google.com/file/d/1MKp7yfHI665fm8HrZnWBOQrCpqYK2qdP/view"
-    },
-    {
-      "id": "1BQWomWjbKDZ6K77GoXz73K1QybbUJM9H",
-      "name": "Bojuka Bog.png",
-      "image": "https://drive.google.com/thumbnail?id=1BQWomWjbKDZ6K77GoXz73K1QybbUJM9H&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1BQWomWjbKDZ6K77GoXz73K1QybbUJM9H&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1BQWomWjbKDZ6K77GoXz73K1QybbUJM9H/view"
-    },
-    {
-      "id": "1X0n_3Z78UzMT4l7i7erGzaO1BBXhA1g2",
-      "name": "Command Tower.png",
-      "image": "https://drive.google.com/thumbnail?id=1X0n_3Z78UzMT4l7i7erGzaO1BBXhA1g2&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1X0n_3Z78UzMT4l7i7erGzaO1BBXhA1g2&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1X0n_3Z78UzMT4l7i7erGzaO1BBXhA1g2/view"
-    },
-    {
-      "id": "1dGGM2qLZv0h1iqYZ7bCPt-JMpFOkAz3u",
-      "name": "Dragonskull Summit.png",
-      "image": "https://drive.google.com/thumbnail?id=1dGGM2qLZv0h1iqYZ7bCPt-JMpFOkAz3u&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1dGGM2qLZv0h1iqYZ7bCPt-JMpFOkAz3u&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1dGGM2qLZv0h1iqYZ7bCPt-JMpFOkAz3u/view"
-    },
-    {
-      "id": "1-J92SjC5XUju5epQNAwPszHN3B7sHDo3",
-      "name": "Exotic Orchard.png",
-      "image": "https://drive.google.com/thumbnail?id=1-J92SjC5XUju5epQNAwPszHN3B7sHDo3&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1-J92SjC5XUju5epQNAwPszHN3B7sHDo3&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1-J92SjC5XUju5epQNAwPszHN3B7sHDo3/view"
-    },
-    {
-      "id": "1XoRKf8UG2DBoNmUFiksN4tEKNHljd_wk",
-      "name": "Foreboding Ruins.png",
-      "image": "https://drive.google.com/thumbnail?id=1XoRKf8UG2DBoNmUFiksN4tEKNHljd_wk&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1XoRKf8UG2DBoNmUFiksN4tEKNHljd_wk&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1XoRKf8UG2DBoNmUFiksN4tEKNHljd_wk/view"
-    },
-    {
-      "id": "1g8nzVAs2o5VvLeZTncfhh2V2_jHP_PM1",
-      "name": "Mountain (14).png",
-      "image": "https://drive.google.com/thumbnail?id=1g8nzVAs2o5VvLeZTncfhh2V2_jHP_PM1&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1g8nzVAs2o5VvLeZTncfhh2V2_jHP_PM1&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1g8nzVAs2o5VvLeZTncfhh2V2_jHP_PM1/view"
-    },
-    {
-      "id": "1q5yLBfTUoTvGx3qoxm44bh5thRdCsBAt",
-      "name": "Shadowblood Ridge.png",
-      "image": "https://drive.google.com/thumbnail?id=1q5yLBfTUoTvGx3qoxm44bh5thRdCsBAt&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1q5yLBfTUoTvGx3qoxm44bh5thRdCsBAt&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1q5yLBfTUoTvGx3qoxm44bh5thRdCsBAt/view"
-    },
-    {
-      "id": "1Tli38ge_fxeahXNrtZb3oLLQ1TSX93OV",
-      "name": "Spinerock Knoll.png",
-      "image": "https://drive.google.com/thumbnail?id=1Tli38ge_fxeahXNrtZb3oLLQ1TSX93OV&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1Tli38ge_fxeahXNrtZb3oLLQ1TSX93OV&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1Tli38ge_fxeahXNrtZb3oLLQ1TSX93OV/view"
-    },
-    {
-      "id": "1bIywCUundejPp1HyP524SVwalc9S4Pp0",
-      "name": "Swamp (10).png",
-      "image": "https://drive.google.com/thumbnail?id=1bIywCUundejPp1HyP524SVwalc9S4Pp0&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1bIywCUundejPp1HyP524SVwalc9S4Pp0&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1bIywCUundejPp1HyP524SVwalc9S4Pp0/view"
-    },
-    {
-      "id": "1togGIJM2i4rldpZOGuKc2cbNu19zPTZR",
-      "name": "Tainted Peak.png",
-      "image": "https://drive.google.com/thumbnail?id=1togGIJM2i4rldpZOGuKc2cbNu19zPTZR&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1togGIJM2i4rldpZOGuKc2cbNu19zPTZR&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1togGIJM2i4rldpZOGuKc2cbNu19zPTZR/view"
     },
     {
       "id": "1KUB9yX_sPAtCFnhA3HbFvrT5yPlJCNAE",
