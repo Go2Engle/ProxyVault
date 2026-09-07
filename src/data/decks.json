@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "pok-mon-bc06ffbfa0",
+    "pok-mon-basic-lands-cd0d8e384a",
     "final-fantasy-x-precon-remastered-e5a5604852",
     "diablo-8dacf13270",
     "avatar-the-last-airbender-3a338c12cb",
-    "hi-fi-rush-3850f1c66f",
-    "backrooms-0889aa2750",
-    "game-of-thrones-house-tyrell-39a9728929"
+    "hi-fi-rush-3850f1c66f"
   ],
   "decks": [
     {
@@ -20016,6 +20016,33 @@
       }
     },
     {
+      "id": "pok-mon-bc06ffbfa0",
+      "kind": "deck",
+      "theme": "Pokémon",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1aOhgDB44BmhPBTY5-4IOYckQhLOUH6Hm?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/z_S48yFrhUCrm8bnqXGdvg"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1w96jq6/complete_pok%C3%A9mon_slivers_commander_deck_50/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "The First Sliver - Sliver Typal (WUBRG)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 163,
+        "partial": false,
+        "path": "./data/galleries/pok-mon-bc06ffbfa0.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1E0a8oP9R4DUQysYg7dK6j44Ge2k0101o&sz=w520"
+      }
+    },
+    {
       "id": "pok-mon-cynthia-aff7467d7e",
       "kind": "deck",
       "theme": "Pokémon (Cynthia)",
@@ -30332,6 +30359,31 @@
         "partial": false,
         "path": "./data/galleries/final-fantasy-scions-spellcraft-precon-upgrades-db56262bad.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1miaCZHNs2CwM6v3x75BRi2BWRfpdHMN0&sz=w520"
+      }
+    },
+    {
+      "id": "pok-mon-basic-lands-cd0d8e384a",
+      "kind": "collection",
+      "theme": "Pokémon (Basic Lands)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/121kHyHhSGy0cihxwVHmpKf07VxmwKtXf?usp=sharing"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1w96jq6/complete_pok%C3%A9mon_slivers_commander_deck_50/"
+      },
+      "notes": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 50,
+        "partial": false,
+        "path": "./data/galleries/pok-mon-basic-lands-cd0d8e384a.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=176N7tLKdVOmdLNPggkUQJfOAoc80OOGW&sz=w520"
       }
     },
     {
