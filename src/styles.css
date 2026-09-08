@@ -1790,10 +1790,13 @@ body.deck-page-open {
 .proxy-gallery-card {
   position: relative;
   aspect-ratio: 63 / 88;
+  padding: 0;
   overflow: hidden;
   border: 1px solid #303641;
   border-radius: 8px;
   background: #151922;
+  color: inherit;
+  cursor: zoom-in;
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.24);
   transition:
     transform 0.18s ease,
@@ -1887,6 +1890,154 @@ body.deck-page-open {
 }
 .proxy-gallery-toggle:hover {
   border-color: var(--deck-accent);
+}
+.proxy-card-viewer {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  width: 100vw;
+  max-width: none;
+  height: 100dvh;
+  max-height: none;
+  margin: 0;
+  padding: 18px clamp(16px, 3vw, 42px) 16px;
+  border: 0;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  gap: 14px;
+  background: rgba(4, 5, 8, 0.96);
+  backdrop-filter: blur(18px);
+  animation: proxy-viewer-in 0.18s ease-out;
+}
+@keyframes proxy-viewer-in {
+  from {
+    opacity: 0;
+  }
+}
+.proxy-card-viewer-bar {
+  min-height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.proxy-card-viewer-bar > div:first-child {
+  min-width: 0;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: baseline;
+  gap: 14px;
+}
+.proxy-card-viewer-bar span {
+  color: var(--deck-accent);
+  font: 600 9px/1 var(--mono);
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.proxy-card-viewer-bar strong {
+  overflow: hidden;
+  color: #e7e8e4;
+  font-size: 13px;
+  font-weight: 500;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.proxy-card-viewer-actions {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  flex: none;
+}
+.proxy-card-viewer-actions a,
+.proxy-card-viewer-actions button,
+.proxy-card-viewer-stage > button {
+  border: 1px solid #3b414b;
+  background: rgba(19, 23, 30, 0.9);
+  color: #d1d4d9;
+}
+.proxy-card-viewer-actions a {
+  min-height: 38px;
+  padding: 0 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 10px;
+}
+.proxy-card-viewer-actions button {
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+.proxy-card-viewer-actions a:hover,
+.proxy-card-viewer-actions a:focus-visible,
+.proxy-card-viewer-actions button:hover,
+.proxy-card-viewer-actions button:focus-visible,
+.proxy-card-viewer-stage > button:hover,
+.proxy-card-viewer-stage > button:focus-visible {
+  outline: 0;
+  border-color: var(--deck-accent);
+  color: var(--deck-accent);
+}
+.proxy-card-viewer-stage {
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr) 52px;
+  align-items: center;
+  gap: clamp(10px, 2vw, 28px);
+}
+.proxy-card-viewer-stage > button {
+  width: 52px;
+  height: 64px;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+.proxy-card-viewer-image-shell {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  height: 100%;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+}
+.proxy-card-viewer-image-shell img {
+  position: absolute;
+  inset: 0;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  margin: auto;
+  display: block;
+  border-radius: 11px;
+  box-shadow: 0 26px 80px rgba(0, 0, 0, 0.65);
+  object-fit: contain;
+}
+.proxy-card-viewer-fallback {
+  width: min(420px, 100%);
+  aspect-ratio: 63 / 88;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 12px;
+  border: 1px solid #303641;
+  border-radius: 11px;
+  background: #141820;
+  color: #747b86;
+  font-size: 10px;
+}
+.proxy-card-viewer-help {
+  margin: 0;
+  color: #626975;
+  font: 500 8px/1.4 var(--mono);
+  letter-spacing: 0.05em;
+  text-align: center;
+  text-transform: uppercase;
 }
 .deck-workspace {
   min-height: 720px;
@@ -2358,6 +2509,41 @@ body.deck-page-open {
   }
   .proxy-gallery-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .proxy-card-viewer {
+    padding: 10px 10px 12px;
+  }
+  .proxy-card-viewer-bar {
+    align-items: flex-start;
+  }
+  .proxy-card-viewer-bar > div:first-child {
+    padding-top: 8px;
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+  .proxy-card-viewer-actions a {
+    width: 38px;
+    padding: 0;
+    justify-content: center;
+    font-size: 0;
+  }
+  .proxy-card-viewer-stage {
+    position: relative;
+    grid-template-columns: minmax(0, 1fr);
+    padding-bottom: 58px;
+  }
+  .proxy-card-viewer-stage > button {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    width: calc(50% - 5px);
+    height: 46px;
+  }
+  .proxy-card-viewer-previous {
+    left: 0;
+  }
+  .proxy-card-viewer-next {
+    right: 0;
   }
   .deck-workspace-toolbar {
     top: 65px;

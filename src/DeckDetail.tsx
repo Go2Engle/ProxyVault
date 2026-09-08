@@ -2,6 +2,8 @@ import {
   ArrowLeft,
   BookOpen,
   Check,
+  ChevronLeft,
+  ChevronRight,
   Download,
   ExternalLink,
   FileArchive,
@@ -9,9 +11,11 @@ import {
   ImageOff,
   Images,
   List,
+  Maximize2,
   MessageCircle,
   Search,
   Share2,
+  X,
 } from 'lucide-react';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import ScrollToTop from './ScrollToTop';
@@ -273,15 +277,20 @@ function PreviewUnavailable({ deck }: { deck: Deck }) {
   );
 }
 
-function ProxyImage({ image }: { image: CustomProxyImage }) {
+function ProxyImage({
+  image,
+  onOpen,
+}: {
+  image: CustomProxyImage;
+  onOpen: () => void;
+}) {
   const [failed, setFailed] = useState(false);
   return (
-    <a
+    <button
+      type="button"
       className="proxy-gallery-card"
-      href={image.image}
-      target="_blank"
-      rel="noreferrer"
-      aria-label={`Open ${image.name}`}
+      onClick={onOpen}
+      aria-label={`Preview ${image.name}`}
       title={image.name}
     >
       {failed ? (
@@ -298,9 +307,150 @@ function ProxyImage({ image }: { image: CustomProxyImage }) {
         />
       )}
       <span className="proxy-gallery-open">
-        <ExternalLink size={13} />
+        <Maximize2 size={13} />
       </span>
-    </a>
+    </button>
+  );
+}
+
+function ProxyCardViewer({
+  images,
+  activeIndex,
+  onChange,
+  onClose,
+}: {
+  images: CustomProxyImage[];
+  activeIndex: number;
+  onChange: (index: number) => void;
+  onClose: () => void;
+}) {
+  const viewerRef = useRef<HTMLDialogElement>(null);
+  const closeButtonRef = useRef<HTMLButtonElement>(null);
+  const [failedImageId, setFailedImageId] = useState<string | null>(null);
+  const activeImage = images[activeIndex];
+  const showPrevious = () =>
+    onChange((activeIndex - 1 + images.length) % images.length);
+  const showNext = () => onChange((activeIndex + 1) % images.length);
+
+  useEffect(() => {
+    const returnFocusTo = document.activeElement as HTMLElement | null;
+    closeButtonRef.current?.focus();
+    return () => returnFocusTo?.focus();
+  }, []);
+
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') {
+        event.preventDefault();
+        event.stopPropagation();
+        onClose();
+      } else if (event.key === 'ArrowLeft' && images.length > 1) {
+        event.preventDefault();
+        onChange((activeIndex - 1 + images.length) % images.length);
+      } else if (event.key === 'ArrowRight' && images.length > 1) {
+        event.preventDefault();
+        onChange((activeIndex + 1) % images.length);
+      } else if (event.key === 'Tab') {
+        const focusable = viewerRef.current?.querySelectorAll<HTMLElement>(
+          'a[href], button:not([disabled])',
+        );
+        if (!focusable?.length) return;
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (event.shiftKey && document.activeElement === first) {
+          event.preventDefault();
+          last.focus();
+        } else if (!event.shiftKey && document.activeElement === last) {
+          event.preventDefault();
+          first.focus();
+        }
+      }
+    };
+    document.addEventListener('keydown', handleKeyDown, true);
+    return () => document.removeEventListener('keydown', handleKeyDown, true);
+  }, [activeIndex, images, onChange, onClose]);
+
+  useEffect(() => {
+    if (images.length < 2) return;
+    const preloadPrevious = new Image();
+    const preloadNext = new Image();
+    preloadPrevious.src =
+      images[(activeIndex - 1 + images.length) % images.length].image;
+    preloadNext.src = images[(activeIndex + 1) % images.length].image;
+  }, [activeIndex, images]);
+
+  return (
+    <dialog
+      open
+      className="proxy-card-viewer"
+      ref={viewerRef}
+      aria-modal="true"
+      aria-labelledby="proxy-card-viewer-title"
+    >
+      <div className="proxy-card-viewer-bar">
+        <div>
+          <span>
+            {activeIndex + 1} / {images.length}
+          </span>
+          <strong id="proxy-card-viewer-title">{activeImage.name}</strong>
+        </div>
+        <div className="proxy-card-viewer-actions">
+          <a href={activeImage.image} target="_blank" rel="noreferrer">
+            Open original <ExternalLink size={14} />
+          </a>
+          <button
+            type="button"
+            ref={closeButtonRef}
+            onClick={onClose}
+            aria-label="Close card viewer"
+          >
+            <X size={19} />
+          </button>
+        </div>
+      </div>
+
+      <div className="proxy-card-viewer-stage">
+        {images.length > 1 && (
+          <button
+            type="button"
+            className="proxy-card-viewer-previous"
+            onClick={showPrevious}
+            aria-label="Previous card"
+          >
+            <ChevronLeft size={25} />
+          </button>
+        )}
+        <div className="proxy-card-viewer-image-shell">
+          {failedImageId === activeImage.id ? (
+            <span className="proxy-card-viewer-fallback">
+              <ImageOff size={30} />
+              Full-size image unavailable
+            </span>
+          ) : (
+            <img
+              key={activeImage.id}
+              src={activeImage.image}
+              alt={activeImage.name}
+              onError={() => setFailedImageId(activeImage.id)}
+            />
+          )}
+        </div>
+        {images.length > 1 && (
+          <button
+            type="button"
+            className="proxy-card-viewer-next"
+            onClick={showNext}
+            aria-label="Next card"
+          >
+            <ChevronRight size={25} />
+          </button>
+        )}
+      </div>
+
+      <p className="proxy-card-viewer-help">
+        Use the arrow keys to browse · Esc to close
+      </p>
+    </dialog>
   );
 }
 
@@ -316,6 +466,7 @@ function ProxyGallery({
     null,
   );
   const [loadFailed, setLoadFailed] = useState(false);
+  const [activeImageIndex, setActiveImageIndex] = useState<number | null>(null);
   const initialCount = 12;
   const images = galleryData?.images || [];
   const visibleImages = expanded ? images : images.slice(0, initialCount);
@@ -350,8 +501,8 @@ function ProxyGallery({
           </span>
           <h2 id="proxy-gallery-title">Custom proxy gallery</h2>
           <p>
-            Preview the creator’s printable card designs, then open any image at
-            full resolution.
+            Select any card for a larger view, then browse the gallery without
+            leaving the deck.
           </p>
         </div>
         <div className="proxy-gallery-summary">
@@ -374,8 +525,12 @@ function ProxyGallery({
         </div>
       ) : galleryData ? (
         <div className="proxy-gallery-grid">
-          {visibleImages.map((image) => (
-            <ProxyImage image={image} key={image.id} />
+          {visibleImages.map((image, index) => (
+            <ProxyImage
+              image={image}
+              key={image.id}
+              onOpen={() => setActiveImageIndex(index)}
+            />
           ))}
         </div>
       ) : (
@@ -396,6 +551,14 @@ function ProxyGallery({
           <Images size={16} />
           {expanded ? 'Show gallery preview' : `Show ${remaining} more images`}
         </button>
+      )}
+      {activeImageIndex !== null && images[activeImageIndex] && (
+        <ProxyCardViewer
+          images={images}
+          activeIndex={activeImageIndex}
+          onChange={setActiveImageIndex}
+          onClose={() => setActiveImageIndex(null)}
+        />
       )}
     </section>
   );
