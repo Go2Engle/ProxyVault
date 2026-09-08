@@ -1,6 +1,6 @@
 {
   "provider": "Google Drive",
-  "totalImages": 257,
+  "totalImages": 260,
   "partial": false,
   "images": [
     {
@@ -1075,11 +1075,32 @@
       "sourceUrl": "https://drive.google.com/file/d/1nWGcUMyrRYYNA66U028pqVqOy5KWUGW2/view"
     },
     {
+      "id": "11yklqFVFvVe8uuhA8tE46LD7xHJrLOVJ",
+      "name": "Shadowspear (Dagger Rush).png",
+      "image": "https://drive.google.com/thumbnail?id=11yklqFVFvVe8uuhA8tE46LD7xHJrLOVJ&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=11yklqFVFvVe8uuhA8tE46LD7xHJrLOVJ&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/11yklqFVFvVe8uuhA8tE46LD7xHJrLOVJ/view"
+    },
+    {
+      "id": "1goFlASEWj3wFQgYEFN2hTWhhGwizC6t7",
+      "name": "Sword of Feast and Famine (Demon King’s Longsword).png",
+      "image": "https://drive.google.com/thumbnail?id=1goFlASEWj3wFQgYEFN2hTWhhGwizC6t7&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1goFlASEWj3wFQgYEFN2hTWhhGwizC6t7&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1goFlASEWj3wFQgYEFN2hTWhhGwizC6t7/view"
+    },
+    {
       "id": "1CFgP284RCWtAENIRDhQxXqsaGGELoPyu",
       "name": "Tainted Isle (Rakan’s Sanctuary).png",
       "image": "https://drive.google.com/thumbnail?id=1CFgP284RCWtAENIRDhQxXqsaGGELoPyu&sz=w1600",
       "thumbnail": "https://drive.google.com/thumbnail?id=1CFgP284RCWtAENIRDhQxXqsaGGELoPyu&sz=w520",
       "sourceUrl": "https://drive.google.com/file/d/1CFgP284RCWtAENIRDhQxXqsaGGELoPyu/view"
+    },
+    {
+      "id": "14hMGMicrA6dHATOwlL7TseA_3mSUrJt7",
+      "name": "Talisman of Dominance (Daily Quest).png",
+      "image": "https://drive.google.com/thumbnail?id=14hMGMicrA6dHATOwlL7TseA_3mSUrJt7&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=14hMGMicrA6dHATOwlL7TseA_3mSUrJt7&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/14hMGMicrA6dHATOwlL7TseA_3mSUrJt7/view"
     },
     {
       "id": "11-9UN_D1-qIdItZnOm-3sOH-hkVsr5YW",

@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "final-fantasy-x-counter-blitz-precon-8bf03e70e7",
+    "monster-hunter-temur-roar-precon-9c37e5d2ab",
     "pok-mon-bc06ffbfa0",
     "pok-mon-basic-lands-cd0d8e384a",
-    "final-fantasy-x-precon-remastered-e5a5604852",
     "diablo-8dacf13270",
-    "avatar-the-last-airbender-3a338c12cb",
-    "hi-fi-rush-3850f1c66f"
+    "avatar-the-last-airbender-3a338c12cb"
   ],
   "decks": [
     {
@@ -4971,9 +4971,9 @@
       }
     },
     {
-      "id": "final-fantasy-x-precon-remastered-e5a5604852",
+      "id": "final-fantasy-x-counter-blitz-precon-8bf03e70e7",
       "kind": "deck",
-      "theme": "Final Fantasy X (Precon Remastered)",
+      "theme": "Final Fantasy X (Counter Blitz Precon)",
       "deckSource": {
         "label": "Ko-Fi",
         "url": "https://ko-fi.com/s/0b004d8089"
@@ -4993,7 +4993,7 @@
         "provider": "Ko-fi",
         "totalImages": 4,
         "partial": true,
-        "path": "./data/galleries/final-fantasy-x-precon-remastered-e5a5604852.json",
+        "path": "./data/galleries/final-fantasy-x-counter-blitz-precon-8bf03e70e7.json",
         "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/e86efffe-6642-4b2d-b98b-833865eb0b82_kofiproductgallery1.png"
       }
     },
@@ -16125,6 +16125,33 @@
       }
     },
     {
+      "id": "monster-hunter-temur-roar-precon-9c37e5d2ab",
+      "kind": "deck",
+      "theme": "Monster Hunter (Temur Roar Precon)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1UFeS182_Wr6eT5ivevHyvEBy84ap7jRX"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/dp8QKvCr3EqGF9-qu5Zzfg"
+      },
+      "creator": {
+        "label": "GotsomeTuna",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1odbot3/edh_complete_monster_hunter_version_of_temur_roar/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Eshki or Ureni - Dragon Typal (Temur)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 269,
+        "partial": false,
+        "path": "./data/galleries/monster-hunter-temur-roar-precon-9c37e5d2ab.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1Ou6Yjz2LIErY8KY3lItQnQAtIVhagUQH&sz=w520"
+      }
+    },
+    {
       "id": "my-hero-academia-a49849259d",
       "kind": "deck",
       "theme": "My Hero Academia",
@@ -22536,7 +22563,7 @@
       "aiUse": "",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 257,
+        "totalImages": 260,
         "partial": false,
         "path": "./data/galleries/solo-leveling-ce5a55d6cb.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1MvOTKbn51C3ueSBC9g-6aMiaa_qeHBuj&sz=w520"
