@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "super-smash-bros-92597c0a82",
     "final-fantasy-x-counter-blitz-precon-8bf03e70e7",
     "monster-hunter-temur-roar-precon-9c37e5d2ab",
     "pok-mon-bc06ffbfa0",
     "pok-mon-basic-lands-cd0d8e384a",
-    "diablo-8dacf13270",
-    "avatar-the-last-airbender-3a338c12cb"
+    "diablo-8dacf13270"
   ],
   "decks": [
     {
@@ -17515,10 +17515,10 @@
       "aiUse": "",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 88,
+        "totalImages": 280,
         "partial": false,
         "path": "./data/galleries/one-piece-d757d6b5ea.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1sw_jzwyyP5wUJ82XS7iysTsb2rC-6vbS&sz=w520"
+        "coverImage": "https://drive.google.com/thumbnail?id=1WKRXxiXR2a4pu75umb9n2Ecm38vCm9RE&sz=w520"
       }
     },
     {
@@ -26018,6 +26018,26 @@
         "path": "./data/galleries/subnautica-2c108c88c0.json",
         "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/24e59ff6-1b87-4eb6-b1e3-9176edc9ca72_sinspiraspunishmentseaemperorleviathan4.png"
       }
+    },
+    {
+      "id": "super-smash-bros-92597c0a82",
+      "kind": "deck",
+      "theme": "Super Smash Bros",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/6fc1c0c4a4"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/Qp8LAQ1sGkaiW5MnMBFeNA"
+      },
+      "creator": {
+        "label": "Southern_Ball3821",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1wao7um/super_smash_bros_ultimate_edh_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Atraxa - Superfriends (WUBG)",
+      "aiUse": ""
     },
     {
       "id": "sword-art-online-kirito-asuna-3a819a8418",
