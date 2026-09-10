@@ -106,7 +106,7 @@
         "label": "Haydensan",
         "url": "https://www.reddit.com/r/mpcproxies/comments/x33kwm/updated_arcane_full_deck_show_spoilers/"
       },
-      "notes": "BANNED CARD (Dockside), Drive adds 4 cards so remove 2x Island and 2x Mountain from decklist, Card Back, Tokens",
+      "notes": "BANNED CARD (Dockside), Drive adds 4 cards to replace 2x Island and 2x Mountain, Card Back, Tokens",
       "commanderArchetype": "Baeloth/Crafter - Artifacts, Goad (Izzet)",
       "aiUse": "",
       "customGallery": {
@@ -214,7 +214,7 @@
         "label": "DiceEmporiumGaming",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1w0f1l3/avatar_aang_elemental_frame_edh_pack/"
       },
-      "notes": "Spare cards in the main folder, currently missing Aang's Iceberg and Eerie Ultimatum",
+      "notes": "Spare cards in the main folder",
       "commanderArchetype": "Avatar Aang - Ally Typal, Element Bending (WUBRG)",
       "aiUse": "",
       "customGallery": {
@@ -3100,7 +3100,7 @@
         "label": "SystemSCSnake",
         "url": "https://www.reddit.com/r/magicproxies/comments/1ui1o3t/devil_may_cry_dante_themed_deck/"
       },
-      "notes": "Rule 0 required for the commander, I recommend running Tana, the Bloodsower / Silas Renn, Seeker Adept as legal commanders",
+      "notes": "Rule 0 required for the commander, I recommend Tana, the Bloodsower / Silas Renn as legal commanders",
       "commanderArchetype": "Glint-Eye Nephilim (RULE 0!) - Voltron (UBRG)",
       "aiUse": "",
       "customGallery": {
@@ -16064,7 +16064,7 @@
       },
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 244,
+        "totalImages": 101,
         "partial": false,
         "path": "./data/galleries/metroid-dark-samus-f6425afe0b.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1bzI8TnDvE2rpfLaUwZJIXKGOu7ByHjTh&sz=w520"
@@ -28549,7 +28549,7 @@
         "label": "Badger",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1go9z6f/i_made_a_full_proxy_edh_deck_themed_around/"
       },
-      "notes": "No decklist so adjust 24 basic lands as desired (I suggest 15 Swamps/9 Islands). Tokens",
+      "notes": "No decklist so adjust 24 basic lands as desired (I suggest 15 Swamps/9 Islands), Tokens",
       "commanderArchetype": "Wilhelt - Zombie Typal (Dimir)",
       "aiUse": "",
       "customGallery": {
@@ -28576,7 +28576,7 @@
         "label": "SnarglePop",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1uxc9z9/complete_edh_deck_based_on_wednesday_2022_woes/"
       },
-      "notes": "Custom Commanders (can swap Sideboard cards in instead), Tokens",
+      "notes": "Custom/Rule 0 Commanders (contains Sideboard replacements), Tokens",
       "commanderArchetype": "Custom Partners/Breya - Artifacts, IP Theme (WUBR)",
       "aiUse": "",
       "preview": {
