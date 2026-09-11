@@ -16064,7 +16064,7 @@
       },
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 101,
+        "totalImages": 244,
         "partial": false,
         "path": "./data/galleries/metroid-dark-samus-f6425afe0b.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1bzI8TnDvE2rpfLaUwZJIXKGOu7ByHjTh&sz=w520"
