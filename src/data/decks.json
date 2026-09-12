@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
-    "super-smash-bros-92597c0a82",
-    "final-fantasy-x-counter-blitz-precon-8bf03e70e7",
-    "monster-hunter-temur-roar-precon-9c37e5d2ab",
-    "pok-mon-bc06ffbfa0",
-    "pok-mon-basic-lands-cd0d8e384a",
-    "diablo-8dacf13270"
+    "game-of-thrones-lannisters-6d4c0bef5c",
+    "star-wars-embrace-the-dark-side-5dba52e1d2",
+    "star-wars-scum-and-villainy-6ecbf2cc0b",
+    "star-wars-the-jedi-rebellion-8c4af7ad22",
+    "world-of-warcraft-night-elves-83ed58f688",
+    "world-of-warcraft-azshara-s-naga-c06bf86828"
   ],
   "decks": [
     {
@@ -354,7 +354,7 @@
             "manaCost": "",
             "manaValue": 3.0,
             "typeLine": "Legendary Creature — Human Shaman",
-            "image": "https://cards.scryfall.io/normal/front/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1783916579",
+            "image": "https://cards.scryfall.io/normal/front/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1788503465",
             "set": "PLST",
             "collectorNumber": "ORI-135"
           },
@@ -8999,6 +8999,33 @@
         "partial": false,
         "path": "./data/galleries/game-of-thrones-jon-snow-4a515d18d5.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1J6DlMkUr33qA0i8Q2aC_6Xi0-UKcXeyU&sz=w520"
+      }
+    },
+    {
+      "id": "game-of-thrones-lannisters-6d4c0bef5c",
+      "kind": "deck",
+      "theme": "Game of Thrones (Lannisters)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1RNGWLtI9xB5msP67hLbEWtJUJEI8h49B"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/YANMbl48GUS2_3i4fWh7Mw"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1qwoaxa/complete_a_song_of_ice_and_firegame_of_thrones/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Queen Marchesa - Aikido, Monarch (Mardu)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 92,
+        "partial": false,
+        "path": "./data/galleries/game-of-thrones-lannisters-6d4c0bef5c.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1takYn7ayCd6dxgYksPNBxco37E1KysOf&sz=w520"
       }
     },
     {
@@ -23772,6 +23799,87 @@
       }
     },
     {
+      "id": "star-wars-embrace-the-dark-side-5dba52e1d2",
+      "kind": "deck",
+      "theme": "Star Wars (Embrace the Dark Side)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1IytpFlFXPToboY6BeO_1PevH3vpswbk6"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/na2OJSzcjka7BLrLGRi2MA"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1sxltbf/complete_star_wars_embrace_the_dark_side/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Sauron - Aggro, Grixis Value, IP Theme (Mardu)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 87,
+        "partial": false,
+        "path": "./data/galleries/star-wars-embrace-the-dark-side-5dba52e1d2.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1TALV2gMmFnAJHgw5XrVhzElF9KosUdNq&sz=w520"
+      }
+    },
+    {
+      "id": "star-wars-scum-and-villainy-6ecbf2cc0b",
+      "kind": "deck",
+      "theme": "Star Wars (Scum and Villainy)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/13RnjlvwH0z1QB46UapPbrgaAFPwgpAmR"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/Hih0PZQ2Kkuz_In09g_1zQ"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1stljhj/complete_star_wars_scum_and_villainy_commander/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Olivia - Outlaws (Mardu)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 87,
+        "partial": false,
+        "path": "./data/galleries/star-wars-scum-and-villainy-6ecbf2cc0b.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1bcc4P7-O4Pa2rUbh81Ohs5Wv5X3c094P&sz=w520"
+      }
+    },
+    {
+      "id": "star-wars-the-jedi-rebellion-8c4af7ad22",
+      "kind": "deck",
+      "theme": "Star Wars (The Jedi Rebellion)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1jUUk3okUCKWA746J1rMlrwWMMFl_nsf1"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/7eD-hivRUUujeRdbpMrx9g"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1svf52a/complete_star_wars_the_jedi_rebellion_commander/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Galea - Auras, Equipment (Bant)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 86,
+        "partial": false,
+        "path": "./data/galleries/star-wars-the-jedi-rebellion-8c4af7ad22.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1aJQB0qYH5Q6ZD1_cC9wfWH5jW7n2IXC0&sz=w520"
+      }
+    },
+    {
       "id": "steven-universe-a67652894c",
       "kind": "deck",
       "theme": "Steven Universe",
@@ -30060,9 +30168,9 @@
       }
     },
     {
-      "id": "world-of-warcraft-night-elves-db7893f61a",
+      "id": "world-of-warcraft-night-elves-83ed58f688",
       "kind": "deck",
-      "theme": "World of Warcraft  (Night Elves)",
+      "theme": "World of Warcraft (Night Elves)",
       "deckSource": {
         "label": "Google Drive",
         "url": "https://drive.google.com/drive/folders/112JvSI4epPJf0ZdKvnpRMv4cEpNxClSR"
@@ -30072,7 +30180,7 @@
         "url": "https://moxfield.com/decks/YQdtwgSypUWc6ZI-3oVv4w"
       },
       "creator": {
-        "label": "Havgslimt",
+        "label": "Havsglimt",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1pnhigj/complete_night_elf_warcraft_commander_deck/"
       },
       "notes": "Card Back, Tokens",
@@ -30082,14 +30190,14 @@
         "provider": "Google Drive",
         "totalImages": 132,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-night-elves-db7893f61a.json",
+        "path": "./data/galleries/world-of-warcraft-night-elves-83ed58f688.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1s6NnhQ_5cI3p5-dlM9MuT9lb2aRKtCsO&sz=w520"
       }
     },
     {
-      "id": "world-of-warcraft-azshara-5c81b69462",
+      "id": "world-of-warcraft-azshara-s-naga-c06bf86828",
       "kind": "deck",
-      "theme": "World of Warcraft (Azshara)",
+      "theme": "World of Warcraft (Azshara's Naga)",
       "deckSource": {
         "label": "Google Drive",
         "url": "https://drive.google.com/drive/folders/1l154zBxrqeccT-vGDayO7Lby9ITrmHV-"
@@ -30109,7 +30217,7 @@
         "provider": "Google Drive",
         "totalImages": 116,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-azshara-5c81b69462.json",
+        "path": "./data/galleries/world-of-warcraft-azshara-s-naga-c06bf86828.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1aoxpJEMCWDKhb_hfS7uE4WcJSR5EuI4a&sz=w520"
       }
     },
@@ -30195,7 +30303,7 @@
       }
     },
     {
-      "id": "world-of-warcraft-old-gods-c009c898e2",
+      "id": "world-of-warcraft-old-gods-59a640daf8",
       "kind": "deck",
       "theme": "World of Warcraft (Old Gods)",
       "deckSource": {
@@ -30207,7 +30315,7 @@
         "url": ""
       },
       "creator": {
-        "label": "Havgslimt",
+        "label": "Havsglimt",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1o8gmef/complete_old_gods_dragonflight_warcraft_commander/"
       },
       "notes": "Card Back, Tokens",
@@ -30217,7 +30325,7 @@
         "provider": "Google Drive",
         "totalImages": 112,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-old-gods-c009c898e2.json",
+        "path": "./data/galleries/world-of-warcraft-old-gods-59a640daf8.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1aIyuFL27Q0qDSErDq8CuBc_0nK0ejW6F&sz=w520"
       }
     },
@@ -30276,7 +30384,7 @@
       }
     },
     {
-      "id": "world-of-warcraft-the-lich-king-ead19b1a0c",
+      "id": "world-of-warcraft-the-lich-king-afc62fab49",
       "kind": "deck",
       "theme": "World of Warcraft (The Lich King)",
       "deckSource": {
@@ -30288,7 +30396,7 @@
         "url": "https://moxfield.com/decks/r2vaQ7-TP0uewRhuM8cdHg"
       },
       "creator": {
-        "label": "Havgslimt",
+        "label": "Havsglimt",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1ofrg9n/complete_lich_king_warcraft_commander_deck_sauron/"
       },
       "notes": "Card Back, Tokens",
@@ -30298,7 +30406,7 @@
         "provider": "Google Drive",
         "totalImages": 151,
         "partial": false,
-        "path": "./data/galleries/world-of-warcraft-the-lich-king-ead19b1a0c.json",
+        "path": "./data/galleries/world-of-warcraft-the-lich-king-afc62fab49.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1yDERrGEZRFM6Ilewfx1s6Ahhk0UchZte&sz=w520"
       }
     },
