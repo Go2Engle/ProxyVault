@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "ohsama-sentai-king-ohger-super-sentai-56fa8b264b",
     "game-of-thrones-lannisters-6d4c0bef5c",
     "star-wars-embrace-the-dark-side-5dba52e1d2",
     "star-wars-scum-and-villainy-6ecbf2cc0b",
     "star-wars-the-jedi-rebellion-8c4af7ad22",
-    "world-of-warcraft-night-elves-83ed58f688",
-    "world-of-warcraft-azshara-s-naga-c06bf86828"
+    "world-of-warcraft-night-elves-83ed58f688"
   ],
   "decks": [
     {
@@ -17520,6 +17520,26 @@
         "path": "./data/galleries/no-man-s-sky-c38e4e4d31.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1KabnVCoxpeMNgeHXwxpG_XW6maE-Eb2s&sz=w520"
       }
+    },
+    {
+      "id": "ohsama-sentai-king-ohger-super-sentai-56fa8b264b",
+      "kind": "deck",
+      "theme": "Ohsama Sentai King-Ohger (Super Sentai)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/bf78d5b88d"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/kx09y5aqnkSNNHJWVKqEPQ"
+      },
+      "creator": {
+        "label": "firebringeraxel",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1wcc8r4/complete_ohsama_sentai_kingohger_edh_deck_five/"
+      },
+      "notes": "Contains no Basic Lands, Cards are 300DPI. Card Back, Tokens, Alt Art Options, Side Board options",
+      "commanderArchetype": "Aragorn - Monarch, Multicolor Matters (WURG)",
+      "aiUse": ""
     },
     {
       "id": "one-piece-d757d6b5ea",
