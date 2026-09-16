@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "persona-5-royal-cde7a37a48",
+    "japanese-mystical-archive-basic-lands-1edab5707f",
     "ohsama-sentai-king-ohger-super-sentai-56fa8b264b",
     "game-of-thrones-lannisters-6d4c0bef5c",
     "star-wars-embrace-the-dark-side-5dba52e1d2",
-    "star-wars-scum-and-villainy-6ecbf2cc0b",
-    "star-wars-the-jedi-rebellion-8c4af7ad22",
-    "world-of-warcraft-night-elves-83ed58f688"
+    "star-wars-scum-and-villainy-6ecbf2cc0b"
   ],
   "decks": [
     {
@@ -17537,7 +17537,7 @@
         "label": "firebringeraxel",
         "url": "https://www.reddit.com/r/mpcproxies/comments/1wcc8r4/complete_ohsama_sentai_kingohger_edh_deck_five/"
       },
-      "notes": "Contains no Basic Lands. Card Back, Tokens, Alt Art Options, Side Board options",
+      "notes": "Card Back, Tokens, Alt Art Options, Side Board options",
       "commanderArchetype": "Aragorn - Monarch, Multicolor Matters (WURG)",
       "aiUse": ""
     },
@@ -20034,6 +20034,26 @@
         "path": "./data/galleries/persona-4-880ac5e66d.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1r68Ibxzqi4Nm5JS82YM_HIb57BTz03pU&sz=w520"
       }
+    },
+    {
+      "id": "persona-5-royal-cde7a37a48",
+      "kind": "deck",
+      "theme": "Persona 5 Royal",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/9eb814d744"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/take-your-heart-3/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1wh04k5/complete_persona_5_royal_edh_deck_take_your_heart/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Terra - Enchantments, Summons (WUBRG)",
+      "aiUse": ""
     },
     {
       "id": "persona-5-joker-ed7321b4c3",
@@ -30397,7 +30417,7 @@
       "aiUse": "",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 198,
+        "totalImages": 173,
         "partial": false,
         "path": "./data/galleries/world-of-warcraft-the-earthen-ring-9e9cae5da3.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1N7xHhyWRRkzzhuoxcf1lu-rbMgx4CxN4&sz=w520"
@@ -30635,6 +30655,24 @@
         "path": "./data/galleries/fractal-art-basic-lands-a3afa59b40.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1MVCYEwK2gbCzpbsUEQ1Yiqp3B-nn09d9&sz=w520"
       }
+    },
+    {
+      "id": "japanese-mystical-archive-basic-lands-1edab5707f",
+      "kind": "collection",
+      "theme": "Japanese Mystical Archive (Basic Lands)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/4b61329474"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "firebringeraxel",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1wheidm/japanese_mystic_archive_style_full_art_basic_land/"
+      },
+      "notes": ""
     }
   ]
 }
