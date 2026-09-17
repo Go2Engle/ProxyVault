@@ -22630,7 +22630,7 @@
       "aiUse": "",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 260,
+        "totalImages": 262,
         "partial": false,
         "path": "./data/galleries/solo-leveling-ce5a55d6cb.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1MvOTKbn51C3ueSBC9g-6aMiaa_qeHBuj&sz=w520"
@@ -26304,7 +26304,7 @@
             "manaCost": "{2}{B}{G}",
             "manaValue": 4.0,
             "typeLine": "Creature — Fungus",
-            "image": "https://cards.scryfall.io/normal/front/f/b/fb08ac43-f138-47b6-9bff-6248c315b0ca.jpg?1783912350",
+            "image": "https://cards.scryfall.io/normal/front/f/b/fb08ac43-f138-47b6-9bff-6248c315b0ca.jpg?1785650753",
             "set": "PIP",
             "collectorNumber": "214"
           },
@@ -27398,7 +27398,7 @@
       "aiUse": "",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 64,
+        "totalImages": 60,
         "partial": false,
         "path": "./data/galleries/the-last-of-us-f1794350d7.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1oQGEXEvgq6APe8nF5u9-_pFmAqfJcZ30&sz=w520"
@@ -28109,7 +28109,7 @@
             "manaCost": "{2}",
             "manaValue": 2.0,
             "typeLine": "Artifact — Equipment",
-            "image": "https://cards.scryfall.io/normal/front/f/d/fd1f14be-8c7c-471d-93e3-5856f48ff94a.jpg?1783906231",
+            "image": "https://cards.scryfall.io/normal/front/f/d/fd1f14be-8c7c-471d-93e3-5856f48ff94a.jpg?1786083583",
             "set": "FIC",
             "collectorNumber": "370"
           },
@@ -30417,7 +30417,7 @@
       "aiUse": "",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 173,
+        "totalImages": 198,
         "partial": false,
         "path": "./data/galleries/world-of-warcraft-the-earthen-ring-9e9cae5da3.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1N7xHhyWRRkzzhuoxcf1lu-rbMgx4CxN4&sz=w520"
