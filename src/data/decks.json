@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "predator-badlands-62a4e0a2ce",
     "persona-5-royal-cde7a37a48",
     "japanese-mystical-archive-basic-lands-1edab5707f",
     "ohsama-sentai-king-ohger-super-sentai-56fa8b264b",
     "game-of-thrones-lannisters-6d4c0bef5c",
-    "star-wars-embrace-the-dark-side-5dba52e1d2",
-    "star-wars-scum-and-villainy-6ecbf2cc0b"
+    "star-wars-embrace-the-dark-side-5dba52e1d2"
   ],
   "decks": [
     {
@@ -21450,6 +21450,33 @@
         "partial": false,
         "path": "./data/galleries/power-rangers-tommy-8c4dc24a02.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1HWeLh-JvUzALyiG5y5zocBloiAyauwiU&sz=w520"
+      }
+    },
+    {
+      "id": "predator-badlands-62a4e0a2ce",
+      "kind": "deck",
+      "theme": "Predator: Badlands",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/11sSIdsJ4Zx882uPsLdtlkiU9EVfl6RIQ"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "slightklingon",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1wkymna/complete_predator_badlands_edh_deck_dek_the/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Coram - Mill, Reanimator (Jund)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 174,
+        "partial": false,
+        "path": "./data/galleries/predator-badlands-62a4e0a2ce.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=14-6xiNnEF2ejjL5vExlStdx8YcAK2ktz&sz=w520"
       }
     },
     {
