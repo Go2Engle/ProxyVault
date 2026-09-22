@@ -1,7 +1,7 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
-    "predator-badlands-62a4e0a2ce",
+    "predator-badlands-d5ba8bdd69",
     "persona-5-royal-cde7a37a48",
     "japanese-mystical-archive-basic-lands-1edab5707f",
     "ohsama-sentai-king-ohger-super-sentai-56fa8b264b",
@@ -21453,7 +21453,7 @@
       }
     },
     {
-      "id": "predator-badlands-62a4e0a2ce",
+      "id": "predator-badlands-d5ba8bdd69",
       "kind": "deck",
       "theme": "Predator: Badlands",
       "deckSource": {
@@ -21461,8 +21461,8 @@
         "url": "https://drive.google.com/drive/folders/11sSIdsJ4Zx882uPsLdtlkiU9EVfl6RIQ"
       },
       "decklist": {
-        "label": "",
-        "url": ""
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/5tkwE8Lp10W2j5cSRjPWTg"
       },
       "creator": {
         "label": "slightklingon",
@@ -21475,7 +21475,7 @@
         "provider": "Google Drive",
         "totalImages": 174,
         "partial": false,
-        "path": "./data/galleries/predator-badlands-62a4e0a2ce.json",
+        "path": "./data/galleries/predator-badlands-d5ba8bdd69.json",
         "coverImage": "https://drive.google.com/thumbnail?id=14-6xiNnEF2ejjL5vExlStdx8YcAK2ktz&sz=w520"
       }
     },
