@@ -1,14 +1,34 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "ado-a326e924e1",
+    "forgetful-fish-dand-n-d5249ba7d3",
     "blue-prince-09fa8805ec",
     "predator-badlands-d5ba8bdd69",
     "persona-5-royal-cde7a37a48",
-    "japanese-mystical-archive-basic-lands-1edab5707f",
-    "ohsama-sentai-king-ohger-super-sentai-56fa8b264b",
-    "game-of-thrones-lannisters-6d4c0bef5c"
+    "japanese-mystical-archive-basic-lands-1edab5707f"
   ],
   "decks": [
+    {
+      "id": "ado-a326e924e1",
+      "kind": "deck",
+      "theme": "Ado",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/f7cc825296"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/RaqgAbkdXnS5A2Xu5zZyUg"
+      },
+      "creator": {
+        "label": "nitronik.exe",
+        "url": "https://www.reddit.com/r/mpcproxies/s/f0gO5QjgjS"
+      },
+      "notes": "Alternative frame options, Tokens",
+      "commanderArchetype": "Sokka - Ally Typal, Spellslinger (Jeskai)",
+      "aiUse": ""
+    },
     {
       "id": "adventure-time-card-wars-19545214f5",
       "kind": "deck",
@@ -31798,6 +31818,24 @@
         "path": "./data/galleries/final-fantasy-scions-spellcraft-precon-upgrades-db56262bad.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1miaCZHNs2CwM6v3x75BRi2BWRfpdHMN0&sz=w520"
       }
+    },
+    {
+      "id": "forgetful-fish-dand-n-d5249ba7d3",
+      "kind": "collection",
+      "theme": "Forgetful Fish/Dandân",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/b79b6cb301"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/floating-world-complete-collection/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/s/GCoJltlUd9"
+      },
+      "notes": "Allows for multiple Dandân/Nick Floyd variants"
     },
     {
       "id": "pok-mon-basic-lands-cd0d8e384a",
