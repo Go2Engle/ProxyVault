@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "metroid-2576a2dae6",
     "ado-a326e924e1",
     "forgetful-fish-dand-n-d5249ba7d3",
     "blue-prince-09fa8805ec",
     "predator-badlands-d5ba8bdd69",
-    "persona-5-royal-cde7a37a48",
-    "japanese-mystical-archive-basic-lands-1edab5707f"
+    "persona-5-royal-cde7a37a48"
   ],
   "decks": [
     {
@@ -15724,6 +15724,33 @@
       }
     },
     {
+      "id": "metroid-2576a2dae6",
+      "kind": "deck",
+      "theme": "Metroid",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1GnEf1VE-0ys2usOBfyEea5_jBqicv8kC?usp=drive_link"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/BRs7kzA2JEeKL1tTQp6eDA"
+      },
+      "creator": {
+        "label": "Chezkevin",
+        "url": "https://www.reddit.com/r/mpcproxies/s/EsQd1nXOKW"
+      },
+      "notes": "Check Source Post for sideboard and alternate art options",
+      "commanderArchetype": "Brokkos - Infect, Mutate (Sultai)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 93,
+        "partial": false,
+        "path": "./data/galleries/metroid-2576a2dae6.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1hgc2uFDtMKUfWWfmqnVi9vq39GZyYRyR&sz=w520"
+      }
+    },
+    {
       "id": "metroid-dark-samus-b4a5ceb958",
       "kind": "deck",
       "theme": "Metroid (Dark Samus)",
@@ -23893,7 +23920,7 @@
       "aiUse": "",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 166,
+        "totalImages": 170,
         "partial": false,
         "path": "./data/galleries/solo-leveling-ce5a55d6cb.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1MvOTKbn51C3ueSBC9g-6aMiaa_qeHBuj&sz=w520"
