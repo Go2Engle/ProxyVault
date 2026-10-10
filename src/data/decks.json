@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "naruto-5dc7ec37c1",
+    "one-piece-navy-cdd2d2cc42",
+    "one-piece-luffy-4bc9cbdf4b",
     "metroid-2576a2dae6",
     "ado-a326e924e1",
-    "forgetful-fish-dand-n-d5249ba7d3",
-    "blue-prince-09fa8805ec",
-    "predator-badlands-d5ba8bdd69",
-    "persona-5-royal-cde7a37a48"
+    "forgetful-fish-dand-n-d5249ba7d3"
   ],
   "decks": [
     {
@@ -27,7 +27,7 @@
       },
       "notes": "Alternative frame options, Tokens",
       "commanderArchetype": "Sokka - Ally Typal, Spellslinger (Jeskai)",
-      "aiUse": "46207.0"
+      "aiUse": "46302.0"
     },
     {
       "id": "adventure-time-card-wars-19545214f5",
@@ -15741,7 +15741,7 @@
       },
       "notes": "Check Source Post for sideboard and alternate art options",
       "commanderArchetype": "Brokkos - Infect, Mutate (Sultai)",
-      "aiUse": "46207.0",
+      "aiUse": "46302.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 93,
@@ -18677,6 +18677,26 @@
       }
     },
     {
+      "id": "naruto-5dc7ec37c1",
+      "kind": "deck",
+      "theme": "Naruto",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/79812e72b7"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/nRAzWhotZ0iZo1TPLbgmrQ"
+      },
+      "creator": {
+        "label": "WhiteRabbitMTG",
+        "url": "https://www.reddit.com/r/mpcproxies/s/RV6rxQEbWr"
+      },
+      "notes": "",
+      "commanderArchetype": "Tazri - Activated Abilities (WUBRG)",
+      "aiUse": "46304.0"
+    },
+    {
       "id": "naruto-fafa442cc3",
       "kind": "deck",
       "theme": "Naruto",
@@ -18805,9 +18825,36 @@
       "aiUse": "46207.0"
     },
     {
-      "id": "one-piece-d757d6b5ea",
+      "id": "one-piece-navy-cdd2d2cc42",
       "kind": "deck",
-      "theme": "One Piece",
+      "theme": "One Piece (Navy)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1Hm_-EQziX0pThLBnNo_RYaTKNj8mRzxu"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/fHRXkf5uP0GgDkZ8bajAZg"
+      },
+      "creator": {
+        "label": "KapS37",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1x1w2ww/one_piece_navy_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Mathas - Control, IP Themed (Mardu)",
+      "aiUse": "46304.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 240,
+        "partial": false,
+        "path": "./data/galleries/one-piece-navy-cdd2d2cc42.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1w236s2__YQaGS4BPbo6mXWsy8gcZVGcX&sz=w520"
+      }
+    },
+    {
+      "id": "one-piece-luffy-4bc9cbdf4b",
+      "kind": "deck",
+      "theme": "One Piece (Luffy)",
       "deckSource": {
         "label": "Google Drive",
         "url": "https://drive.google.com/drive/folders/1vISeKV6BcaSyZW-VY4BdEDieRoFhQEhy"
@@ -18822,14 +18869,7 @@
       },
       "notes": "Drive contains additional card options, use Decklist for OG build, Card Back, Tokens",
       "commanderArchetype": "Jodah - Legends (WUBRG)",
-      "aiUse": "46207.0",
-      "customGallery": {
-        "provider": "Google Drive",
-        "totalImages": 280,
-        "partial": false,
-        "path": "./data/galleries/one-piece-d757d6b5ea.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1WKRXxiXR2a4pu75umb9n2Ecm38vCm9RE&sz=w520"
-      }
+      "aiUse": "46207.0"
     },
     {
       "id": "one-piece-ce8c965dac",
