@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "arcane-league-of-legends-cac6de835f",
     "naruto-5dc7ec37c1",
     "one-piece-navy-cdd2d2cc42",
     "one-piece-luffy-4bc9cbdf4b",
     "metroid-2576a2dae6",
-    "ado-a326e924e1",
-    "forgetful-fish-dand-n-d5249ba7d3"
+    "ado-a326e924e1"
   ],
   "decks": [
     {
@@ -27,7 +27,7 @@
       },
       "notes": "Alternative frame options, Tokens",
       "commanderArchetype": "Sokka - Ally Typal, Spellslinger (Jeskai)",
-      "aiUse": "46302.0"
+      "aiUse": "46296.0"
     },
     {
       "id": "adventure-time-card-wars-19545214f5",
@@ -101,7 +101,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Sliver Gravemother - Sliver Typal (WUBRG)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 109,
@@ -138,7 +138,7 @@
       }
     },
     {
-      "id": "arcane-league-of-legends-9fdedb1516",
+      "id": "arcane-league-of-legends-cac6de835f",
       "kind": "deck",
       "theme": "Arcane (League of Legends)",
       "deckSource": {
@@ -150,17 +150,17 @@
         "url": "https://scryfall.com/@CharmQuark/decks/b4a4fee5-333e-416e-b62c-0b38654efbf5"
       },
       "creator": {
-        "label": "_CharmQuark_",
+        "label": "CharmQuark",
         "url": "https://www.reddit.com/user/_CharmQuark_/comments/1iywx35/my_little_project_corner/"
       },
       "notes": "Card Back, Tokens, Bonus Cards",
       "commanderArchetype": "Ezio Auditore - Assassin Typal (WUBRG)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 122,
         "partial": false,
-        "path": "./data/galleries/arcane-league-of-legends-9fdedb1516.json",
+        "path": "./data/galleries/arcane-league-of-legends-cac6de835f.json",
         "coverImage": "https://drive.google.com/thumbnail?id=10_JeOCj8kgHGewJ1YmbziUsipqauG6-S&sz=w520"
       }
     },
@@ -236,7 +236,7 @@
       },
       "notes": "Spare cards in the main folder",
       "commanderArchetype": "Avatar Aang - Ally Typal, Element Bending (WUBRG)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Ko-fi",
         "totalImages": 1,
@@ -1501,7 +1501,7 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Orvar - Clones, Spellslinger (Mono-U)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 65,
@@ -1737,7 +1737,7 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Marina Vendrell - Rooms (WUBRG)",
-      "aiUse": "46207.0",
+      "aiUse": "46296.0",
       "preview": {
         "provider": "Archidekt",
         "sourceDeckName": "Blue Prince (description states what each card represents)",
@@ -3061,7 +3061,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Cloud - Equipment, Voltron (Naya)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 82,
@@ -3115,7 +3115,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Ishai/Jeska - Stax (Jeskai)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 102,
@@ -4257,7 +4257,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Mole Man - Landfall (Mono-G)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Ko-fi",
         "totalImages": 2,
@@ -4311,7 +4311,7 @@
       },
       "notes": "",
       "commanderArchetype": "Kefka - Discard (Grixis)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Ko-fi",
         "totalImages": 1,
@@ -4338,7 +4338,7 @@
       },
       "notes": "Rule 0 required for the commander, I recommend Tana, the Bloodsower / Silas Renn as legal commanders",
       "commanderArchetype": "Glint-Eye Nephilim (RULE 0!) - Voltron (UBRG)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 50,
@@ -4365,7 +4365,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Kaalia - Angel & Demon Typal (Mardu)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 77,
@@ -6062,7 +6062,7 @@
       },
       "notes": "",
       "commanderArchetype": "Child of Alara - God Typal (WUBRG)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Ko-fi",
         "totalImages": 17,
@@ -6224,7 +6224,7 @@
       },
       "notes": "Includes the full precon + 46 upgrades",
       "commanderArchetype": "Tidus - +1/+1 Counters (Bant)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Ko-fi",
         "totalImages": 4,
@@ -8993,7 +8993,7 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Merry/Pippin - Food, Tokens (Abzan)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 66,
@@ -10255,7 +10255,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Queen Marchesa - Aikido, Monarch (Mardu)",
-      "aiUse": "46207.0",
+      "aiUse": "46296.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 92,
@@ -10309,7 +10309,7 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Edward Kenway - Pirate Typal (Grixis)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 51,
@@ -11526,7 +11526,7 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Saheeli - Clones, Energy (Temur)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 124,
@@ -15741,7 +15741,7 @@
       },
       "notes": "Check Source Post for sideboard and alternate art options",
       "commanderArchetype": "Brokkos - Infect, Mutate (Sultai)",
-      "aiUse": "46302.0",
+      "aiUse": "46296.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 93,
@@ -18768,7 +18768,7 @@
       },
       "notes": "Card Back, Tokens, Alt Art Options",
       "commanderArchetype": "The Vision - Artifacts, Voltron (Colourless)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Ko-fi",
         "totalImages": 7,
@@ -18822,7 +18822,7 @@
       },
       "notes": "Card Back, Tokens, Alt Art Options, Side Board options",
       "commanderArchetype": "Aragorn - Monarch, Multicolor Matters (WURG)",
-      "aiUse": "46207.0"
+      "aiUse": "46296.0"
     },
     {
       "id": "one-piece-navy-cdd2d2cc42",
@@ -18869,7 +18869,7 @@
       },
       "notes": "Drive contains additional card options, use Decklist for OG build, Card Back, Tokens",
       "commanderArchetype": "Jodah - Legends (WUBRG)",
-      "aiUse": "46207.0"
+      "aiUse": "46234.0"
     },
     {
       "id": "one-piece-ce8c965dac",
@@ -21329,7 +21329,7 @@
       },
       "notes": "Deck requires 2x each Basic Land, Tokens",
       "commanderArchetype": "Tazri - Dungeons, Party (WUBRG)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 128,
@@ -21356,7 +21356,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Terra - Enchantments, Summons (WUBRG)",
-      "aiUse": "46207.0"
+      "aiUse": "46296.0"
     },
     {
       "id": "persona-5-joker-ed7321b4c3",
@@ -21430,7 +21430,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "The First Sliver - Sliver Typal (WUBRG)",
-      "aiUse": "46207.0",
+      "aiUse": "46296.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 163,
@@ -22773,7 +22773,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Coram - Mill, Reanimator (Jund)",
-      "aiUse": "46207.0",
+      "aiUse": "46296.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 174,
@@ -22800,7 +22800,7 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Me, the Immortal - +1/+1 Counters (Temur)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 107,
@@ -23957,10 +23957,10 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "The Scarab God - Zombie Typal (Dimir)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 170,
+        "totalImages": 178,
         "partial": false,
         "path": "./data/galleries/solo-leveling-ce5a55d6cb.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1MvOTKbn51C3ueSBC9g-6aMiaa_qeHBuj&sz=w520"
@@ -25159,7 +25159,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Urza, Artifact Creatures (Esper)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 87,
@@ -25186,7 +25186,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Sauron - Aggro, Grixis Value, IP Theme (Mardu)",
-      "aiUse": "46207.0",
+      "aiUse": "46296.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 87,
@@ -25213,7 +25213,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Olivia - Outlaws (Mardu)",
-      "aiUse": "46207.0",
+      "aiUse": "46296.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 87,
@@ -25240,7 +25240,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Galea - Auras, Equipment (Bant)",
-      "aiUse": "46207.0",
+      "aiUse": "46296.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 86,
@@ -26352,7 +26352,7 @@
       },
       "notes": "Tokens",
       "commanderArchetype": "Sin, Spira's Punishment - Sea Beasts, Tokens (Sultai)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "preview": {
         "provider": "Archidekt",
         "sourceDeckName": "Subnautica",
@@ -27515,7 +27515,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Atraxa - Superfriends (WUBG)",
-      "aiUse": "46207.0"
+      "aiUse": "46296.0"
     },
     {
       "id": "sword-art-online-kirito-asuna-3a819a8418",
@@ -28725,7 +28725,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Ellie/Joel - Aristocrats (Jund)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 60,
@@ -29894,7 +29894,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Muldrotha - Battlecruiser, Self-Mill (Sultai)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 77,
@@ -29921,7 +29921,7 @@
       },
       "notes": "Card Back, Tokens",
       "commanderArchetype": "Maarika - Aggro, Voltron (Jund)",
-      "aiUse": "46207.0",
+      "aiUse": "46265.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 76,
@@ -29975,7 +29975,7 @@
       },
       "notes": "Artist Credits in text file in Drive, Tokens",
       "commanderArchetype": "Massacre Girl - -1/-1 Counters (Mono-B)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
         "totalImages": 238,
@@ -30056,7 +30056,7 @@
       },
       "notes": "Custom/Rule 0 Commanders (contains Sideboard replacements), Tokens",
       "commanderArchetype": "Custom Partners/Breya - Artifacts, IP Theme (WUBR)",
-      "aiUse": "46207.0",
+      "aiUse": "46234.0",
       "preview": {
         "provider": "Archidekt",
         "sourceDeckName": "The Wenclair Deck - Remastered",
