@@ -1,10 +1,10 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "one-piece-luffy-d13f822ab9",
     "arcane-league-of-legends-cac6de835f",
     "naruto-5dc7ec37c1",
     "one-piece-navy-cdd2d2cc42",
-    "one-piece-luffy-4bc9cbdf4b",
     "metroid-2576a2dae6",
     "ado-a326e924e1"
   ],
@@ -15799,7 +15799,7 @@
       "preview": {
         "provider": "Archidekt",
         "sourceDeckName": "Etrata, Corrupting Influence",
-        "sourceUpdatedAt": "2026-07-01T08:42:15.589766Z",
+        "sourceUpdatedAt": "2026-10-12T09:25:22.971905Z",
         "totalCards": 147,
         "cards": [
           {
@@ -18852,12 +18852,12 @@
       }
     },
     {
-      "id": "one-piece-luffy-4bc9cbdf4b",
+      "id": "one-piece-luffy-d13f822ab9",
       "kind": "deck",
       "theme": "One Piece (Luffy)",
       "deckSource": {
         "label": "Google Drive",
-        "url": "https://drive.google.com/drive/folders/1vISeKV6BcaSyZW-VY4BdEDieRoFhQEhy"
+        "url": "https://drive.google.com/drive/folders/1Hm_-EQziX0pThLBnNo_RYaTKNj8mRzxu"
       },
       "decklist": {
         "label": "Moxfield",
@@ -18869,7 +18869,14 @@
       },
       "notes": "Drive contains additional card options, use Decklist for OG build, Card Back, Tokens",
       "commanderArchetype": "Jodah - Legends (WUBRG)",
-      "aiUse": "46234.0"
+      "aiUse": "46234.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 240,
+        "partial": false,
+        "path": "./data/galleries/one-piece-luffy-d13f822ab9.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1w236s2__YQaGS4BPbo6mXWsy8gcZVGcX&sz=w520"
+      }
     },
     {
       "id": "one-piece-ce8c965dac",
