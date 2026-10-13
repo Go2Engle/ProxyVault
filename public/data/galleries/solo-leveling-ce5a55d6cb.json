@@ -1,6 +1,6 @@
 {
   "provider": "Google Drive",
-  "totalImages": 178,
+  "totalImages": 180,
   "partial": false,
   "images": [
     {
@@ -599,6 +599,13 @@
       "sourceUrl": "https://drive.google.com/file/d/1ei_vFsfbuZGRh3G_x5VQnqKmO-PFhCvd/view"
     },
     {
+      "id": "1pnEzRjt9XbkcDVmeU7ZRyDOXdzfyW5gl",
+      "name": "The Soul Stone (Itarim Starpiece).png",
+      "image": "https://drive.google.com/thumbnail?id=1pnEzRjt9XbkcDVmeU7ZRyDOXdzfyW5gl&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1pnEzRjt9XbkcDVmeU7ZRyDOXdzfyW5gl&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1pnEzRjt9XbkcDVmeU7ZRyDOXdzfyW5gl/view"
+    },
+    {
       "id": "1p-VF6KPeRI5P5faSpMm4OyfcLYrXJU0m",
       "name": "Thran Dynamo (Holy Water of Life).png",
       "image": "https://drive.google.com/thumbnail?id=1p-VF6KPeRI5P5faSpMm4OyfcLYrXJU0m&sz=w1600",
@@ -842,6 +849,13 @@
       "image": "https://drive.google.com/thumbnail?id=1C-5Tt-KXvDC_NOHlxt3FK0DAdlMlYixd&sz=w1600",
       "thumbnail": "https://drive.google.com/thumbnail?id=1C-5Tt-KXvDC_NOHlxt3FK0DAdlMlYixd&sz=w520",
       "sourceUrl": "https://drive.google.com/file/d/1C-5Tt-KXvDC_NOHlxt3FK0DAdlMlYixd/view"
+    },
+    {
+      "id": "1WhgPzG99-rB_KgQWQShZrx5FovggUVsP",
+      "name": "Cultist of the Absolute (Power of the Shadow Monarch).png",
+      "image": "https://drive.google.com/thumbnail?id=1WhgPzG99-rB_KgQWQShZrx5FovggUVsP&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1WhgPzG99-rB_KgQWQShZrx5FovggUVsP&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1WhgPzG99-rB_KgQWQShZrx5FovggUVsP/view"
     },
     {
       "id": "1ZHqq47tQspME_FtNm7EX_7eWwEFxZPOv",

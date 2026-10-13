@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "the-matrix-e299fc6c0a",
+    "vocaloid-78abcefdab",
     "one-piece-luffy-d13f822ab9",
     "arcane-league-of-legends-cac6de835f",
     "naruto-5dc7ec37c1",
-    "one-piece-navy-cdd2d2cc42",
-    "metroid-2576a2dae6",
-    "ado-a326e924e1"
+    "one-piece-navy-cdd2d2cc42"
   ],
   "decks": [
     {
@@ -13187,7 +13187,7 @@
             "manaCost": "{R}",
             "manaValue": 1.0,
             "typeLine": "Legendary Creature — Pirate Monkey",
-            "image": "https://cards.scryfall.io/normal/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1783926839",
+            "image": "https://cards.scryfall.io/normal/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1791803835",
             "set": "MH2",
             "collectorNumber": "138"
           },
@@ -23967,7 +23967,7 @@
       "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 178,
+        "totalImages": 180,
         "partial": false,
         "path": "./data/galleries/solo-leveling-ce5a55d6cb.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1MvOTKbn51C3ueSBC9g-6aMiaa_qeHBuj&sz=w520"
@@ -29884,6 +29884,33 @@
       }
     },
     {
+      "id": "the-matrix-e299fc6c0a",
+      "kind": "deck",
+      "theme": "The Matrix",
+      "deckSource": {
+        "label": "postimages",
+        "url": "https://postimg.cc/gallery/QWbwKP0"
+      },
+      "decklist": {
+        "label": "Archidekt",
+        "url": "https://archidekt.com/decks/26585824/the_matrix?sort=cmc&stack=types"
+      },
+      "creator": {
+        "label": "Toes_In_The_Soil",
+        "url": "https://www.reddit.com/r/mpcproxies/s/75smUkM7R5"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Marina Vendrell - Rooms (WUBRG)",
+      "aiUse": "46308.0",
+      "preview": {
+        "provider": "Archidekt",
+        "sourceDeckName": "The Matrix",
+        "sourceUpdatedAt": "2026-10-12T16:34:08.262233Z",
+        "totalCards": 0,
+        "cards": []
+      }
+    },
+    {
       "id": "the-witcher-monsters-a3ae4c541e",
       "kind": "deck",
       "theme": "The Witcher (Monsters)",
@@ -29989,6 +30016,33 @@
         "partial": false,
         "path": "./data/galleries/undertale-deltarune-24517ddf98.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1PVU65T6jJMMLRCB6e0-v8wpN1GBDO4vq&sz=w520"
+      }
+    },
+    {
+      "id": "vocaloid-78abcefdab",
+      "kind": "deck",
+      "theme": "Vocaloid",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1dHPwZ2jgt8McUHwI-ApDRzLL2NUbBDzV"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/K3OzlX74LEKBaDkcZK-JVw"
+      },
+      "creator": {
+        "label": "bilbotbaggens90",
+        "url": "https://www.reddit.com/r/magicproxies/s/NgvtHH4KDX"
+      },
+      "notes": "Tokens, Alt Arts, Sideboard Options",
+      "commanderArchetype": "Hazezon - Landfall, Tokens (Naya)",
+      "aiUse": "46308.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 152,
+        "partial": false,
+        "path": "./data/galleries/vocaloid-78abcefdab.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1UZbTh9McSkzTBrQZY8d3H4nOVrt6oSy3&sz=w520"
       }
     },
     {
