@@ -17516,7 +17516,7 @@
       "aiUse": "46207.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 269,
+        "totalImages": 217,
         "partial": false,
         "path": "./data/galleries/monster-hunter-temur-roar-precon-9c37e5d2ab.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1Ou6Yjz2LIErY8KY3lItQnQAtIVhagUQH&sz=w520"
@@ -24048,10 +24048,10 @@
       "aiUse": "46234.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 135,
+        "totalImages": 180,
         "partial": false,
         "path": "./data/galleries/solo-leveling-ce5a55d6cb.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1PtwZfPGgRCAV5kEHB136w0VO5kRNEa4K&sz=w520"
+        "coverImage": "https://drive.google.com/thumbnail?id=1MvOTKbn51C3ueSBC9g-6aMiaa_qeHBuj&sz=w520"
       }
     },
     {
