@@ -461,7 +461,7 @@
             "manaCost": "{1}{U}{U}",
             "manaValue": 3.0,
             "typeLine": "Creature — Human Wizard",
-            "image": "https://cards.scryfall.io/normal/front/3/3/33bd5541-0ffb-4e82-ab17-f64ad555ddb6.jpg?1783931278",
+            "image": "https://cards.scryfall.io/normal/front/3/3/33bd5541-0ffb-4e82-ab17-f64ad555ddb6.jpg?1792070310",
             "set": "PLST",
             "collectorNumber": "MRD-36"
           },
@@ -4530,7 +4530,7 @@
       "aiUse": "46207.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 109,
+        "totalImages": 94,
         "partial": false,
         "path": "./data/galleries/disney-pixar-villains-556839c1c2.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1BYXn-975OdGjDIXb9k5HcWERagvELdGy&sz=w520"
@@ -17516,7 +17516,7 @@
       "aiUse": "46207.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 217,
+        "totalImages": 269,
         "partial": false,
         "path": "./data/galleries/monster-hunter-temur-roar-precon-9c37e5d2ab.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1Ou6Yjz2LIErY8KY3lItQnQAtIVhagUQH&sz=w520"
@@ -22919,7 +22919,7 @@
       "preview": {
         "provider": "Archidekt",
         "sourceDeckName": "Samy et Scooby !",
-        "sourceUpdatedAt": "2024-03-02T00:14:54.837762Z",
+        "sourceUpdatedAt": "2026-10-16T10:38:04.030008Z",
         "totalCards": 100,
         "cards": [
           {
@@ -23091,6 +23091,18 @@
             "collectorNumber": "696"
           },
           {
+            "id": "3581087225",
+            "name": "Jaheira, Friend of the Forest",
+            "quantity": 1,
+            "category": "Creature",
+            "manaCost": "{2}{G}",
+            "manaValue": 3.0,
+            "typeLine": "Legendary Creature — Human Elf Druid",
+            "image": "https://cards.scryfall.io/normal/front/f/e/feb7ad1b-4466-48f7-b46d-cc83d4e22b51.jpg?1783922710",
+            "set": "CLB",
+            "collectorNumber": "237"
+          },
+          {
             "id": "1586089139",
             "name": "K-9, Mark I",
             "quantity": 1,
@@ -23125,6 +23137,18 @@
             "image": "https://cards.scryfall.io/normal/front/f/4/f408c5e4-e18d-4e4d-959a-f41df4c3019c.jpg?1783926530",
             "set": "AFR",
             "collectorNumber": "23"
+          },
+          {
+            "id": "3581053337",
+            "name": "Lucky the Pizza Dog",
+            "quantity": 1,
+            "category": "Creature",
+            "manaCost": "{1}{G}",
+            "manaValue": 2.0,
+            "typeLine": "Legendary Creature — Dog",
+            "image": "https://cards.scryfall.io/normal/front/5/f/5fc454a5-39af-421d-a494-727ac7b6115e.jpg?1783903037",
+            "set": "MSC",
+            "collectorNumber": "726"
           },
           {
             "id": "1584232213",
@@ -23175,18 +23199,6 @@
             "collectorNumber": "306"
           },
           {
-            "id": "1584224861",
-            "name": "Mushroom Watchdogs",
-            "quantity": 1,
-            "category": "Creature",
-            "manaCost": "{1}{G}",
-            "manaValue": 2.0,
-            "typeLine": "Creature — Dog",
-            "image": "https://cards.scryfall.io/normal/front/d/1/d15fd66d-fa7e-411d-9014-a56caa879d93.jpg?1783916263",
-            "set": "LTR",
-            "collectorNumber": "180"
-          },
-          {
             "id": "1584224839",
             "name": "Pack Leader",
             "quantity": 1,
@@ -23211,18 +23223,6 @@
             "collectorNumber": "315"
           },
           {
-            "id": "1584232142",
-            "name": "Rambunctious Mutt",
-            "quantity": 1,
-            "category": "Creature",
-            "manaCost": "{3}{W}{W}",
-            "manaValue": 5.0,
-            "typeLine": "Creature — Dog",
-            "image": "https://cards.scryfall.io/normal/front/2/c/2cc371de-3e82-4d66-8636-f9c03579ba10.jpg?1783919092",
-            "set": "J22",
-            "collectorNumber": "231"
-          },
-          {
             "id": "1608436386",
             "name": "Realmwalker",
             "quantity": 1,
@@ -23233,18 +23233,6 @@
             "image": "https://cards.scryfall.io/normal/front/7/d/7d0f75c8-4cf7-46b3-af5c-7118453bd7a7.jpg?1783913857",
             "set": "LCC",
             "collectorNumber": "250"
-          },
-          {
-            "id": "1584224824",
-            "name": "Resolute Watchdog",
-            "quantity": 1,
-            "category": "Creature",
-            "manaCost": "{W}",
-            "manaValue": 1.0,
-            "typeLine": "Creature — Dog",
-            "image": "https://cards.scryfall.io/normal/front/5/6/56d86909-b7f3-4a46-9904-e173853b79f1.jpg?1783933717",
-            "set": "RNA",
-            "collectorNumber": "19"
           },
           {
             "id": "1584647679",
@@ -23269,18 +23257,6 @@
             "image": "https://cards.scryfall.io/normal/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1783930734",
             "set": "M21",
             "collectorNumber": "36"
-          },
-          {
-            "id": "1584224859",
-            "name": "Spirited Companion",
-            "quantity": 1,
-            "category": "Creature",
-            "manaCost": "{1}{W}",
-            "manaValue": 2.0,
-            "typeLine": "Creature Enchantment — Dog",
-            "image": "https://cards.scryfall.io/normal/front/7/e/7e038684-c476-41db-a1b1-57c46e5b4c9a.jpg?1783915445",
-            "set": "CMM",
-            "collectorNumber": "838"
           },
           {
             "id": "1586085814",
@@ -23319,6 +23295,18 @@
             "collectorNumber": "216"
           },
           {
+            "id": "3581090378",
+            "name": "Yoshimaru, Beloved Companion",
+            "quantity": 1,
+            "category": "Creature",
+            "manaCost": "{2}{W}",
+            "manaValue": 3.0,
+            "typeLine": "Legendary Creature — Dog",
+            "image": "https://cards.scryfall.io/normal/front/3/8/384f3b7d-8d7f-41bf-bebd-64e8babe7fca.jpg?1789470881",
+            "set": "FRA",
+            "collectorNumber": "209"
+          },
+          {
             "id": "1608432758",
             "name": "Yoshimaru, Ever Faithful",
             "quantity": 1,
@@ -23329,6 +23317,18 @@
             "image": "https://cards.scryfall.io/normal/front/a/a/aa409269-3698-42a2-8c51-75557b27a6f6.jpg?1783923987",
             "set": "NEC",
             "collectorNumber": "32"
+          },
+          {
+            "id": "3581088792",
+            "name": "Yoshimaru, Scrappy Stray",
+            "quantity": 1,
+            "category": "Creature",
+            "manaCost": "{1}{G}",
+            "manaValue": 2.0,
+            "typeLine": "Legendary Creature — Dog",
+            "image": "https://cards.scryfall.io/normal/front/b/8/b8dfd087-2434-42c6-ac4c-1decbcdde2db.jpg?1789470909",
+            "set": "FRA",
+            "collectorNumber": "269"
           },
           {
             "id": "1584224832",
