@@ -1,6 +1,6 @@
 {
   "provider": "Google Drive",
-  "totalImages": 84,
+  "totalImages": 80,
   "partial": false,
   "images": [
     {
@@ -450,34 +450,6 @@
       "image": "https://drive.google.com/thumbnail?id=1Oxhp-zJ_Y0HpP0eCWaphg3HTRwvy3b4R&sz=w1600",
       "thumbnail": "https://drive.google.com/thumbnail?id=1Oxhp-zJ_Y0HpP0eCWaphg3HTRwvy3b4R&sz=w520",
       "sourceUrl": "https://drive.google.com/file/d/1Oxhp-zJ_Y0HpP0eCWaphg3HTRwvy3b4R/view"
-    },
-    {
-      "id": "1vzYNp4ovIaUu8K13gOqv77aWYhd-YxHQ",
-      "name": "cCS.png",
-      "image": "https://drive.google.com/thumbnail?id=1vzYNp4ovIaUu8K13gOqv77aWYhd-YxHQ&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1vzYNp4ovIaUu8K13gOqv77aWYhd-YxHQ&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1vzYNp4ovIaUu8K13gOqv77aWYhd-YxHQ/view"
-    },
-    {
-      "id": "1PVvIxae3vhVZS1xzzsLu2NwT7OU_qjYI",
-      "name": "mCS.png",
-      "image": "https://drive.google.com/thumbnail?id=1PVvIxae3vhVZS1xzzsLu2NwT7OU_qjYI&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1PVvIxae3vhVZS1xzzsLu2NwT7OU_qjYI&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1PVvIxae3vhVZS1xzzsLu2NwT7OU_qjYI/view"
-    },
-    {
-      "id": "1NBxkxywCT_F-tpbj6mzAGq6dBNr5h_95",
-      "name": "rCS.png",
-      "image": "https://drive.google.com/thumbnail?id=1NBxkxywCT_F-tpbj6mzAGq6dBNr5h_95&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1NBxkxywCT_F-tpbj6mzAGq6dBNr5h_95&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1NBxkxywCT_F-tpbj6mzAGq6dBNr5h_95/view"
-    },
-    {
-      "id": "1c-YU12wDU2Ksuo2tO7MOkFFNd-syO-cv",
-      "name": "uCS.png",
-      "image": "https://drive.google.com/thumbnail?id=1c-YU12wDU2Ksuo2tO7MOkFFNd-syO-cv&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1c-YU12wDU2Ksuo2tO7MOkFFNd-syO-cv&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1c-YU12wDU2Ksuo2tO7MOkFFNd-syO-cv/view"
     },
     {
       "id": "1kBtZrGVKorvCCkSLO78SCzYu5ZRTFKBN",
