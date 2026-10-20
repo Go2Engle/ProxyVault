@@ -1,6 +1,6 @@
 {
   "provider": "Google Drive",
-  "totalImages": 80,
+  "totalImages": 74,
   "partial": false,
   "images": [
     {
@@ -289,48 +289,6 @@
       "image": "https://drive.google.com/thumbnail?id=1IXfHInZ-0JMdeoHpnkEKWG-4C1QMqIY3&sz=w1600",
       "thumbnail": "https://drive.google.com/thumbnail?id=1IXfHInZ-0JMdeoHpnkEKWG-4C1QMqIY3&sz=w520",
       "sourceUrl": "https://drive.google.com/file/d/1IXfHInZ-0JMdeoHpnkEKWG-4C1QMqIY3/view"
-    },
-    {
-      "id": "1oZnSPv1U-mhYxJLWYfYLemu1j0Vn_3rn",
-      "name": "Cunning Rhetoric.png",
-      "image": "https://drive.google.com/thumbnail?id=1oZnSPv1U-mhYxJLWYfYLemu1j0Vn_3rn&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1oZnSPv1U-mhYxJLWYfYLemu1j0Vn_3rn&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1oZnSPv1U-mhYxJLWYfYLemu1j0Vn_3rn/view"
-    },
-    {
-      "id": "1p5fZ0K7Jk9D-zQJR2mDpUT37lhUrOFAE",
-      "name": "Oupost Siege.png",
-      "image": "https://drive.google.com/thumbnail?id=1p5fZ0K7Jk9D-zQJR2mDpUT37lhUrOFAE&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1p5fZ0K7Jk9D-zQJR2mDpUT37lhUrOFAE&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1p5fZ0K7Jk9D-zQJR2mDpUT37lhUrOFAE/view"
-    },
-    {
-      "id": "1KHS_Wm6xq-t-udQusXDwgYbXIcjaD4R0",
-      "name": "Rain of Riches.png",
-      "image": "https://drive.google.com/thumbnail?id=1KHS_Wm6xq-t-udQusXDwgYbXIcjaD4R0&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1KHS_Wm6xq-t-udQusXDwgYbXIcjaD4R0&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1KHS_Wm6xq-t-udQusXDwgYbXIcjaD4R0/view"
-    },
-    {
-      "id": "1J94H9TfHd_0VNeh2ljUVHB9W2tO-i7Id",
-      "name": "Theater of Horrors.png",
-      "image": "https://drive.google.com/thumbnail?id=1J94H9TfHd_0VNeh2ljUVHB9W2tO-i7Id&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1J94H9TfHd_0VNeh2ljUVHB9W2tO-i7Id&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1J94H9TfHd_0VNeh2ljUVHB9W2tO-i7Id/view"
-    },
-    {
-      "id": "1otQIv0pz_edTswkl94fYNBfbPGb3KPsu",
-      "name": "Valakut Exploration.png",
-      "image": "https://drive.google.com/thumbnail?id=1otQIv0pz_edTswkl94fYNBfbPGb3KPsu&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1otQIv0pz_edTswkl94fYNBfbPGb3KPsu&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1otQIv0pz_edTswkl94fYNBfbPGb3KPsu/view"
-    },
-    {
-      "id": "1MKp7yfHI665fm8HrZnWBOQrCpqYK2qdP",
-      "name": "Wild Wasteland.png",
-      "image": "https://drive.google.com/thumbnail?id=1MKp7yfHI665fm8HrZnWBOQrCpqYK2qdP&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1MKp7yfHI665fm8HrZnWBOQrCpqYK2qdP&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1MKp7yfHI665fm8HrZnWBOQrCpqYK2qdP/view"
     },
     {
       "id": "1BQWomWjbKDZ6K77GoXz73K1QybbUJM9H",
