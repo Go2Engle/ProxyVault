@@ -131,7 +131,7 @@
       "aiUse": "46308.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 303,
+        "totalImages": 285,
         "partial": true,
         "path": "./data/galleries/arcane-9444922da8.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1iiXhrAHmhp6ZFdb7KDVDSl-LnlHvAKcl&sz=w520"
@@ -19008,7 +19008,7 @@
       "preview": {
         "provider": "Archidekt",
         "sourceDeckName": "Outer Wilds",
-        "sourceUpdatedAt": "2026-08-14T20:28:34.019550Z",
+        "sourceUpdatedAt": "2026-10-20T23:20:01.825010Z",
         "totalCards": 100,
         "cards": [
           {
@@ -21467,7 +21467,7 @@
       "aiUse": "46207.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 74,
+        "totalImages": 80,
         "partial": false,
         "path": "./data/galleries/persona-5-joker-ed7321b4c3.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1dUp9t7V54lRZ_6mnuX2ohyk5g3BiqnWi&sz=w520"
@@ -30803,7 +30803,7 @@
             "manaCost": "{2}{W}{W}",
             "manaValue": 4.0,
             "typeLine": "Creature — Human Knight",
-            "image": "https://cards.scryfall.io/normal/front/8/c/8ca58965-1dfa-40ac-b6c8-f957167ff066.jpg?1783907125",
+            "image": "https://cards.scryfall.io/normal/front/8/c/8ca58965-1dfa-40ac-b6c8-f957167ff066.jpg?1792505964",
             "set": "TDC",
             "collectorNumber": "119"
           },
