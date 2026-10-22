@@ -131,7 +131,7 @@
       "aiUse": "46308.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 285,
+        "totalImages": 303,
         "partial": true,
         "path": "./data/galleries/arcane-9444922da8.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1iiXhrAHmhp6ZFdb7KDVDSl-LnlHvAKcl&sz=w520"
@@ -6200,7 +6200,7 @@
       "aiUse": "46207.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 157,
+        "totalImages": 79,
         "partial": false,
         "path": "./data/galleries/final-fantasy-dc115b27c4.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1ngU56sQJ7xksi_VQ7OpbZE4zA1-44Aj4&sz=w520"
@@ -33747,10 +33747,10 @@
       "aiUse": "46207.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 151,
+        "totalImages": 143,
         "partial": false,
         "path": "./data/galleries/world-of-warcraft-the-lich-king-afc62fab49.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1yDERrGEZRFM6Ilewfx1s6Ahhk0UchZte&sz=w520"
+        "coverImage": "https://drive.google.com/thumbnail?id=1ZaZ176mpy5MyktQn8_epJn078k5GYblF&sz=w520"
       }
     },
     {
