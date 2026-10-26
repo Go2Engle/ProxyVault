@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "fate-vn-full-art-lands-88ccfad37a",
+    "umamusume-full-art-lands-9d32ef271f",
     "arcane-9444922da8",
     "code-geass-cc40bce6a9",
     "elden-ring-7fc80e35f8",
-    "star-trek-lower-decks-df89a5b24d",
-    "wolverine-marvel-2261b29642",
-    "yu-gi-oh-dragons-2085ae4272"
+    "star-trek-lower-decks-df89a5b24d"
   ],
   "decks": [
     {
@@ -33862,6 +33862,24 @@
       }
     },
     {
+      "id": "fate-vn-full-art-lands-88ccfad37a",
+      "kind": "collection",
+      "theme": "Fate VN (Full Art Lands)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/86592998ee"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "firebringeraxel",
+        "url": "https://www.reddit.com/r/mpcproxies/s/r6ulLQRGtS"
+      },
+      "notes": "Basics (inc. Wastes) and couple of commander staples"
+    },
+    {
       "id": "final-fantasy-scions-spellcraft-precon-upgrades-db56262bad",
       "kind": "collection",
       "theme": "Final Fantasy (Scions & Spellcraft Precon Upgrades)",
@@ -33903,6 +33921,49 @@
         "url": "https://www.reddit.com/r/mpcproxies/s/GCoJltlUd9"
       },
       "notes": "Allows for multiple Dandân/Nick Floyd variants"
+    },
+    {
+      "id": "fractal-art-basic-lands-a3afa59b40",
+      "kind": "collection",
+      "theme": "Fractal Art (Basic Lands)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1ek2wYA3VmmMKQQfz10I18JdrBVwuK0Tm?usp=drive_link"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Speedster2814",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1vdytem/artist_series_logan_apple_thoughtweaver_fractal/"
+      },
+      "notes": "Includes Wastes",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 24,
+        "partial": false,
+        "path": "./data/galleries/fractal-art-basic-lands-a3afa59b40.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1MVCYEwK2gbCzpbsUEQ1Yiqp3B-nn09d9&sz=w520"
+      }
+    },
+    {
+      "id": "japanese-mystical-archive-basic-lands-1edab5707f",
+      "kind": "collection",
+      "theme": "Japanese Mystical Archive (Basic Lands)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/4b61329474"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "firebringeraxel",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1wheidm/japanese_mystic_archive_style_full_art_basic_land/"
+      },
+      "notes": "Includes Wastes"
     },
     {
       "id": "pok-mon-basic-lands-cd0d8e384a",
@@ -33980,37 +34041,12 @@
       }
     },
     {
-      "id": "fractal-art-basic-lands-a3afa59b40",
+      "id": "umamusume-full-art-lands-9d32ef271f",
       "kind": "collection",
-      "theme": "Fractal Art (Basic Lands)",
-      "deckSource": {
-        "label": "Google Drive",
-        "url": "https://drive.google.com/drive/folders/1ek2wYA3VmmMKQQfz10I18JdrBVwuK0Tm?usp=drive_link"
-      },
-      "decklist": {
-        "label": "",
-        "url": ""
-      },
-      "creator": {
-        "label": "Speedster2814",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1vdytem/artist_series_logan_apple_thoughtweaver_fractal/"
-      },
-      "notes": "Includes Wastes",
-      "customGallery": {
-        "provider": "Google Drive",
-        "totalImages": 24,
-        "partial": false,
-        "path": "./data/galleries/fractal-art-basic-lands-a3afa59b40.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1MVCYEwK2gbCzpbsUEQ1Yiqp3B-nn09d9&sz=w520"
-      }
-    },
-    {
-      "id": "japanese-mystical-archive-basic-lands-1edab5707f",
-      "kind": "collection",
-      "theme": "Japanese Mystical Archive (Basic Lands)",
+      "theme": "Umamusume (Full Art Lands)",
       "deckSource": {
         "label": "Ko-Fi",
-        "url": "https://ko-fi.com/s/4b61329474"
+        "url": "https://ko-fi.com/s/db74823f94"
       },
       "decklist": {
         "label": "",
@@ -34018,9 +34054,9 @@
       },
       "creator": {
         "label": "firebringeraxel",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1wheidm/japanese_mystic_archive_style_full_art_basic_land/"
+        "url": "https://www.reddit.com/r/mpcproxies/s/EVpBRoSoJF"
       },
-      "notes": ""
+      "notes": "Basics (inc. Wastes & Snows), Duals, and couple of commander staples"
     }
   ]
 }
