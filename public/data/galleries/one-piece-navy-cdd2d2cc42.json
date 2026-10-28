@@ -1,6 +1,6 @@
 {
   "provider": "Google Drive",
-  "totalImages": 236,
+  "totalImages": 235,
   "partial": false,
   "images": [
     {
@@ -16,13 +16,6 @@
       "image": "https://drive.google.com/thumbnail?id=1Q0ty8wIqGG4mOEKZ-IzwvlMW5N4YHLtp&sz=w1600",
       "thumbnail": "https://drive.google.com/thumbnail?id=1Q0ty8wIqGG4mOEKZ-IzwvlMW5N4YHLtp&sz=w520",
       "sourceUrl": "https://drive.google.com/file/d/1Q0ty8wIqGG4mOEKZ-IzwvlMW5N4YHLtp/view"
-    },
-    {
-      "id": "1_WGHjUkRgvk8mlAAREHabcu-tYB5n2kI",
-      "name": "Fellwar Stone.png",
-      "image": "https://drive.google.com/thumbnail?id=1_WGHjUkRgvk8mlAAREHabcu-tYB5n2kI&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1_WGHjUkRgvk8mlAAREHabcu-tYB5n2kI&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1_WGHjUkRgvk8mlAAREHabcu-tYB5n2kI/view"
     },
     {
       "id": "1Sd22A58ECxBe4JfxQpq3wOtcCBfU8U0R",
