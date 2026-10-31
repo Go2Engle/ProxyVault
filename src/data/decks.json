@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "grand-theft-auto-vi-218c3a1f57",
     "fate-vn-full-art-lands-88ccfad37a",
     "umamusume-full-art-lands-9d32ef271f",
     "arcane-9444922da8",
     "code-geass-cc40bce6a9",
-    "elden-ring-7fc80e35f8",
-    "star-trek-lower-decks-df89a5b24d"
+    "elden-ring-7fc80e35f8"
   ],
   "decks": [
     {
@@ -10397,6 +10397,33 @@
         "partial": false,
         "path": "./data/galleries/game-of-thrones-house-greyjoy-dc0e0c0f92.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1UjwV8Emymmz4Q4f4MZrED2pzxUHU5-H3&sz=w520"
+      }
+    },
+    {
+      "id": "grand-theft-auto-vi-218c3a1f57",
+      "kind": "deck",
+      "theme": "Grand Theft Auto VI",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1gLVjRWQ6FyDogAi0nysu1HbSxdBGZ3Xd?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/6auK-HLf7UmKKMPPHtIyAg"
+      },
+      "creator": {
+        "label": "Decstarr",
+        "url": "https://www.reddit.com/r/magicproxies/s/6F7ZtvyZUz"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Marchesa - Control, Crimes (Grixis)",
+      "aiUse": "",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 55,
+        "partial": false,
+        "path": "./data/galleries/grand-theft-auto-vi-218c3a1f57.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1DUp5qnpIWWvXZuyzMfIiU_NAsvpCRcLK&sz=w520"
       }
     },
     {
@@ -29423,7 +29450,7 @@
       },
       "creator": {
         "label": "digiman619",
-        "url": ""
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1umv861/comment/ovfm173/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
       },
       "notes": "",
       "commanderArchetype": "Reyhan/Tymna - +1/+1 Counters, Lifegain (Abzan)",
