@@ -1,6 +1,6 @@
 {
   "provider": "Google Drive",
-  "totalImages": 218,
+  "totalImages": 219,
   "partial": false,
   "images": [
     {
@@ -100,6 +100,13 @@
       "image": "https://drive.google.com/thumbnail?id=13zEzhSQtB50n-Q65mlnNqnODIde6Yn8Q&sz=w1600",
       "thumbnail": "https://drive.google.com/thumbnail?id=13zEzhSQtB50n-Q65mlnNqnODIde6Yn8Q&sz=w520",
       "sourceUrl": "https://drive.google.com/file/d/13zEzhSQtB50n-Q65mlnNqnODIde6Yn8Q/view"
+    },
+    {
+      "id": "1VEyYuriOmF9EubWOOrNO5IfdZcH3Wu7U",
+      "name": "Thought Vessel (Giant Hand).jpeg",
+      "image": "https://drive.google.com/thumbnail?id=1VEyYuriOmF9EubWOOrNO5IfdZcH3Wu7U&sz=w1600",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1VEyYuriOmF9EubWOOrNO5IfdZcH3Wu7U&sz=w520",
+      "sourceUrl": "https://drive.google.com/file/d/1VEyYuriOmF9EubWOOrNO5IfdZcH3Wu7U/view"
     },
     {
       "id": "1F6qHOcIuOYdOjROZWWBublVPLN_wtJTc",
