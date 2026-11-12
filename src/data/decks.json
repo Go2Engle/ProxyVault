@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
-    "grand-theft-auto-vi-218c3a1f57",
-    "fate-vn-full-art-lands-88ccfad37a",
-    "umamusume-full-art-lands-9d32ef271f",
-    "arcane-9444922da8",
-    "code-geass-cc40bce6a9",
-    "elden-ring-7fc80e35f8"
+    "cyberpunk-2077-5a73a9ab4e",
+    "dragonball-z-b576b0c1d8",
+    "fate-grand-order-b9c78ef17f",
+    "fate-stay-night-unlimited-blade-works-3bcaa500c4",
+    "jujutsu-kaisen-f1126e40a0",
+    "teenage-mutant-ninja-turtles-cf6a673dd1"
   ],
   "decks": [
     {
@@ -3179,6 +3179,33 @@
       }
     },
     {
+      "id": "cyberpunk-2077-5a73a9ab4e",
+      "kind": "deck",
+      "theme": "Cyberpunk 2077",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1IcU3cFnesyQspDKbnqi6ke-JdYSDbWFp?usp=sharing"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/SHQBl10NF06_gz1jciTBOg"
+      },
+      "creator": {
+        "label": "NotQuiteSolidSnake",
+        "url": "https://www.reddit.com/r/mpcproxies/s/ZKWi9vYugH"
+      },
+      "notes": "Tokens, Alt Arts",
+      "commanderArchetype": "Obeka - Upkeeps, Voltron (Grixis)",
+      "aiUse": "46337.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 154,
+        "partial": false,
+        "path": "./data/galleries/cyberpunk-2077-5a73a9ab4e.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1D-qxbzh_jM1WEeu6Q4npWjWyP4ZIwXDI&sz=w520"
+      }
+    },
+    {
       "id": "dark-souls-chosen-undead-a1904cef81",
       "kind": "deck",
       "theme": "Dark Souls (Chosen Undead)",
@@ -4561,6 +4588,33 @@
         "partial": false,
         "path": "./data/galleries/disney-princesses-f16c6879e1.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1-cy-rU0rDU7wW_2Og3jQPLbmKDz2U4pk&sz=w520"
+      }
+    },
+    {
+      "id": "dragonball-z-b576b0c1d8",
+      "kind": "deck",
+      "theme": "Dragonball Z",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1fMvkXEe_7Fw7-kfpEN-VeeHMQKRcEQbs"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/EC-nU6Sh30mAwyANhFMA4Q"
+      },
+      "creator": {
+        "label": "MeowMix883",
+        "url": "https://www.reddit.com/r/mpcproxies/s/e6jmQ526Bh"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Breya - Artifacts (WUBR)",
+      "aiUse": "46337.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 192,
+        "partial": false,
+        "path": "./data/galleries/dragonball-z-b576b0c1d8.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1uI__v65IsC0V3D4kMhtgd2DGuKvu7lWT&sz=w520"
       }
     },
     {
@@ -6178,6 +6232,53 @@
         "path": "./data/galleries/fallout-1cc2dd7c2a.json",
         "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/9b8fe1b1-b111-44cb-bf15-c86d5d850227_thegitrogravenousride.png"
       }
+    },
+    {
+      "id": "fate-grand-order-b9c78ef17f",
+      "kind": "deck",
+      "theme": "Fate/Grand Order",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1F_zTCxiu5IyPCS3ipduPIni52ZM-9fLp?usp=sharing"
+      },
+      "decklist": {
+        "label": "",
+        "url": ""
+      },
+      "creator": {
+        "label": "Static_Citizen",
+        "url": "https://www.reddit.com/r/mpcproxies/s/U4bTCkS4Re"
+      },
+      "notes": "Fair warning from the creator, the art is pretty spicy/waifu-centric. Card Back, Tokens, Sideboard",
+      "commanderArchetype": "Commodore Guff - Superfriends (Jeskai)",
+      "aiUse": "46337.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 89,
+        "partial": false,
+        "path": "./data/galleries/fate-grand-order-b9c78ef17f.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1_AOLFzs8N1K2IXZFSJWLVdSHgzpn5Q5P&sz=w520"
+      }
+    },
+    {
+      "id": "fate-stay-night-unlimited-blade-works-3bcaa500c4",
+      "kind": "deck",
+      "theme": "Fate/Stay Night Unlimited Blade Works",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/df6d864d53"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/ifxDf2qWFU-5VFkdaeonvA"
+      },
+      "creator": {
+        "label": "Firebringeraxel",
+        "url": "https://www.reddit.com/r/mpcproxies/s/vG7yXrJhst"
+      },
+      "notes": "Tokens, Sideboard, Alt Arts",
+      "commanderArchetype": "Nahiri - Equipment, Tokens (Boros)",
+      "aiUse": "46337.0"
     },
     {
       "id": "final-fantasy-dc115b27c4",
@@ -12853,6 +12954,26 @@
         "path": "./data/galleries/jojo-s-bizarre-adventure-stone-ocean-a9088a508f.json",
         "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/c97a7773-79ea-466e-8930-611ec6e6f8cf_uril,themiststalkerfatherpucci.png"
       }
+    },
+    {
+      "id": "jujutsu-kaisen-f1126e40a0",
+      "kind": "deck",
+      "theme": "Jujutsu Kaisen",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/ec000bc343"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/LnHeTO6GX0CuHT1QEZSy9Q"
+      },
+      "creator": {
+        "label": "Ken_kid_789",
+        "url": "https://www.reddit.com/r/mpcproxies/s/m5ikTHo3f3"
+      },
+      "notes": "",
+      "commanderArchetype": "Narset - Spellslinger, Tokens (Jeskai)",
+      "aiUse": "46337.0"
     },
     {
       "id": "k-pop-demon-hunters-huntr-x-8a224c0f93",
@@ -30625,6 +30746,26 @@
         "path": "./data/galleries/teenage-mutant-ninja-turtles-d1a5c8ae24.json",
         "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/4be2bfdc-2ed0-4e91-8259-e03557fc0cfa_promomainpage.png"
       }
+    },
+    {
+      "id": "teenage-mutant-ninja-turtles-cf6a673dd1",
+      "kind": "deck",
+      "theme": "Teenage Mutant Ninja Turtles",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/9b139a7bb0"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/Ougf8dSBS02h8_agBTE4EQ"
+      },
+      "creator": {
+        "label": "DiceEmporiumGaming",
+        "url": "https://www.reddit.com/r/mpcproxies/s/xjLJMUrjo6"
+      },
+      "notes": "Decklist contains a playtest card but many alternate options are given to replace it. Tokens",
+      "commanderArchetype": "Leonardo/April - Ninja Typal, Tokens (WUBRG)",
+      "aiUse": "46337.0"
     },
     {
       "id": "the-last-of-us-f1794350d7",
