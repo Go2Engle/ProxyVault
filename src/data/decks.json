@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "hades-ii-melino-b08bfb4a4f",
     "cyberpunk-2077-5a73a9ab4e",
     "dragonball-z-b576b0c1d8",
     "fate-grand-order-b9c78ef17f",
     "fate-stay-night-unlimited-blade-works-3bcaa500c4",
-    "jujutsu-kaisen-f1126e40a0",
-    "teenage-mutant-ninja-turtles-cf6a673dd1"
+    "jujutsu-kaisen-f1126e40a0"
   ],
   "decks": [
     {
@@ -10552,6 +10552,33 @@
         "partial": true,
         "path": "./data/galleries/hades-melino-cd16b820ec.json",
         "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/d5b56b0c-513b-4c39-b88b-1159b533ec0f_shop-common.jpg"
+      }
+    },
+    {
+      "id": "hades-ii-melino-b08bfb4a4f",
+      "kind": "deck",
+      "theme": "Hades II (Melinoë)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1s7TcN6Lkswj2WF006ZSRI_bToLs8HyHB?usp=drive_link"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/MjPwQUFnYEi2QzzczuoEgw"
+      },
+      "creator": {
+        "label": "Decstarr",
+        "url": "https://www.reddit.com/r/magicproxies/s/8qr8Tn4MWt"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Anikthea - Enchantress (Abzan)",
+      "aiUse": "46344.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 79,
+        "partial": false,
+        "path": "./data/galleries/hades-ii-melino-b08bfb4a4f.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1EItI9zfdlvT0QR6dCBflCSI-1Onie1v9&sz=w520"
       }
     },
     {
@@ -33385,7 +33412,7 @@
             "manaCost": "",
             "manaValue": 0.0,
             "typeLine": "Legendary Land",
-            "image": "https://cards.scryfall.io/normal/front/8/3/83a86763-c3fe-4cff-8b65-22cb329d112c.jpg?1783925167",
+            "image": "https://cards.scryfall.io/normal/front/8/3/83a86763-c3fe-4cff-8b65-22cb329d112c.jpg?1795011507",
             "set": "SLD",
             "collectorNumber": "609"
           },
@@ -33942,7 +33969,7 @@
       "aiUse": "46308.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 303,
+        "totalImages": 301,
         "partial": true,
         "path": "./data/galleries/yu-gi-oh-dragons-2085ae4272.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1iiXhrAHmhp6ZFdb7KDVDSl-LnlHvAKcl&sz=w520"

@@ -1,6 +1,6 @@
 {
   "provider": "Google Drive",
-  "totalImages": 303,
+  "totalImages": 301,
   "partial": true,
   "images": [
     {
@@ -387,20 +387,6 @@
       "image": "https://drive.google.com/thumbnail?id=1f-L5ZxWkWrRgK1S7j7HIGVkdpXdqExbK&sz=w1600",
       "thumbnail": "https://drive.google.com/thumbnail?id=1f-L5ZxWkWrRgK1S7j7HIGVkdpXdqExbK&sz=w520",
       "sourceUrl": "https://drive.google.com/file/d/1f-L5ZxWkWrRgK1S7j7HIGVkdpXdqExbK/view"
-    },
-    {
-      "id": "1li6aHe8NiujmIkXsxvwngQcWUg4N3Y06",
-      "name": "Spitfire Bastion (The Last Drop (Present)).png",
-      "image": "https://drive.google.com/thumbnail?id=1li6aHe8NiujmIkXsxvwngQcWUg4N3Y06&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1li6aHe8NiujmIkXsxvwngQcWUg4N3Y06&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1li6aHe8NiujmIkXsxvwngQcWUg4N3Y06/view"
-    },
-    {
-      "id": "1M38wfOYRLAw6MBLOdC1HmZWj72KDt_vG",
-      "name": "Vance’s Blasting Cannons (The Last Drop (Past)).png",
-      "image": "https://drive.google.com/thumbnail?id=1M38wfOYRLAw6MBLOdC1HmZWj72KDt_vG&sz=w1600",
-      "thumbnail": "https://drive.google.com/thumbnail?id=1M38wfOYRLAw6MBLOdC1HmZWj72KDt_vG&sz=w520",
-      "sourceUrl": "https://drive.google.com/file/d/1M38wfOYRLAw6MBLOdC1HmZWj72KDt_vG/view"
     },
     {
       "id": "1xxhykFtHlNUtP_QCzlcGRxryQy8njJuN",
