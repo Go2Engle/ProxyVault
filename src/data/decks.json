@@ -10575,7 +10575,7 @@
       "aiUse": "46344.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 79,
+        "totalImages": 110,
         "partial": false,
         "path": "./data/galleries/hades-ii-melino-b08bfb4a4f.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1EItI9zfdlvT0QR6dCBflCSI-1Onie1v9&sz=w520"
@@ -33969,7 +33969,7 @@
       "aiUse": "46308.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 301,
+        "totalImages": 303,
         "partial": true,
         "path": "./data/galleries/yu-gi-oh-dragons-2085ae4272.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1iiXhrAHmhp6ZFdb7KDVDSl-LnlHvAKcl&sz=w520"
