@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
-    "hades-ii-melino-b08bfb4a4f",
-    "cyberpunk-2077-5a73a9ab4e",
-    "dragonball-z-b576b0c1d8",
-    "fate-grand-order-b9c78ef17f",
-    "fate-stay-night-unlimited-blade-works-3bcaa500c4",
-    "jujutsu-kaisen-f1126e40a0"
+    "final-fantasy-monsters-81604c9de5",
+    "final-fantasy-monsters-fbe772f9b3",
+    "final-fantasy-989ab58f27",
+    "the-legend-of-zelda-b5559316ed",
+    "the-legend-of-zelda-ddf6695b73",
+    "the-legend-of-zelda-ocarina-of-time-7865926aef"
   ],
   "decks": [
     {
@@ -6308,9 +6308,9 @@
       }
     },
     {
-      "id": "final-fantasy-monsters-w-lann-reynn-f842989c49",
+      "id": "final-fantasy-monsters-81604c9de5",
       "kind": "deck",
-      "theme": "Final Fantasy (Monsters w/Lann/Reynn)",
+      "theme": "Final Fantasy (Monsters)",
       "deckSource": {
         "label": "Google Drive",
         "url": "https://drive.google.com/drive/folders/1pvXEBtxyUZ-NfqyzCEMW40oASbOmQpcq"
@@ -6330,14 +6330,14 @@
         "provider": "Google Drive",
         "totalImages": 215,
         "partial": false,
-        "path": "./data/galleries/final-fantasy-monsters-w-lann-reynn-f842989c49.json",
+        "path": "./data/galleries/final-fantasy-monsters-81604c9de5.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1QYIPcJPjx6UwCJymqqxMTdfnWinOXhNM&sz=w520"
       }
     },
     {
-      "id": "final-fantasy-monsters-w-lunafreya-0b93a387ab",
+      "id": "final-fantasy-monsters-fbe772f9b3",
       "kind": "deck",
-      "theme": "Final Fantasy (Monsters w/Lunafreya)",
+      "theme": "Final Fantasy (Monsters)",
       "deckSource": {
         "label": "Google Drive",
         "url": "https://drive.google.com/drive/folders/10W0rH38Su9s1Bm1zsNPTYadMXG_EejBA"
@@ -6357,14 +6357,14 @@
         "provider": "Google Drive",
         "totalImages": 215,
         "partial": false,
-        "path": "./data/galleries/final-fantasy-monsters-w-lunafreya-0b93a387ab.json",
+        "path": "./data/galleries/final-fantasy-monsters-fbe772f9b3.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1XRbwGQNewHmnMsNIpAltjtilO6-r9Ks4&sz=w520"
       }
     },
     {
-      "id": "final-fantasy-tifa-20c13f76f2",
+      "id": "final-fantasy-989ab58f27",
       "kind": "deck",
-      "theme": "Final Fantasy (Tifa)",
+      "theme": "Final Fantasy",
       "deckSource": {
         "label": "Google Drive",
         "url": "https://drive.google.com/drive/folders/1rMF-y5LjKHDc6xrmc4y-sprVngMPhwsJ"
@@ -6384,7 +6384,7 @@
         "provider": "Google Drive",
         "totalImages": 191,
         "partial": false,
-        "path": "./data/galleries/final-fantasy-tifa-20c13f76f2.json",
+        "path": "./data/galleries/final-fantasy-989ab58f27.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1GhdtOkp-Oxuxws9GUppQqTv5VNNtu9bO&sz=w520"
       }
     },
@@ -30822,9 +30822,9 @@
       }
     },
     {
-      "id": "the-legend-of-zelda-link-zelda-88c4ce9b4a",
+      "id": "the-legend-of-zelda-b5559316ed",
       "kind": "deck",
-      "theme": "The Legend of Zelda (Link/Zelda)",
+      "theme": "The Legend of Zelda",
       "deckSource": {
         "label": "Google Drive",
         "url": "https://drive.google.com/drive/folders/1_cmt5u0p0retWMlmads4K2LSy_n0Dlnc"
@@ -31932,14 +31932,14 @@
         "provider": "Google Drive",
         "totalImages": 50,
         "partial": false,
-        "path": "./data/galleries/the-legend-of-zelda-link-zelda-88c4ce9b4a.json",
+        "path": "./data/galleries/the-legend-of-zelda-b5559316ed.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1Z-LpiLg33uY_5xOUpq8zyUaAjZNMh6OE&sz=w520"
       }
     },
     {
-      "id": "the-legend-of-zelda-zelda-e4e0acf385",
+      "id": "the-legend-of-zelda-ddf6695b73",
       "kind": "deck",
-      "theme": "The Legend of Zelda (Zelda)",
+      "theme": "The Legend of Zelda",
       "deckSource": {
         "label": "Google Drive",
         "url": "https://ko-fi.com/s/8d0bca8dbc"
@@ -31959,9 +31959,29 @@
         "provider": "Ko-fi",
         "totalImages": 1,
         "partial": true,
-        "path": "./data/galleries/the-legend-of-zelda-zelda-e4e0acf385.json",
+        "path": "./data/galleries/the-legend-of-zelda-ddf6695b73.json",
         "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/5bedb4e7-ab81-4680-814a-5f3e61f9013c_basic.png"
       }
+    },
+    {
+      "id": "the-legend-of-zelda-ocarina-of-time-7865926aef",
+      "kind": "deck",
+      "theme": "The Legend of Zelda: Ocarina of Time",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/1959d66216"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/R3Y4VtkiUUKuv9ySBgN8uw"
+      },
+      "creator": {
+        "label": "nitronik.exe",
+        "url": "https://www.reddit.com/r/mpcproxies/s/wPgnThJ6rb"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Hei Bai - Shrines (WUBRG)",
+      "aiUse": "46348.0"
     },
     {
       "id": "the-matrix-e299fc6c0a",
