@@ -1,12 +1,12 @@
 {
   "source": "https://docs.google.com/spreadsheets/d/1jkYdBdhP5s6yOirrgTSbBF9Qr1fum1-2gHOxNQCzFC4/edit?gid=0#gid=0",
   "newlyAdded": [
+    "lord-of-the-rings-f5c924cac4",
     "final-fantasy-monsters-81604c9de5",
     "final-fantasy-monsters-fbe772f9b3",
     "final-fantasy-989ab58f27",
     "the-legend-of-zelda-b5559316ed",
-    "the-legend-of-zelda-ddf6695b73",
-    "the-legend-of-zelda-ocarina-of-time-7865926aef"
+    "the-legend-of-zelda-ddf6695b73"
   ],
   "decks": [
     {
@@ -14551,6 +14551,26 @@
         "path": "./data/galleries/loop-hero-50f9475d74.json",
         "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/5e349a93-a857-490d-977d-8ca9fcbdb263_lh_sc_larvaedition.png"
       }
+    },
+    {
+      "id": "lord-of-the-rings-f5c924cac4",
+      "kind": "deck",
+      "theme": "Lord of the Rings",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/5d2b580faf"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/ny2tN1WVX0Kqsqh_gNgKRA"
+      },
+      "creator": {
+        "label": "DiceEmporiumGaming",
+        "url": "https://www.reddit.com/r/mpcproxies/s/yfVv92QPNB"
+      },
+      "notes": "Many sideboard options, including Merry/Pippin as alt commanders",
+      "commanderArchetype": "Frodo/Sam - Food, Lifegain (Abzan)",
+      "aiUse": "46350.0"
     },
     {
       "id": "lovecraft-mythos-king-in-yellow-e142ff8681",
