@@ -6308,6 +6308,33 @@
       }
     },
     {
+      "id": "final-fantasy-989ab58f27",
+      "kind": "deck",
+      "theme": "Final Fantasy",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/1rMF-y5LjKHDc6xrmc4y-sprVngMPhwsJ"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/bmhefYg7f0WE6R_d59YxPw"
+      },
+      "creator": {
+        "label": "Speedster2814",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1rbw57z/full_final_fantasy_edhcommander_deck_tifa_martial/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Tifa - Extra Combats (Naya)",
+      "aiUse": "46207.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 191,
+        "partial": false,
+        "path": "./data/galleries/final-fantasy-989ab58f27.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1GhdtOkp-Oxuxws9GUppQqTv5VNNtu9bO&sz=w520"
+      }
+    },
+    {
       "id": "final-fantasy-monsters-81604c9de5",
       "kind": "deck",
       "theme": "Final Fantasy (Monsters)",
@@ -6359,33 +6386,6 @@
         "partial": false,
         "path": "./data/galleries/final-fantasy-monsters-fbe772f9b3.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1XRbwGQNewHmnMsNIpAltjtilO6-r9Ks4&sz=w520"
-      }
-    },
-    {
-      "id": "final-fantasy-989ab58f27",
-      "kind": "deck",
-      "theme": "Final Fantasy",
-      "deckSource": {
-        "label": "Google Drive",
-        "url": "https://drive.google.com/drive/folders/1rMF-y5LjKHDc6xrmc4y-sprVngMPhwsJ"
-      },
-      "decklist": {
-        "label": "Moxfield",
-        "url": "https://moxfield.com/decks/bmhefYg7f0WE6R_d59YxPw"
-      },
-      "creator": {
-        "label": "Speedster2814",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1rbw57z/full_final_fantasy_edhcommander_deck_tifa_martial/"
-      },
-      "notes": "Card Back, Tokens",
-      "commanderArchetype": "Tifa - Extra Combats (Naya)",
-      "aiUse": "46207.0",
-      "customGallery": {
-        "provider": "Google Drive",
-        "totalImages": 191,
-        "partial": false,
-        "path": "./data/galleries/final-fantasy-989ab58f27.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1GhdtOkp-Oxuxws9GUppQqTv5VNNtu9bO&sz=w520"
       }
     },
     {
@@ -7713,33 +7713,6 @@
       }
     },
     {
-      "id": "game-of-thrones-aegon-11651729d2",
-      "kind": "deck",
-      "theme": "Game of Thrones (Aegon)",
-      "deckSource": {
-        "label": "Ko-Fi",
-        "url": "https://ko-fi.com/post/A-Game-of-Thrones-The-Long-Night-FULL-EDH-DECK-P5P3175W4P"
-      },
-      "decklist": {
-        "label": "Moxfield",
-        "url": "https://moxfield.com/decks/R7_G4guUHEGRKgzM-E4u3A"
-      },
-      "creator": {
-        "label": "Apbeco",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1h9hp91/a_game_of_thrones_the_long_night_full_edh_deck/"
-      },
-      "notes": "Card Back, Tokens",
-      "commanderArchetype": "Sidisi - Zombie Typal, Reanimator (Sultai)",
-      "aiUse": "46207.0",
-      "customGallery": {
-        "provider": "Ko-fi",
-        "totalImages": 1,
-        "partial": true,
-        "path": "./data/galleries/game-of-thrones-aegon-11651729d2.json",
-        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/3cfc451b-eb65-4af4-8000-64cde937caa5_screenshot2024-12-08120849.png"
-      }
-    },
-    {
       "id": "game-of-thrones-aegon-dorne-bf373acae3",
       "kind": "deck",
       "theme": "Game of Thrones (Aegon & Dorne)",
@@ -7764,6 +7737,33 @@
         "partial": false,
         "path": "./data/galleries/game-of-thrones-aegon-dorne-bf373acae3.json",
         "coverImage": "https://drive.google.com/thumbnail?id=12Mx6KsrXLXx3F0c8J6eLMctZ874PrKyG&sz=w520"
+      }
+    },
+    {
+      "id": "game-of-thrones-aegon-11651729d2",
+      "kind": "deck",
+      "theme": "Game of Thrones (Aegon)",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/post/A-Game-of-Thrones-The-Long-Night-FULL-EDH-DECK-P5P3175W4P"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/R7_G4guUHEGRKgzM-E4u3A"
+      },
+      "creator": {
+        "label": "Apbeco",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1h9hp91/a_game_of_thrones_the_long_night_full_edh_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Sidisi - Zombie Typal, Reanimator (Sultai)",
+      "aiUse": "46207.0",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 1,
+        "partial": true,
+        "path": "./data/galleries/game-of-thrones-aegon-11651729d2.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/3cfc451b-eb65-4af4-8000-64cde937caa5_screenshot2024-12-08120849.png"
       }
     },
     {
@@ -9131,6 +9131,33 @@
       }
     },
     {
+      "id": "game-of-thrones-house-greyjoy-dc0e0c0f92",
+      "kind": "deck",
+      "theme": "Game of Thrones (House Greyjoy)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/16lv_NcHB-uD7fQ6DPs_i7ReXh9DVX-rZ"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/fTfNNvtetUeTxJPIXn0MYQ"
+      },
+      "creator": {
+        "label": "PrimemevalTitan",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1v66hri/asoiafgot_edh_deck_house_greyjoy/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Edward Kenway - Pirate Typal (Grixis)",
+      "aiUse": "46234.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 51,
+        "partial": false,
+        "path": "./data/galleries/game-of-thrones-house-greyjoy-dc0e0c0f92.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1UjwV8Emymmz4Q4f4MZrED2pzxUHU5-H3&sz=w520"
+      }
+    },
+    {
       "id": "game-of-thrones-house-lannister-e5752d9376",
       "kind": "deck",
       "theme": "Game of Thrones (House Lannister)",
@@ -10471,33 +10498,6 @@
         "partial": false,
         "path": "./data/galleries/game-of-thrones-littlefinger-0a6d6ed402.json",
         "coverImage": "https://drive.google.com/thumbnail?id=187HqRcodYmi3VhfP3VJC3vBcPjzEC59-&sz=w520"
-      }
-    },
-    {
-      "id": "game-of-thrones-house-greyjoy-dc0e0c0f92",
-      "kind": "deck",
-      "theme": "Game of Thrones (House Greyjoy)",
-      "deckSource": {
-        "label": "Google Drive",
-        "url": "https://drive.google.com/drive/folders/16lv_NcHB-uD7fQ6DPs_i7ReXh9DVX-rZ"
-      },
-      "decklist": {
-        "label": "Moxfield",
-        "url": "https://moxfield.com/decks/fTfNNvtetUeTxJPIXn0MYQ"
-      },
-      "creator": {
-        "label": "PrimemevalTitan",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1v66hri/asoiafgot_edh_deck_house_greyjoy/"
-      },
-      "notes": "Tokens",
-      "commanderArchetype": "Edward Kenway - Pirate Typal (Grixis)",
-      "aiUse": "46234.0",
-      "customGallery": {
-        "provider": "Google Drive",
-        "totalImages": 51,
-        "partial": false,
-        "path": "./data/galleries/game-of-thrones-house-greyjoy-dc0e0c0f92.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1UjwV8Emymmz4Q4f4MZrED2pzxUHU5-H3&sz=w520"
       }
     },
     {
@@ -19101,30 +19101,30 @@
       "aiUse": "46296.0"
     },
     {
-      "id": "one-piece-navy-cdd2d2cc42",
+      "id": "one-piece-ce8c965dac",
       "kind": "deck",
-      "theme": "One Piece (Navy)",
+      "theme": "One Piece",
       "deckSource": {
         "label": "Google Drive",
-        "url": "https://drive.google.com/drive/folders/1Hm_-EQziX0pThLBnNo_RYaTKNj8mRzxu"
+        "url": "https://drive.google.com/drive/folders/1a2pK97y_dkoCyFyTU1Yv5vDFs-seP6gb"
       },
       "decklist": {
-        "label": "Moxfield",
-        "url": "https://moxfield.com/decks/fHRXkf5uP0GgDkZ8bajAZg"
+        "label": "",
+        "url": ""
       },
       "creator": {
-        "label": "KapS37",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1x1w2ww/one_piece_navy_deck/"
+        "label": "neurotic_code",
+        "url": ""
       },
-      "notes": "Card Back, Tokens",
-      "commanderArchetype": "Mathas - Control, IP Themed (Mardu)",
-      "aiUse": "46304.0",
+      "notes": "",
+      "commanderArchetype": "Beckett Brass - Pirate Typal (Grixis)",
+      "aiUse": "46207.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 235,
+        "totalImages": 100,
         "partial": false,
-        "path": "./data/galleries/one-piece-navy-cdd2d2cc42.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1-Bzzc3el75qLvL_4lzmFZQzipSsiaBB3&sz=w520"
+        "path": "./data/galleries/one-piece-ce8c965dac.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1vXc_BRAWmHoBlu3JhuzsOl7zQ71XlQAp&sz=w520"
       }
     },
     {
@@ -19155,30 +19155,30 @@
       }
     },
     {
-      "id": "one-piece-ce8c965dac",
+      "id": "one-piece-navy-cdd2d2cc42",
       "kind": "deck",
-      "theme": "One Piece",
+      "theme": "One Piece (Navy)",
       "deckSource": {
         "label": "Google Drive",
-        "url": "https://drive.google.com/drive/folders/1a2pK97y_dkoCyFyTU1Yv5vDFs-seP6gb"
+        "url": "https://drive.google.com/drive/folders/1Hm_-EQziX0pThLBnNo_RYaTKNj8mRzxu"
       },
       "decklist": {
-        "label": "",
-        "url": ""
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/fHRXkf5uP0GgDkZ8bajAZg"
       },
       "creator": {
-        "label": "neurotic_code",
-        "url": ""
+        "label": "KapS37",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1x1w2ww/one_piece_navy_deck/"
       },
-      "notes": "",
-      "commanderArchetype": "Beckett Brass - Pirate Typal (Grixis)",
-      "aiUse": "46207.0",
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Mathas - Control, IP Themed (Mardu)",
+      "aiUse": "46304.0",
       "customGallery": {
         "provider": "Google Drive",
-        "totalImages": 100,
+        "totalImages": 235,
         "partial": false,
-        "path": "./data/galleries/one-piece-ce8c965dac.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1vXc_BRAWmHoBlu3JhuzsOl7zQ71XlQAp&sz=w520"
+        "path": "./data/galleries/one-piece-navy-cdd2d2cc42.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1-Bzzc3el75qLvL_4lzmFZQzipSsiaBB3&sz=w520"
       }
     },
     {
@@ -21622,26 +21622,6 @@
       }
     },
     {
-      "id": "persona-5-royal-cde7a37a48",
-      "kind": "deck",
-      "theme": "Persona 5 Royal",
-      "deckSource": {
-        "label": "Ko-Fi",
-        "url": "https://ko-fi.com/s/9eb814d744"
-      },
-      "decklist": {
-        "label": "Tapped Out",
-        "url": "https://tappedout.net/mtg-decks/take-your-heart-3/"
-      },
-      "creator": {
-        "label": "Beespair",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1wh04k5/complete_persona_5_royal_edh_deck_take_your_heart/"
-      },
-      "notes": "Card Back, Tokens",
-      "commanderArchetype": "Terra - Enchantments, Summons (WUBRG)",
-      "aiUse": "46296.0"
-    },
-    {
       "id": "persona-5-joker-ed7321b4c3",
       "kind": "deck",
       "theme": "Persona 5 (Joker)",
@@ -21667,6 +21647,26 @@
         "path": "./data/galleries/persona-5-joker-ed7321b4c3.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1dUp9t7V54lRZ_6mnuX2ohyk5g3BiqnWi&sz=w520"
       }
+    },
+    {
+      "id": "persona-5-royal-cde7a37a48",
+      "kind": "deck",
+      "theme": "Persona 5 Royal",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/9eb814d744"
+      },
+      "decklist": {
+        "label": "Tapped Out",
+        "url": "https://tappedout.net/mtg-decks/take-your-heart-3/"
+      },
+      "creator": {
+        "label": "Beespair",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1wh04k5/complete_persona_5_royal_edh_deck_take_your_heart/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Terra - Enchantments, Summons (WUBRG)",
+      "aiUse": "46296.0"
     },
     {
       "id": "pixel-art-63a3b37852",
@@ -32031,6 +32031,33 @@
       }
     },
     {
+      "id": "the-witcher-07606e3463",
+      "kind": "deck",
+      "theme": "The Witcher",
+      "deckSource": {
+        "label": "Ko-Fi",
+        "url": "https://ko-fi.com/s/e98ec73f5f"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/afyGWjtsg0qbfww6dsSqxQ"
+      },
+      "creator": {
+        "label": "Rymotron",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1mrwb1t/full_edh_the_witcher_precon_treble_threat/"
+      },
+      "notes": "Tokens",
+      "commanderArchetype": "Tom Bombadil - Sagas (WUBRG)",
+      "aiUse": "46207.0",
+      "customGallery": {
+        "provider": "Ko-fi",
+        "totalImages": 8,
+        "partial": true,
+        "path": "./data/galleries/the-witcher-07606e3463.json",
+        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/b3c9d523-3164-4d51-b498-085486e499f2_cover.png"
+      }
+    },
+    {
       "id": "the-witcher-monsters-a3ae4c541e",
       "kind": "deck",
       "theme": "The Witcher (Monsters)",
@@ -32082,33 +32109,6 @@
         "partial": false,
         "path": "./data/galleries/the-witcher-witchers-f12b91a2d8.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1m5LrRD_lXnPScSi60QuOmaJ3vksNkTvI&sz=w520"
-      }
-    },
-    {
-      "id": "the-witcher-07606e3463",
-      "kind": "deck",
-      "theme": "The Witcher",
-      "deckSource": {
-        "label": "Ko-Fi",
-        "url": "https://ko-fi.com/s/e98ec73f5f"
-      },
-      "decklist": {
-        "label": "Moxfield",
-        "url": "https://moxfield.com/decks/afyGWjtsg0qbfww6dsSqxQ"
-      },
-      "creator": {
-        "label": "Rymotron",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1mrwb1t/full_edh_the_witcher_precon_treble_threat/"
-      },
-      "notes": "Tokens",
-      "commanderArchetype": "Tom Bombadil - Sagas (WUBRG)",
-      "aiUse": "46207.0",
-      "customGallery": {
-        "provider": "Ko-fi",
-        "totalImages": 8,
-        "partial": true,
-        "path": "./data/galleries/the-witcher-07606e3463.json",
-        "coverImage": "https://storage.ko-fi.com/cdn/useruploads/display/b3c9d523-3164-4d51-b498-085486e499f2_cover.png"
       }
     },
     {
@@ -33746,33 +33746,6 @@
       }
     },
     {
-      "id": "world-of-warcraft-night-elves-83ed58f688",
-      "kind": "deck",
-      "theme": "World of Warcraft (Night Elves)",
-      "deckSource": {
-        "label": "Google Drive",
-        "url": "https://drive.google.com/drive/folders/112JvSI4epPJf0ZdKvnpRMv4cEpNxClSR"
-      },
-      "decklist": {
-        "label": "Moxfield",
-        "url": "https://moxfield.com/decks/YQdtwgSypUWc6ZI-3oVv4w"
-      },
-      "creator": {
-        "label": "Havsglimt",
-        "url": "https://www.reddit.com/r/mpcproxies/comments/1pnhigj/complete_night_elf_warcraft_commander_deck/"
-      },
-      "notes": "Card Back, Tokens",
-      "commanderArchetype": "Lathril - Elf Typal (Golgari)",
-      "aiUse": "46207.0",
-      "customGallery": {
-        "provider": "Google Drive",
-        "totalImages": 132,
-        "partial": false,
-        "path": "./data/galleries/world-of-warcraft-night-elves-83ed58f688.json",
-        "coverImage": "https://drive.google.com/thumbnail?id=1s6NnhQ_5cI3p5-dlM9MuT9lb2aRKtCsO&sz=w520"
-      }
-    },
-    {
       "id": "world-of-warcraft-azshara-s-naga-c06bf86828",
       "kind": "deck",
       "theme": "World of Warcraft (Azshara's Naga)",
@@ -33878,6 +33851,33 @@
         "partial": false,
         "path": "./data/galleries/world-of-warcraft-humans-b438cd0f48.json",
         "coverImage": "https://drive.google.com/thumbnail?id=1fAcpU76DhMKADepghnGq3qBtOejaa5yI&sz=w520"
+      }
+    },
+    {
+      "id": "world-of-warcraft-night-elves-83ed58f688",
+      "kind": "deck",
+      "theme": "World of Warcraft (Night Elves)",
+      "deckSource": {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/drive/folders/112JvSI4epPJf0ZdKvnpRMv4cEpNxClSR"
+      },
+      "decklist": {
+        "label": "Moxfield",
+        "url": "https://moxfield.com/decks/YQdtwgSypUWc6ZI-3oVv4w"
+      },
+      "creator": {
+        "label": "Havsglimt",
+        "url": "https://www.reddit.com/r/mpcproxies/comments/1pnhigj/complete_night_elf_warcraft_commander_deck/"
+      },
+      "notes": "Card Back, Tokens",
+      "commanderArchetype": "Lathril - Elf Typal (Golgari)",
+      "aiUse": "46207.0",
+      "customGallery": {
+        "provider": "Google Drive",
+        "totalImages": 132,
+        "partial": false,
+        "path": "./data/galleries/world-of-warcraft-night-elves-83ed58f688.json",
+        "coverImage": "https://drive.google.com/thumbnail?id=1s6NnhQ_5cI3p5-dlM9MuT9lb2aRKtCsO&sz=w520"
       }
     },
     {
